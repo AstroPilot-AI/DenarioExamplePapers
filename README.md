@@ -1,10 +1,10 @@
 # Denario Example Papers
 
-This repository includes different AI-generated research papers with [Denario](https://github.com/AstroPilot-AI/Denario).
+This repository includes different AI-generated research papers with [Denario](https://github.com/AstroPilot-AI/Denario). Please refer to that repository for the source code used to generate these examples.
 
 ## Papers
 
-Here is a list of the current included example articles.
+Here is a list of the current example articles.
 
 ### Cosmology & Astrophysics
 
@@ -19,3 +19,11 @@ Here is a list of the current included example articles.
 - [Mapping the Diversity of the Black Hole-Stellar Mass Relation Across Cosmological and Feedback Parameter Space](papers/astro/Project5/Example.pdf)
 
 - [Mapping Star Formation Quenching Efficiency Across Feedback and Cosmological Parameter Space with CAMELS Simulations](papers/astro/Project6/Example.pdf)
+
+## Contributing
+
+If you generate an interesting article with [Denario](https://github.com/AstroPilot-AI/Denario) please feel free to open a pull request with the full project files (including code and latex files), and we will consider to include it among the current examples.
+
+## License
+
+To be chosen.
