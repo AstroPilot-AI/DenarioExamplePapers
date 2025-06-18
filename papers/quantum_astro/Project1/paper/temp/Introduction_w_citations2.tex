@@ -1,0 +1,21 @@
+\documentclass[twocolumn]{aastex631}
+
+\usepackage{amsmath}
+\usepackage{multirow}
+\usepackage{natbib}
+\usepackage{graphicx} 
+\usepackage{aas_macros}
+
+\begin{document}
+
+Understanding the formation history of dark matter halos is crucial for connecting the observed galaxy distribution to the underlying cosmological model. Cosmological merger trees, which trace the hierarchical assembly of these halos, offer a detailed record of their evolution. However, extracting useful information from these complex, graph-structured datasets presents a significant challenge. Traditional methods often rely on summary statistics of the entire tree or hand-engineered features based on physical intuition. These approaches struggle to capture the intricate relationships and local variations within the merger trees, limiting their predictive power for halo properties.
+
+While Graph Neural Networks (GNNs) offer a powerful alternative for learning representations directly from graph data, training GNNs on large merger tree datasets can be computationally expensive, especially when dealing with the high-resolution simulations needed for accurate modeling. Furthermore, the "black box" nature of GNNs often makes it difficult to interpret the learned features and understand the underlying physical processes driving halo evolution.
+
+To address these challenges, this paper introduces a novel approach to feature engineering on merger trees, leveraging Quantum Tensor Trains (QTT) to extract meaningful information from localized subgraphs. Our method focuses on capturing the local environment of nodes within the merger tree, specifically those along the main progenitor branch, which represents the primary lineage of the final halo. Instead of processing the entire tree at once, we extract small, k-hop subgraphs around these nodes, effectively capturing their immediate assembly history. We then apply QTT decomposition to the feature matrix of each subgraph, generating compressed feature vectors that encode the local environment. This allows us to exploit the power of tensor decomposition for feature extraction while maintaining computational tractability. The resulting QTT-informed subgraph features are then used as input to a simpler, more interpretable regression model, such as a Random Forest, to predict halo properties like the final halo mass at redshift \(z=0\). By focusing on local subgraphs and utilizing QTT for feature engineering, we aim to strike a balance between capturing relevant information and maintaining computational efficiency, all while avoiding the need for computationally expensive GNN training.
+
+To validate this approach, we implemented a pipeline for subgraph extraction, QTT-based feature engineering, and regression modeling.
+We utilized a dataset of merger trees in PyTorch Geometric format, extracted k-hop neighborhoods around nodes on the main progenitor branch, and applied QTT decomposition to the resulting feature matrices \citep{jespersen2022textttmangrovelearninggalaxyproperties,jung2024mergertreebasedgalaxymatching}. The QTT-derived features were subsequently used to train a Random Forest regressor to predict the final halo mass \citep{robles2022deeplearningapproachhalo,jespersen2022textttmangrovelearninggalaxyproperties,jung2024mergertreebasedgalaxymatching}. While we encountered challenges during subgraph extraction, which resulted in a significantly reduced effective sample size, we successfully demonstrated the functionality of the pipeline \citep{jung2024mergertreebasedgalaxymatching}. Despite the limited dataset, we observed promising in-sample predictive performance using the QTT-derived features \citep{jespersen2022textttmangrovelearninggalaxyproperties}. This work serves as a proof-of-concept, highlighting the potential of QTT-informed subgraph feature engineering for merger tree analysis \citep{jespersen2022textttmangrovelearninggalaxyproperties,jung2024mergertreebasedgalaxymatching}. It also identifies key challenges, particularly the need for a larger, more representative dataset, that must be addressed in future work to rigorously evaluate the generalizability and statistical significance of this approach \citep{jung2024mergertreebasedgalaxymatching}.
+
+\end{document}
+                

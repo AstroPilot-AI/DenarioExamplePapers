@@ -1,0 +1,30 @@
+{
+  "image0": {
+    "name": "feature_importances_qtt_k3_r2_18_20250524-175150.png",
+    "caption": "Feature importances derived from the random forest model trained on QTT features (k=3, rank=2) for predicting final halo mass, showing the varying contributions of individual QTT features despite their abstract nature and the limited sample size.\n\\"
+  },
+  "image1": {
+    "name": "pred_vs_true_qtt_k3_r2_16_20250524-175150.png",
+    "caption": "Scatter plot of predicted versus true final halo mass values using the QTT model with k=3 and rank=2. The model was trained and evaluated in-sample on N=5 trees, and the dashed line indicates perfect prediction.\n\\"
+  },
+  "image2": {
+    "name": "pred_vs_true_qtt_k1_r3_7_20250524-175150.png",
+    "caption": "Scatter plot of predicted vs. true values for final halo mass using QTT features (k=1, rank=3). The points represent the in-sample predictions for the N=5 trees, and the dashed line indicates perfect prediction. The clustering of points, while seemingly indicative of a relationship, should be interpreted cautiously due to the extremely small sample size.\n\\"
+  },
+  "image3": {
+    "name": "feature_importances_qtt_k2_r3_15_20250524-175150.png",
+    "caption": "Feature importances derived from a Random Forest model trained on QTT features (k=2, rank=3). The importances reflect the contribution of each QTT feature to the prediction of final halo mass, though with only 5 samples, the individual feature importances are not robust."
+  },
+  "image4": {
+    "name": "feature_dist_qtt_features_(k=1,_r=2)_2_20250524-175501.png",
+    "caption": "Distributions of the first 12 QTT features (k=1, rank=2) for the N=5 trees, colored by the target halo mass property. The abstract nature of these features makes direct physical interpretation difficult, but the model assigns varying importances to them for the prediction task.\n\\"
+  },
+  "image5": {
+    "name": "feature_importances_qtt_k1_r3_9_20250524-175150.png",
+    "caption": "Feature importances for QTT features (k=1, rank=3) extracted from Random Forest models, showing the distribution of importances across the abstract QTT features. The varying importances suggest that different components of the compressed QTT representation contribute differently to the prediction task, although the small sample size (N=5) limits the generalizability of these observations."
+  },
+  "image6": {
+    "name": "feature_importances_qtt_k3_r3_21_20250524-175150.png",
+    "caption": "Feature importances derived from the Random Forest model trained on QTT features with $k=3$ and rank=3. While the model assigns varying importances to different QTT features, their abstract nature makes direct physical interpretation challenging given the small sample size.\n\\"
+  }
+}

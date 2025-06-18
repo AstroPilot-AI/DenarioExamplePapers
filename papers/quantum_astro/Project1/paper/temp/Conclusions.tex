@@ -1,0 +1,22 @@
+\documentclass[twocolumn]{aastex631}
+
+\usepackage{amsmath}
+\usepackage{multirow}
+\usepackage{natbib}
+\usepackage{graphicx} 
+\usepackage{aas_macros}
+
+\begin{document}
+
+
+
+This paper introduces a novel approach to feature engineering for cosmological merger trees, aiming to predict final halo mass by leveraging Quantum Tensor Trains (QTT) to extract meaningful information from localized subgraphs. The challenge lies in effectively capturing the complex hierarchical assembly history encoded in merger trees, and this work proposes QTT-informed subgraph features as a potential solution.
+
+The methodology involves extracting k-hop subgraphs around nodes on the main progenitor branch of merger trees. Node features, including mass, concentration, \(v_{max}\), and scale factor, are preprocessed and then used to construct feature matrices for each subgraph. QTT decomposition is applied to these matrices to generate compressed feature vectors, which are then aggregated and used as input to a Random Forest regressor. The performance of the QTT-based features is compared against a baseline model using traditional aggregated features.
+
+Due to significant challenges encountered during subgraph extraction, the effective sample size was drastically reduced to only five merger trees. Consequently, while the QTT-derived features showed promising in-sample predictive performance on this limited dataset, with some configurations slightly outperforming the baseline, these results are not statistically significant or generalizable. The best performing QTT model, with \(k=1\) and rank 2, achieved an R-squared of 0.845, compared to 0.797 for the baseline model; however, these values are based on an extremely small sample size and should be interpreted with caution. Analysis of feature importances revealed that different components of the QTT representation contribute differently to the predictive task, although their physical interpretation remains challenging.
+
+The primary conclusion is that the QTT-informed subgraph feature engineering pipeline is functional and capable of generating features suitable for regression modeling. However, the severely limited dataset prevents any robust assessment of its generalizability or statistical significance. The high R-squared values observed should be considered preliminary and not indicative of a generally superior model. Key challenges remain in scaling the subgraph extraction process and validating the approach on larger, more representative datasets. Future work should focus on addressing these limitations to fully realize the potential of QTT for feature engineering in cosmological merger tree analysis.
+
+\end{document}
+                

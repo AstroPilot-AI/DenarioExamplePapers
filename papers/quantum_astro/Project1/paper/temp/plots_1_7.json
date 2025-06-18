@@ -1,0 +1,30 @@
+{
+  "image0": {
+    "name": "subgraph_vis_k1_idx0_5_20250524-175501.png",
+    "caption": "Visualization of a sample 1-hop subgraph from a merger tree, with nodes colored by their standardized log-mass. This plot illustrates the local environment around a main branch node, which is then processed by QTT to generate compressed features for predicting final halo mass.\n\\"
+  },
+  "image1": {
+    "name": "comparison_mse_22_20250524-175150.png",
+    "caption": "Comparison of Mean Squared Error (MSE) for final halo mass prediction using baseline features and QTT-derived features with varying k-hop neighborhood sizes and QTT ranks. The QTT model with k=1 and rank=2 achieves the lowest MSE on this dataset of N=5 trees.\n\\"
+  },
+  "image2": {
+    "name": "pred_vs_true_baseline_1_20250524-175150.png",
+    "caption": "Scatter plot of predicted versus true final halo mass values for the baseline model, evaluated on the N=5 trees. The dashed line represents perfect prediction. The clustering of points indicates that the baseline features capture some trend in the data, but due to the small sample size, the high R-squared value should be interpreted with caution.\n\\"
+  },
+  "image3": {
+    "name": "comparison_mae_23_20250524-175150.png",
+    "caption": "Comparison of Mean Absolute Error (MAE) for final halo mass prediction using baseline features and QTT-derived features with varying k-hop neighborhood sizes and QTT ranks. The results, based on an extremely small sample size (N=5), indicate that QTT features can achieve comparable MAE to the baseline, although these differences are not statistically significant."
+  },
+  "image4": {
+    "name": "feature_importances_baseline_3_20250524-175150.png",
+    "caption": "Feature importances for the baseline model, showing the relative importance of each feature in predicting final halo mass, though based on only N=5 samples."
+  },
+  "image5": {
+    "name": "feature_importances_qtt_k1_r2_6_20250524-175150.png",
+    "caption": "Feature importances derived from the Random Forest model trained on QTT features (k=1, rank=2) for predicting final halo mass, showing the relative contribution of each QTT feature. The varying importances suggest that different components of the compressed QTT representation contribute differently to the prediction task, although these importances are based on a limited sample size of N=5.\n\\"
+  },
+  "image6": {
+    "name": "pred_vs_true_qtt_k3_r3_19_20250524-175150.png",
+    "caption": "Scatter plot of predicted vs. true halo mass values using QTT features (k=3, rank=3) for the N=5 trees, with points lying close to the diagonal indicating good in-sample fit, though the small sample size limits generalizability.\n\\"
+  }
+}

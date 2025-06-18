@@ -1,0 +1,71 @@
+{
+    "sub_tasks": [
+        {
+            "bullet_points": [
+                "Load the merger tree dataset from the specified file using PyTorch.",
+                "Verify the integrity of the loaded data: check for missing, NaN, or inconsistent values in the node features across all trees.",
+                "Document any data issues found and how they are handled (e.g., imputation, removal).",
+                "Extract node features (mass, concentration, vmax, scale factor) for all trees.",
+                "Apply logarithmic transformation to mass and vmax.",
+                "Standardize all features (zero mean, unit variance) using statistics from the full dataset.",
+                "Save preprocessed data for subsequent steps."
+            ],
+            "sub_task": "Data Integrity Verification and Preprocessing",
+            "sub_task_agent": "engineer"
+        },
+        {
+            "bullet_points": [
+                "For each merger tree, identify the main branch using the provided mask.",
+                "For each node along the main branch, extract k-hop subgraphs (experiment with k=1,2,3).",
+                "For each value of k, document the impact on subgraph size and structure, including summary statistics (e.g., average number of nodes/edges per subgraph).",
+                "For each subgraph, extract the node feature matrix and pad/truncate as needed to a fixed size suitable for QTT.",
+                "Organize subgraph feature matrices for QTT processing."
+            ],
+            "sub_task": "Subgraph Extraction, k-hop Documentation, and Preparation for QTT",
+            "sub_task_agent": "engineer"
+        },
+        {
+            "bullet_points": [
+                "Apply QTT decomposition to each subgraph’s feature matrix, experimenting with different QTT ranks.",
+                "For each QTT rank, document the impact on compression quality and feature representation (e.g., reconstruction error, feature vector size).",
+                "Flatten and concatenate QTT tensor cores to form a fixed-length QTT feature vector for each subgraph.",
+                "Aggregate QTT feature vectors for each merger tree (e.g., mean pooling across main branch nodes).",
+                "Save the aggregated QTT feature vectors for all trees."
+            ],
+            "sub_task": "QTT Decomposition, Rank Experimentation, and Feature Engineering",
+            "sub_task_agent": "engineer"
+        },
+        {
+            "bullet_points": [
+                "Split the dataset into training, validation, and test sets (e.g., 70/15/15 or 60/20/20 split).",
+                "Use the aggregated QTT feature vectors as input to a regression model (Random Forest or Gradient Boosting) to predict final halo mass at z=0.",
+                "Train baseline models using traditional features (e.g., mean/max/variance of node features along the main branch).",
+                "Evaluate models using MSE, MAE, and R² on validation and test sets.",
+                "Generate plots: predicted vs. true mass, residuals, feature importances, and performance comparisons."
+            ],
+            "sub_task": "Dataset Splitting, Regression Modeling, and Baseline Comparison",
+            "sub_task_agent": "engineer"
+        },
+        {
+            "bullet_points": [
+                "Visualize distributions of QTT features and compare to traditional features.",
+                "Produce dimensionality reduction plots (PCA/t-SNE) of both QTT-based and traditional feature spaces, colored by halo mass, to highlight differences in representation.",
+                "Visualize selected subgraphs with QTT feature overlays.",
+                "Generate all plots needed for interpretation and reporting."
+            ],
+            "sub_task": "Visualization and Feature Space Comparison",
+            "sub_task_agent": "engineer"
+        },
+        {
+            "bullet_points": [
+                "Summarize and interpret the quantitative results from regression models, including performance metrics and feature importances.",
+                "Discuss the physical meaning and utility of QTT-based features compared to traditional features.",
+                "Reference and interpret all generated plots, highlighting key findings and insights, including the impact of k and QTT rank.",
+                "Discuss the limitations of the current approach (e.g., dataset size, CPU constraints, feature selection) and suggest potential future directions (e.g., scaling to larger datasets, incorporating more cosmological parameters).",
+                "Provide a comprehensive Results section suitable for inclusion in a scientific paper or report."
+            ],
+            "sub_task": "Results Synthesis, Interpretation, and Limitations",
+            "sub_task_agent": "researcher"
+        }
+    ]
+}
