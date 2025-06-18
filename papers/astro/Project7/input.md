@@ -1,0 +1,24 @@
+We have a file containing 1000 merger trees from cosmological N-body simulations. The file is located in /Users/fvillaescusa/Documents/Software/AstroPilot/data/Pablo_merger_trees2.pt
+
+The data is stored in PyTorch Geometric format, and can be read as:
+
+```python
+import torch
+f_tree = '/Users/fvillaescusa/Documents/Software/AstroPilot/data/Pablo_merger_trees2.pt'
+trainset = torch.load(f_tree, weights_only=False)
+```
+
+trainset is now a collection of 1000 PyTorch Geometric graphs. For instance, trainset[0] represents the first merger tree and contains the data in this format:
+Data(x=[382, 4], edge_index=[2, 381], edge_attr=[381, 1], y=[1, 2], num_nodes=382, lh_id=100, mask_main=[93], node_halo_id=[382, 1])
+
+x represents the node features. There are 4 properties: the first property is log10(mass), the second is log10(concentration), the third one is log10(Vmax), and the fourth one is the scale factor. The scale factor ranges from 0 (beginning of the universe) to 1 (current time). The mass goes from 10 to 15. Each node represents a dark matter halo and is characterized by the four values mentioned above: halo mass, halo concentration, halo Vmax (maximum circular velocity), and scale factor.
+
+y is the value of the cosmological parameters, Omega_m and sigma_8. Omega_m ranges from 0.1 to 0.5, while sigma_8 goes from 0.6 to 1.0.
+
+For both node and graph features, you may want to normalize each feature to have mean 0. 
+
+The merger trees come from N-body simulations. For each simulation, there are 25 different merger trees chosen randomly. All merger trees from the same simulation will have the same value of the cosmological parameters, i.e. the same values of y.
+
+Please come out with an idea to to explore this data using state-of-the-art geometric deep learning techniques. Do not do something trivial, e.g. predict node mass using the graph with all node features. It would be better if it is something related to dimensionality reduction, latent space...etc. Try to use classical methods instead of expensive neural networks.
+
+Note that PyTorch and PyTorch Geometric are already installed, but it can only run with cpus, not GPUs. Please make lots of plots to illustrate your findings.

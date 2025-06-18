@@ -1,0 +1,15 @@
+\documentclass[twocolumn]{aastex631}
+
+\usepackage{amsmath}
+\usepackage{multirow}
+\usepackage{natbib}
+\usepackage{graphicx} 
+\usepackage{aas_macros}
+
+\begin{document}
+
+Understanding the link between the structure of dark matter halo merger trees and the cosmological parameters that govern the Universe's evolution is a fundamental challenge. This study investigates whether graph spectral analysis and diffusion geometry can extract meaningful features from merger trees to predict the matter density parameter ($\Omega_m$) and the amplitude of matter fluctuations ($\sigma_8$). We analyzed a dataset of 1000 merger trees from N-body simulations, extracting features from the graph Laplacian spectrum, diffusion map embeddings, and astrophysically-motivated edge properties. We then trained regression models using these features and compared their performance against a baseline model using aggregated node features and a Graph Convolutional Network (GCN). While the engineered graph spectral and diffusion geometry features performed poorly, likely due to computational limitations during feature extraction, simpler aggregated node features showed significant predictive power, especially for $\Omega_m$. The GCN model achieved the best performance, demonstrating the potential of graph neural networks to automatically learn cosmologically relevant information directly from merger tree structures, highlighting the challenges of manual feature engineering in complex graph data and the promise of geometric deep learning for cosmological inference.
+\
+
+\end{document}
+                

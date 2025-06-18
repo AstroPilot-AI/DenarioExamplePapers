@@ -1,0 +1,26 @@
+{
+  "image0": {
+    "name": "pca_explained_variance_plot_1_20250527-134016.png",
+    "caption": "PCA explained variance plot for engineered features. Eight principal components were sufficient to explain 96.29\\% of the variance. However, models trained on these PCA-transformed features performed poorly, suggesting that the retained variance did not capture information relevant for predicting cosmological parameters."
+  },
+  "image1": {
+    "name": "predicted_vs_true_Omega_m_9_20250527-135752.png",
+    "caption": "Scatter plots of predicted vs. true values of $\\Omega_m$ for different models. The GCN and baseline models show a strong positive correlation, while the PCA-engineered feature models show no clear correlation, indicating the superior performance of the former in predicting $\\Omega_m$ from merger tree data.\n\\"
+  },
+  "image2": {
+    "name": "engineered_feature_dist_diff_min_5_20250527-135752.png",
+    "caption": "Histograms showing the distribution of the minimum-pooled diffusion map embeddings for the first five eigenvectors, illustrating the impact of imputing NaN values due to computational constraints during feature engineering, which likely contributed to the poor performance of these features in predicting cosmological parameters."
+  },
+  "image3": {
+    "name": "engineered_feature_dist_diff_mean_3_20250527-135752.png",
+    "caption": "Histograms showing the distributions of the mean-pooled embeddings from the top 5 eigenvectors of the diffusion map. These features, computed on merger trees and imputed for large graphs, were intended to capture structural information, but ultimately failed to predict cosmological parameters.\n\\"
+  },
+  "image4": {
+    "name": "predicted_vs_true_sigma_8_10_20250527-135752.png",
+    "caption": "Scatter plots of predicted vs. true values for $\\sigma_8$ using different feature sets and models: PCA-transformed engineered features with Random Forest Regressor (RFR) and Gradient Boosting Regressor (GBR), baseline aggregated node features with RFR and GBR, and a Graph Convolutional Network (GCN). The GCN and baseline models show positive correlations, whereas the PCA-engineered feature models show little to no correlation, indicating poor predictive performance."
+  },
+  "image5": {
+    "name": "model_performance_mse_12_20250527-135752.png",
+    "caption": "Mean Squared Error (MSE) comparison of different models (PCA-transformed engineered features with Random Forest Regressor (RFR) and Gradient Boosting Regressor (GBR), baseline aggregated node features with RFR and GBR, and Graph Convolutional Network (GCN)) for predicting $\\Omega_m$ and $\\sigma_8$. The baseline aggregated node features and the GCN model significantly outperform the engineered features after PCA."
+  }
+}

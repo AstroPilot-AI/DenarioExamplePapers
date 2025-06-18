@@ -1,0 +1,4457 @@
+---- STDOUT ----
+This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019) (preloaded format=xelatex)
+ restricted \write18 enabled.
+entering extended mode
+(./Results_8_13.tex
+LaTeX2e <2018-12-01>
+(./aastex631.cls
+Document Class: aastex631 2020/12/20 Version 6.3.1d/AAS markup document class
+(/usr/local/texlive/2019/texmf-dist/tex/latex/revtex/revtex4-1.cls
+Document Class: revtex4-1 2010/07/25/20:33:00 4.1r (http://publish.aps.org/revt
+ex4/ for documentation)
+ltxutil[2010/07/25/20:33:00 4.1r utilities package (portions licensed from W. E
+. Baxter web at superscript.com)]
+ltxfront[2010/07/25/20:33:00 4.1r frontmatter package (AO,DPC)]
+ltxgrid[2010/07/25/20:33:00 4.1r page grid package (portions licensed from W. E
+. Baxter web at superscript.com)]
+(/usr/local/texlive/2019/texmf-dist/tex/latex/revtex/aps4-1.rtx)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/revtex/aps10pt4-1.rtx)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/textcase/textcase.sty)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/url/url.sty)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/natbib/natbib.sty)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/revtex/revsymb4-1.sty))
+(/usr/local/texlive/2019/texmf-dist/tex/latex/base/latexsym.sty)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/graphics/graphicx.sty
+(/usr/local/texlive/2019/texmf-dist/tex/latex/graphics/keyval.sty)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/graphics/graphics.sty
+(/usr/local/texlive/2019/texmf-dist/tex/latex/graphics/trig.sty)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/graphics-cfg/graphics.cfg)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/graphics-def/xetex.def)))
+(/usr/local/texlive/2019/texmf-dist/tex/latex/amsfonts/amssymb.sty
+(/usr/local/texlive/2019/texmf-dist/tex/latex/amsfonts/amsfonts.sty))
+(/usr/local/texlive/2019/texmf-dist/tex/generic/epsf/epsf.sty
+This is `epsf.tex' v2.7.4 <14 February 2011>
+) (/usr/local/texlive/2019/texmf-dist/tex/latex/tools/longtable.sty)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/xcolor/xcolor.sty
+(/usr/local/texlive/2019/texmf-dist/tex/latex/graphics-cfg/color.cfg))
+(/usr/local/texlive/2019/texmf-dist/tex/latex/hyperref/hyperref.sty
+(/usr/local/texlive/2019/texmf-dist/tex/generic/oberdiek/hobsub-hyperref.sty
+(/usr/local/texlive/2019/texmf-dist/tex/generic/oberdiek/hobsub-generic.sty))
+(/usr/local/texlive/2019/texmf-dist/tex/generic/ifxetex/ifxetex.sty)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/oberdiek/auxhook.sty)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/oberdiek/kvoptions.sty)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/hyperref/pd1enc.def)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/latexconfig/hyperref.cfg))
+(/usr/local/texlive/2019/texmf-dist/tex/latex/hyperref/hxetex.def
+(/usr/local/texlive/2019/texmf-dist/tex/latex/hyperref/puenc.def)
+(/usr/local/texlive/2019/texmf-dist/tex/generic/oberdiek/stringenc.sty)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty))
+(/usr/local/texlive/2019/texmf-dist/tex/latex/tools/array.sty)
+(/usr/local/texlive/2019/texmf-dist/tex/generic/ulem/ulem.sty))
+(/usr/local/texlive/2019/texmf-dist/tex/latex/amsmath/amsmath.sty
+For additional information on amsmath, use the `?' option.
+(/usr/local/texlive/2019/texmf-dist/tex/latex/amsmath/amstext.sty
+(/usr/local/texlive/2019/texmf-dist/tex/latex/amsmath/amsgen.sty))
+(/usr/local/texlive/2019/texmf-dist/tex/latex/amsmath/amsbsy.sty)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/amsmath/amsopn.sty))
+(/usr/local/texlive/2019/texmf-dist/tex/latex/multirow/multirow.sty)
+(./aas_macros.sty)
+No file Results_8_13.aux.
+(/usr/local/texlive/2019/texmf-dist/tex/latex/hyperref/nameref.sty
+(/usr/local/texlive/2019/texmf-dist/tex/generic/oberdiek/gettitlestring.sty))
+
+Package hyperref Warning: Rerun to get /PageLabels entry.
+
+(/usr/local/texlive/2019/texmf-dist/tex/latex/lineno/lineno.sty)
+(/usr/local/texlive/2019/texmf-dist/tex/generic/oberdiek/se-ascii-print.def)
+! Missing $ inserted.
+<inserted text> 
+                $
+l.13 ... detailed in the file `data/normalization_
+                                                  params.npz`, were: mean = ...
+
+? (/usr/local/texlive/2019/texmf-dist/tex/latex/base/ulasy.fd)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/amsfonts/umsa.fd)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/amsfonts/umsb.fd)
+! Missing $ inserted.
+<inserted text> 
+                $
+l.14 
+     
+? 
+! Emergency stop.
+<inserted text> 
+                $
+l.14 
+     
+No pages of output.
+Transcript written on Results_8_13.log.
+---- STDERR ----
+---- STDOUT ----
+This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019) (preloaded format=xelatex)
+ restricted \write18 enabled.
+entering extended mode
+(./Results_8_13_v1.tex
+LaTeX2e <2018-12-01>
+(./aastex631.cls
+Document Class: aastex631 2020/12/20 Version 6.3.1d/AAS markup document class
+(/usr/local/texlive/2019/texmf-dist/tex/latex/revtex/revtex4-1.cls
+Document Class: revtex4-1 2010/07/25/20:33:00 4.1r (http://publish.aps.org/revt
+ex4/ for documentation)
+ltxutil[2010/07/25/20:33:00 4.1r utilities package (portions licensed from W. E
+. Baxter web at superscript.com)]
+ltxfront[2010/07/25/20:33:00 4.1r frontmatter package (AO,DPC)]
+ltxgrid[2010/07/25/20:33:00 4.1r page grid package (portions licensed from W. E
+. Baxter web at superscript.com)]
+(/usr/local/texlive/2019/texmf-dist/tex/latex/revtex/aps4-1.rtx)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/revtex/aps10pt4-1.rtx)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/textcase/textcase.sty)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/url/url.sty)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/natbib/natbib.sty)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/revtex/revsymb4-1.sty))
+(/usr/local/texlive/2019/texmf-dist/tex/latex/base/latexsym.sty)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/graphics/graphicx.sty
+(/usr/local/texlive/2019/texmf-dist/tex/latex/graphics/keyval.sty)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/graphics/graphics.sty
+(/usr/local/texlive/2019/texmf-dist/tex/latex/graphics/trig.sty)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/graphics-cfg/graphics.cfg)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/graphics-def/xetex.def)))
+(/usr/local/texlive/2019/texmf-dist/tex/latex/amsfonts/amssymb.sty
+(/usr/local/texlive/2019/texmf-dist/tex/latex/amsfonts/amsfonts.sty))
+(/usr/local/texlive/2019/texmf-dist/tex/generic/epsf/epsf.sty
+This is `epsf.tex' v2.7.4 <14 February 2011>
+) (/usr/local/texlive/2019/texmf-dist/tex/latex/tools/longtable.sty)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/xcolor/xcolor.sty
+(/usr/local/texlive/2019/texmf-dist/tex/latex/graphics-cfg/color.cfg))
+(/usr/local/texlive/2019/texmf-dist/tex/latex/hyperref/hyperref.sty
+(/usr/local/texlive/2019/texmf-dist/tex/generic/oberdiek/hobsub-hyperref.sty
+(/usr/local/texlive/2019/texmf-dist/tex/generic/oberdiek/hobsub-generic.sty))
+(/usr/local/texlive/2019/texmf-dist/tex/generic/ifxetex/ifxetex.sty)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/oberdiek/auxhook.sty)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/oberdiek/kvoptions.sty)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/hyperref/pd1enc.def)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/latexconfig/hyperref.cfg))
+(/usr/local/texlive/2019/texmf-dist/tex/latex/hyperref/hxetex.def
+(/usr/local/texlive/2019/texmf-dist/tex/latex/hyperref/puenc.def)
+(/usr/local/texlive/2019/texmf-dist/tex/generic/oberdiek/stringenc.sty)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty))
+(/usr/local/texlive/2019/texmf-dist/tex/latex/tools/array.sty)
+(/usr/local/texlive/2019/texmf-dist/tex/generic/ulem/ulem.sty))
+(/usr/local/texlive/2019/texmf-dist/tex/latex/amsmath/amsmath.sty
+For additional information on amsmath, use the `?' option.
+(/usr/local/texlive/2019/texmf-dist/tex/latex/amsmath/amstext.sty
+(/usr/local/texlive/2019/texmf-dist/tex/latex/amsmath/amsgen.sty))
+(/usr/local/texlive/2019/texmf-dist/tex/latex/amsmath/amsbsy.sty)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/amsmath/amsopn.sty))
+(/usr/local/texlive/2019/texmf-dist/tex/latex/multirow/multirow.sty)
+(./aas_macros.sty)
+No file Results_8_13_v1.aux.
+(/usr/local/texlive/2019/texmf-dist/tex/latex/hyperref/nameref.sty
+(/usr/local/texlive/2019/texmf-dist/tex/generic/oberdiek/gettitlestring.sty))
+
+Package hyperref Warning: Rerun to get /PageLabels entry.
+
+(/usr/local/texlive/2019/texmf-dist/tex/latex/lineno/lineno.sty)
+(/usr/local/texlive/2019/texmf-dist/tex/generic/oberdiek/se-ascii-print.def)
+! Missing $ inserted.
+<inserted text> 
+                $
+l.24 ...e, using raw values from `data/engineered_
+                                                  features_train.npz`) were ...
+
+? (/usr/local/texlive/2019/texmf-dist/tex/latex/base/ulasy.fd)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/amsfonts/umsa.fd)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/amsfonts/umsb.fd)
+! Missing $ inserted.
+<inserted text> 
+                $
+l.25 
+     
+? 
+! Emergency stop.
+<inserted text> 
+                $
+l.25 
+     
+No pages of output.
+Transcript written on Results_8_13_v1.log.
+---- STDERR ----
+---- STDOUT ----
+This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019) (preloaded format=xelatex)
+ restricted \write18 enabled.
+entering extended mode
+(./Results_8_13_v2.tex
+LaTeX2e <2018-12-01>
+(./aastex631.cls
+Document Class: aastex631 2020/12/20 Version 6.3.1d/AAS markup document class
+(/usr/local/texlive/2019/texmf-dist/tex/latex/revtex/revtex4-1.cls
+Document Class: revtex4-1 2010/07/25/20:33:00 4.1r (http://publish.aps.org/revt
+ex4/ for documentation)
+ltxutil[2010/07/25/20:33:00 4.1r utilities package (portions licensed from W. E
+. Baxter web at superscript.com)]
+ltxfront[2010/07/25/20:33:00 4.1r frontmatter package (AO,DPC)]
+ltxgrid[2010/07/25/20:33:00 4.1r page grid package (portions licensed from W. E
+. Baxter web at superscript.com)]
+(/usr/local/texlive/2019/texmf-dist/tex/latex/revtex/aps4-1.rtx)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/revtex/aps10pt4-1.rtx)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/textcase/textcase.sty)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/url/url.sty)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/natbib/natbib.sty)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/revtex/revsymb4-1.sty))
+(/usr/local/texlive/2019/texmf-dist/tex/latex/base/latexsym.sty)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/graphics/graphicx.sty
+(/usr/local/texlive/2019/texmf-dist/tex/latex/graphics/keyval.sty)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/graphics/graphics.sty
+(/usr/local/texlive/2019/texmf-dist/tex/latex/graphics/trig.sty)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/graphics-cfg/graphics.cfg)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/graphics-def/xetex.def)))
+(/usr/local/texlive/2019/texmf-dist/tex/latex/amsfonts/amssymb.sty
+(/usr/local/texlive/2019/texmf-dist/tex/latex/amsfonts/amsfonts.sty))
+(/usr/local/texlive/2019/texmf-dist/tex/generic/epsf/epsf.sty
+This is `epsf.tex' v2.7.4 <14 February 2011>
+) (/usr/local/texlive/2019/texmf-dist/tex/latex/tools/longtable.sty)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/xcolor/xcolor.sty
+(/usr/local/texlive/2019/texmf-dist/tex/latex/graphics-cfg/color.cfg))
+(/usr/local/texlive/2019/texmf-dist/tex/latex/hyperref/hyperref.sty
+(/usr/local/texlive/2019/texmf-dist/tex/generic/oberdiek/hobsub-hyperref.sty
+(/usr/local/texlive/2019/texmf-dist/tex/generic/oberdiek/hobsub-generic.sty))
+(/usr/local/texlive/2019/texmf-dist/tex/generic/ifxetex/ifxetex.sty)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/oberdiek/auxhook.sty)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/oberdiek/kvoptions.sty)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/hyperref/pd1enc.def)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/latexconfig/hyperref.cfg))
+(/usr/local/texlive/2019/texmf-dist/tex/latex/hyperref/hxetex.def
+(/usr/local/texlive/2019/texmf-dist/tex/latex/hyperref/puenc.def)
+(/usr/local/texlive/2019/texmf-dist/tex/generic/oberdiek/stringenc.sty)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty))
+(/usr/local/texlive/2019/texmf-dist/tex/latex/tools/array.sty)
+(/usr/local/texlive/2019/texmf-dist/tex/generic/ulem/ulem.sty))
+(/usr/local/texlive/2019/texmf-dist/tex/latex/amsmath/amsmath.sty
+For additional information on amsmath, use the `?' option.
+(/usr/local/texlive/2019/texmf-dist/tex/latex/amsmath/amstext.sty
+(/usr/local/texlive/2019/texmf-dist/tex/latex/amsmath/amsgen.sty))
+(/usr/local/texlive/2019/texmf-dist/tex/latex/amsmath/amsbsy.sty)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/amsmath/amsopn.sty))
+(/usr/local/texlive/2019/texmf-dist/tex/latex/multirow/multirow.sty)
+(./aas_macros.sty)
+No file Results_8_13_v2.aux.
+(/usr/local/texlive/2019/texmf-dist/tex/latex/hyperref/nameref.sty
+(/usr/local/texlive/2019/texmf-dist/tex/generic/oberdiek/gettitlestring.sty))
+
+Package hyperref Warning: Rerun to get /PageLabels entry.
+
+(/usr/local/texlive/2019/texmf-dist/tex/latex/lineno/lineno.sty)
+(/usr/local/texlive/2019/texmf-dist/tex/generic/oberdiek/se-ascii-print.def)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/base/ulasy.fd)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/amsfonts/umsa.fd)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/amsfonts/umsb.fd)
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.63 ...n `data/pca\_explained\_variance\_plot\_1_
+                                                  <timestamp>.png`) shows th...
+
+? ! Missing $ inserted.
+<inserted text> 
+                $
+l.64 
+     
+? 
+! Emergency stop.
+<inserted text> 
+                $
+l.64 
+     
+No pages of output.
+Transcript written on Results_8_13_v2.log.
+---- STDERR ----
+---- STDOUT ----
+This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019) (preloaded format=xelatex)
+ restricted \write18 enabled.
+entering extended mode
+(./Results_8_13_v3.tex
+LaTeX2e <2018-12-01>
+(./aastex631.cls
+Document Class: aastex631 2020/12/20 Version 6.3.1d/AAS markup document class
+(/usr/local/texlive/2019/texmf-dist/tex/latex/revtex/revtex4-1.cls
+Document Class: revtex4-1 2010/07/25/20:33:00 4.1r (http://publish.aps.org/revt
+ex4/ for documentation)
+ltxutil[2010/07/25/20:33:00 4.1r utilities package (portions licensed from W. E
+. Baxter web at superscript.com)]
+ltxfront[2010/07/25/20:33:00 4.1r frontmatter package (AO,DPC)]
+ltxgrid[2010/07/25/20:33:00 4.1r page grid package (portions licensed from W. E
+. Baxter web at superscript.com)]
+(/usr/local/texlive/2019/texmf-dist/tex/latex/revtex/aps4-1.rtx)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/revtex/aps10pt4-1.rtx)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/textcase/textcase.sty)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/url/url.sty)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/natbib/natbib.sty)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/revtex/revsymb4-1.sty))
+(/usr/local/texlive/2019/texmf-dist/tex/latex/base/latexsym.sty)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/graphics/graphicx.sty
+(/usr/local/texlive/2019/texmf-dist/tex/latex/graphics/keyval.sty)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/graphics/graphics.sty
+(/usr/local/texlive/2019/texmf-dist/tex/latex/graphics/trig.sty)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/graphics-cfg/graphics.cfg)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/graphics-def/xetex.def)))
+(/usr/local/texlive/2019/texmf-dist/tex/latex/amsfonts/amssymb.sty
+(/usr/local/texlive/2019/texmf-dist/tex/latex/amsfonts/amsfonts.sty))
+(/usr/local/texlive/2019/texmf-dist/tex/generic/epsf/epsf.sty
+This is `epsf.tex' v2.7.4 <14 February 2011>
+) (/usr/local/texlive/2019/texmf-dist/tex/latex/tools/longtable.sty)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/xcolor/xcolor.sty
+(/usr/local/texlive/2019/texmf-dist/tex/latex/graphics-cfg/color.cfg))
+(/usr/local/texlive/2019/texmf-dist/tex/latex/hyperref/hyperref.sty
+(/usr/local/texlive/2019/texmf-dist/tex/generic/oberdiek/hobsub-hyperref.sty
+(/usr/local/texlive/2019/texmf-dist/tex/generic/oberdiek/hobsub-generic.sty))
+(/usr/local/texlive/2019/texmf-dist/tex/generic/ifxetex/ifxetex.sty)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/oberdiek/auxhook.sty)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/oberdiek/kvoptions.sty)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/hyperref/pd1enc.def)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/latexconfig/hyperref.cfg))
+(/usr/local/texlive/2019/texmf-dist/tex/latex/hyperref/hxetex.def
+(/usr/local/texlive/2019/texmf-dist/tex/latex/hyperref/puenc.def)
+(/usr/local/texlive/2019/texmf-dist/tex/generic/oberdiek/stringenc.sty)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty))
+(/usr/local/texlive/2019/texmf-dist/tex/latex/tools/array.sty)
+(/usr/local/texlive/2019/texmf-dist/tex/generic/ulem/ulem.sty))
+(/usr/local/texlive/2019/texmf-dist/tex/latex/amsmath/amsmath.sty
+For additional information on amsmath, use the `?' option.
+(/usr/local/texlive/2019/texmf-dist/tex/latex/amsmath/amstext.sty
+(/usr/local/texlive/2019/texmf-dist/tex/latex/amsmath/amsgen.sty))
+(/usr/local/texlive/2019/texmf-dist/tex/latex/amsmath/amsbsy.sty)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/amsmath/amsopn.sty))
+(/usr/local/texlive/2019/texmf-dist/tex/latex/multirow/multirow.sty)
+(./aas_macros.sty)
+No file Results_8_13_v3.aux.
+(/usr/local/texlive/2019/texmf-dist/tex/latex/hyperref/nameref.sty
+(/usr/local/texlive/2019/texmf-dist/tex/generic/oberdiek/gettitlestring.sty))
+
+Package hyperref Warning: Rerun to get /PageLabels entry.
+
+(/usr/local/texlive/2019/texmf-dist/tex/latex/lineno/lineno.sty)
+(/usr/local/texlive/2019/texmf-dist/tex/generic/oberdiek/se-ascii-print.def)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/base/ulasy.fd)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/amsfonts/umsa.fd)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/amsfonts/umsb.fd)
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+! Undefined control sequence.
+l.63 ...data/pca\_explained\_variance\_plot\_1\_\<
+                                                  timestamp>.png`) shows the...
+
+? 
+Underfull \hbox (badness 1242) in paragraph at lines 63--64
+[]\TU/lmr/m/n/10 To reduce dimensionality and decorrelate features, Principal C
+omponent Analysis (PCA) was applied to
+
+Underfull \hbox (badness 1715) in paragraph at lines 63--64
+\TU/lmr/m/n/10 the mean-imputed 24 engineered features derived from the trainin
+g set. The goal was to retain most
+
+Underfull \hbox (badness 1436) in paragraph at lines 63--64
+\TU/lmr/m/n/10 of the variance while reducing the number of features. The PCA e
+xplained variance plot (available in
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+! Undefined control sequence.
+l.72 ...able in `data/pca\_projection\_plot\_6\_\<
+                                                  timestamp>.png`). These pr...
+
+? 
+! Emergency stop.
+l.72 ...able in `data/pca\_projection\_plot\_6\_\<
+                                                  timestamp>.png`). These pr...
+
+No pages of output.
+Transcript written on Results_8_13_v3.log.
+---- STDERR ----
+
+==== ERROR on iteration Pass 1 ====
+---- STDOUT ----
+This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019) (preloaded format=xelatex)
+ restricted \write18 enabled.
+entering extended mode
+(./paper_v1.tex
+LaTeX2e <2018-12-01>
+(./aastex631.cls
+Document Class: aastex631 2020/12/20 Version 6.3.1d/AAS markup document class
+(/usr/local/texlive/2019/texmf-dist/tex/latex/revtex/revtex4-1.cls
+Document Class: revtex4-1 2010/07/25/20:33:00 4.1r (http://publish.aps.org/revt
+ex4/ for documentation)
+ltxutil[2010/07/25/20:33:00 4.1r utilities package (portions licensed from W. E
+. Baxter web at superscript.com)]
+ltxfront[2010/07/25/20:33:00 4.1r frontmatter package (AO,DPC)]
+ltxgrid[2010/07/25/20:33:00 4.1r page grid package (portions licensed from W. E
+. Baxter web at superscript.com)]
+(/usr/local/texlive/2019/texmf-dist/tex/latex/revtex/aps4-1.rtx)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/revtex/aps10pt4-1.rtx)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/textcase/textcase.sty)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/url/url.sty)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/natbib/natbib.sty)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/revtex/revsymb4-1.sty))
+(/usr/local/texlive/2019/texmf-dist/tex/latex/base/latexsym.sty)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/graphics/graphicx.sty
+(/usr/local/texlive/2019/texmf-dist/tex/latex/graphics/keyval.sty)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/graphics/graphics.sty
+(/usr/local/texlive/2019/texmf-dist/tex/latex/graphics/trig.sty)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/graphics-cfg/graphics.cfg)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/graphics-def/xetex.def)))
+(/usr/local/texlive/2019/texmf-dist/tex/latex/amsfonts/amssymb.sty
+(/usr/local/texlive/2019/texmf-dist/tex/latex/amsfonts/amsfonts.sty))
+(/usr/local/texlive/2019/texmf-dist/tex/generic/epsf/epsf.sty
+This is `epsf.tex' v2.7.4 <14 February 2011>
+) (/usr/local/texlive/2019/texmf-dist/tex/latex/tools/longtable.sty)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/xcolor/xcolor.sty
+(/usr/local/texlive/2019/texmf-dist/tex/latex/graphics-cfg/color.cfg))
+(/usr/local/texlive/2019/texmf-dist/tex/latex/hyperref/hyperref.sty
+(/usr/local/texlive/2019/texmf-dist/tex/generic/oberdiek/hobsub-hyperref.sty
+(/usr/local/texlive/2019/texmf-dist/tex/generic/oberdiek/hobsub-generic.sty))
+(/usr/local/texlive/2019/texmf-dist/tex/generic/ifxetex/ifxetex.sty)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/oberdiek/auxhook.sty)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/oberdiek/kvoptions.sty)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/hyperref/pd1enc.def)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/latexconfig/hyperref.cfg))
+(/usr/local/texlive/2019/texmf-dist/tex/latex/hyperref/hxetex.def
+(/usr/local/texlive/2019/texmf-dist/tex/latex/hyperref/puenc.def)
+(/usr/local/texlive/2019/texmf-dist/tex/generic/oberdiek/stringenc.sty)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty))
+(/usr/local/texlive/2019/texmf-dist/tex/latex/tools/array.sty)
+(/usr/local/texlive/2019/texmf-dist/tex/generic/ulem/ulem.sty))
+(/usr/local/texlive/2019/texmf-dist/tex/latex/amsmath/amsmath.sty
+For additional information on amsmath, use the `?' option.
+(/usr/local/texlive/2019/texmf-dist/tex/latex/amsmath/amstext.sty
+(/usr/local/texlive/2019/texmf-dist/tex/latex/amsmath/amsgen.sty))
+(/usr/local/texlive/2019/texmf-dist/tex/latex/amsmath/amsbsy.sty)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/amsmath/amsopn.sty))
+(/usr/local/texlive/2019/texmf-dist/tex/latex/multirow/multirow.sty)
+(./aas_macros.sty)
+No file paper_v1.aux.
+(/usr/local/texlive/2019/texmf-dist/tex/latex/hyperref/nameref.sty
+(/usr/local/texlive/2019/texmf-dist/tex/generic/oberdiek/gettitlestring.sty))
+
+Package hyperref Warning: Rerun to get /PageLabels entry.
+
+(/usr/local/texlive/2019/texmf-dist/tex/latex/lineno/lineno.sty)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/base/ulasy.fd)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/amsfonts/umsa.fd)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/amsfonts/umsb.fd)
+(/usr/local/texlive/2019/texmf-dist/tex/generic/oberdiek/se-ascii-print.def)
+[1]
+Underfull \hbox (badness 1852) in paragraph at lines 43--44
+[]\TU/lmr/bx/n/10 Node Features (‘x‘)\TU/lmr/m/n/10 : A matrix of shape
+
+Underfull \hbox (badness 5771) in paragraph at lines 56--57
+[]\TU/lmr/bx/n/10 Node Feature Distributions\TU/lmr/m/n/10 : Analyzing
+
+Underfull \hbox (badness 3815) in paragraph at lines 56--57
+\TU/lmr/m/n/10 the distributions of the four node features
+[2]
+Underfull \hbox (badness 1521) in paragraph at lines 59--60
+[]\TU/lmr/bx/n/10 Edge Attribute Investigation\TU/lmr/m/n/10 : Examining
+
+Underfull \hbox (badness 2173) in paragraph at lines 59--60
+\TU/lmr/m/n/10 the nature and distribution of the provided
+
+Underfull \hbox (badness 10000) in paragraph at lines 78--79
+[]\TU/lmr/bx/n/10 Eigenvalue Decomposition\TU/lmr/m/n/10 : We com-
+
+Underfull \hbox (badness 5490) in paragraph at lines 78--79
+\TU/lmr/m/n/10 puted the eigenvalues of $\OML/cmm/m/it/10 L[]$ \TU/lmr/m/n/10 u
+sing the
+[3]
+Underfull \hbox (badness 10000) in paragraph at lines 100--101
+[]\TU/lmr/bx/n/10 Scale Factor Difference\TU/lmr/m/n/10 : $\OT1/cmr/m/n/10 ^^A[
+] =
+
+Underfull \hbox (badness 1975) in paragraph at lines 100--101
+\TU/lmr/m/n/10 edges point from progenitors to descen-
+
+Underfull \hbox (badness 10000) in paragraph at lines 100--101
+\TU/lmr/m/n/10 dants, we expect $\OML/cmm/m/it/10 scale[]factor\OT1/cmr/m/n/10 
+(\OML/cmm/m/it/10 v\OT1/cmr/m/n/10 ) \OML/cmm/m/it/10 >
+
+Underfull \hbox (badness 1178) in paragraph at lines 100--101
+\OML/cmm/m/it/10 scale[]factor\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 u\OT1/cmr/m/n/1
+0 )$\TU/lmr/m/n/10 , and $\OT1/cmr/m/n/10 ^^A[]$ \TU/lmr/m/n/10 represents the
+
+Underfull \hbox (badness 1515) in paragraph at lines 101--102
+[]\TU/lmr/bx/n/10 Log Mass Ratio\TU/lmr/m/n/10 : $\OML/cmm/m/it/10 log[]mass[]r
+atio \OT1/cmr/m/n/10 =
+
+Underfull \hbox (badness 1418) in paragraph at lines 116--117
+[]\TU/lmr/m/n/10 The selected models were trained on the PCA-
+[4]
+./paper_v1.tex:143: Missing $ inserted.
+<inserted text> 
+                $
+l.143 ...detailed in the file `data/normalization_
+                                                  params.npz`, were: mean = ...
+
+./paper_v1.tex:144: Missing $ inserted.
+<inserted text> 
+                $
+l.144 
+      
+
+Underfull \hbox (badness 3029) in paragraph at lines 143--144
+\TU/lmr/m/n/10 ing, node features, specifically the base-10 loga-
+
+Underfull \hbox (badness 3536) in paragraph at lines 143--144
+\TU/lmr/m/n/10 The computed normalization parameters, detailed
+
+Underfull \hbox (badness 2698) in paragraph at lines 143--144
+\TU/lmr/m/n/10 in the file ‘data/normalization$[]\OML/cmm/m/it/10 arams:npz\OT1
+/cmr/m/n/10 `\OML/cmm/m/it/10 ; were \OT1/cmr/m/n/10 :
+
+Underfull \hbox (badness 10000) in paragraph at lines 143--144
+\OML/cmm/m/it/10 mean \OT1/cmr/m/n/10 = `[11\OML/cmm/m/it/10 :\OT1/cmr/m/n/10 1
+38\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0\OML/cmm/m/it/10 :\OT1/cmr/m/n/10 736\OML
+/cmm/m/it/10 ; \OT1/cmr/m/n/10 2\OML/cmm/m/it/10 :\OT1/cmr/m/n/10 115\OML/cmm/m
+/it/10 ; \OT1/cmr/m/n/10 0\OML/cmm/m/it/10 :\OT1/cmr/m/n/10 370]`\OML/cmm/m/it/
+10 andstd \OT1/cmr/m/n/10 =
+
+Overfull \hbox (45.08554pt too wide) in paragraph at lines 143--144
+\OT1/cmr/m/n/10 `[0\OML/cmm/m/it/10 :\OT1/cmr/m/n/10 713\OML/cmm/m/it/10 ; \OT1
+/cmr/m/n/10 0\OML/cmm/m/it/10 :\OT1/cmr/m/n/10 364\OML/cmm/m/it/10 ; \OT1/cmr/m
+/n/10 0\OML/cmm/m/it/10 :\OT1/cmr/m/n/10 212\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 
+0\OML/cmm/m/it/10 :\OT1/cmr/m/n/10 180]`\OML/cmm/m/it/10 forthefournodefeatures
+; respectively:$ 
+./paper_v1.tex:152: Missing $ inserted.
+<inserted text> 
+                $
+l.152 ...aphs. To address this, a threshold (`MAX_
+                                                  NODES_FOR_EIGS = 500`) was...
+
+./paper_v1.tex:153: Missing $ inserted.
+<inserted text> 
+                $
+l.153 
+      
+
+Underfull \hbox (badness 10000) in paragraph at lines 152--153
+[]\TU/lmr/m/n/10 A significant challenge was the computa-
+
+Underfull \hbox (badness 10000) in paragraph at lines 152--153
+\TU/lmr/m/n/10 tional cost associated with eigenvalue de-
+
+Underfull \hbox (badness 10000) in paragraph at lines 152--153
+\TU/lmr/m/n/10 composition for large graphs. To address
+
+Underfull \hbox (badness 10000) in paragraph at lines 152--153
+\TU/lmr/m/n/10 this, a threshold (‘MAX$[]\OML/cmm/m/it/10 ODES[]OR[]IGS \OT1/cm
+r/m/n/10 =
+
+Overfull \hbox (2450.30879pt too wide) in paragraph at lines 152--153
+\OT1/cmr/m/n/10 500`)\OML/cmm/m/it/10 wasset; abovewhichLaplaciananddiffusionfe
+aturecalculationswereskipped:ThisresultedinNaNvaluesforthesefeaturesingraphsexc
+eedingthissizelimit:Specifically; \OT1/cmr/m/n/10 638\OML/cmm/m/it/10 outof\OT1
+/cmr/m/n/10 800\OML/cmm/m/it/10 traininggraphsand\OT1/cmr/m/n/10 164\OML/cmm/m/
+it/10 outof\OT1/cmr/m/n/10 200\OML/cmm/m/it/10 testgraphsexceededthislimit:Cons
+equently; asubstantialnumberofNaNentrieswerepresentintheengineeredfeaturematric
+es\OT1/cmr/m/n/10 (12\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 760\OML/cmm/m/it/10 NaN
+sin\OT1/cmr/m/n/10 `\OML/cmm/m/it/10 X[]rain[]ngineered\OT1/cmr/m/n/10 `(\OML/c
+mm/m/it/10 an\OT1/cmr/m/n/10 800\OML/cmm/m/it/10 x\OT1/cmr/m/n/10 24\OML/cmm/m/
+it/10 matrix\OT1/cmr/m/n/10 )\OML/cmm/m/it/10 and\OT1/cmr/m/n/10 3\OML/cmm/m/it
+/10 ; \OT1/cmr/m/n/10 280\OML/cmm/m/it/10 NaNsin\OT1/cmr/m/n/10 `\OML/cmm/m/it/
+10 X[]est[]ngineered\OT1/cmr/m/n/10 `(\OML/cmm/m/it/10 a\OT1/cmr/m/n/10 200\OML
+/cmm/m/it/10 x\OT1/cmr/m/n/10 24\OML/cmm/m/it/10 matrix\OT1/cmr/m/n/10 ))\OML/c
+mm/m/it/10 ; primarilyaffectingthe\OT1/cmr/m/n/10 20\OML/cmm/m/it/10 spectralan
+ddiffusionfeatures:TheseNaNsweresubsequentlyhandledbymeanimputationpriortoPrinc
+ipalComponentAnalysis\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 PCA\OT1/cmr/m/n/10 )\OML
+/cmm/m/it/10 :$ 
+./paper_v1.tex:154: Missing $ inserted.
+<inserted text> 
+                $
+l.154 ..., using raw values from `data/engineered_
+                                                  features_train.npz`) were ...
+
+./paper_v1.tex:155: Missing $ inserted.
+<inserted text> 
+                $
+l.155 
+      
+
+Underfull \hbox (badness 10000) in paragraph at lines 154--155
+[]\TU/lmr/m/n/10 The distributions of the engineered fea-
+
+Underfull \hbox (badness 10000) in paragraph at lines 154--155
+\TU/lmr/m/n/10 tures (post-imputation for plotting purposes
+
+Underfull \hbox (badness 10000) in paragraph at lines 154--155
+\TU/lmr/m/n/10 where applicable, using raw values from
+
+Overfull \hbox (1522.86035pt too wide) in paragraph at lines 154--155
+\TU/lmr/m/n/10 ‘data/engineered$[]\OML/cmm/m/it/10 eatures[]rain:npz\OT1/cmr/m/
+n/10 `)\OML/cmm/m/it/10 werevisualizedinaseriesofhistograms:Thedistributionsoft
+heedgefeatures\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 e:g:; \OT1/cmr/m/n/10 `\OML/cmm
+/m/it/10 mean[]delta[]sf\OT1/cmr/m/n/10 `\OML/cmm/m/it/10 and\OT1/cmr/m/n/10 `\
+OML/cmm/m/it/10 mean[]log[]mass[]ratio\OT1/cmr/m/n/10 `)\OML/cmm/m/it/10 werere
+lativelycompact:However; thedistributionsoftheLaplacianspectralfeatures\OT1/cmr
+/m/n/10 (\OML/cmm/m/it/10 e:g:; \OT1/cmr/m/n/10 `\OML/cmm/m/it/10 lap[]eig[]mea
+n\OT1/cmr/m/n/10 `\OML/cmm/m/it/10 and\OT1/cmr/m/n/10 `\OML/cmm/m/it/10 lap[]ei
+g[]std\OT1/cmr/m/n/10 `)\OML/cmm/m/it/10 andthediffusionmapfeatures\OT1/cmr/m/n
+/10 (\OML/cmm/m/it/10 mean; max; minpooled\OT1/cmr/m/n/10 )\OML/cmm/m/it/10 wer
+einfluencedbytheimputationofNaNsforlargegraphs:$ 
+./paper_v1.tex:158: Missing $ inserted.
+<inserted text> 
+                $
+l.158 ...ed variance plot (available in `data/pca_
+                                                  explained_variance_plot_1_...
+
+./paper_v1.tex:158: Double subscript.
+l.158 ...e in `data/pca_explained_variance_plot_1_
+                                                  <timestamp>.png`) shows th...
+
+./paper_v1.tex:159: Missing $ inserted.
+<inserted text> 
+                $
+l.159 
+      
+
+Underfull \hbox (badness 1789) in paragraph at lines 158--159
+\TU/lmr/m/n/10 Principal Component Analysis (PCA) was applied
+
+Underfull \hbox (badness 10000) in paragraph at lines 158--159
+\TU/lmr/m/n/10 in ‘data/pca$[]\OML/cmm/m/it/10 xplained[]ariance[]lot[][]timest
+amp >
+
+Overfull \hbox (1162.27211pt too wide) in paragraph at lines 158--159
+\OML/cmm/m/it/10 :png\OT1/cmr/m/n/10 `)\OML/cmm/m/it/10 showsthecumulativeandin
+dividualexplainedvariancepercomponent:Basedonthisanalysis; itwasdeterminedthat\
+OT1/cmr/m/n/10 8\OML/cmm/m/it/10 principalcomponentsweresufficienttoexplainappr
+oximately\OT1/cmr/m/n/10 96\OML/cmm/m/it/10 :\OT1/cmr/m/n/10 29%\OML/cmm/m/it/1
+0 ofthevarianceintheengineeredfeaturespace:Consequently; bothtrainingandtesteng
+ineeredfeaturesetsweretransformedintothis\OT1/cmr/m/n/10 8 \OMS/cmsy/m/n/10 ^^@
+
+[5]
+./paper_v1.tex:160: Missing $ inserted.
+<inserted text> 
+                $
+l.160 ...$ and $\sigma_8$ (available in `data/pca_
+                                                  projection_plot_6_<timesta...
+
+./paper_v1.tex:160: Double subscript.
+l.160 ...available in `data/pca_projection_plot_6_
+                                                  <timestamp>.png`). These p...
+
+./paper_v1.tex:160: Missing $ inserted.
+<inserted text> 
+                $
+l.160 ...points corresponding to different $\Omega
+                                                  _m$ or $\sigma_8$ values. ...
+
+
+Overfull \hbox (396.71777pt too wide) in paragraph at lines 160--161
+\OML/cmm/m/it/10 :png\OT1/cmr/m/n/10 `)\OML/cmm/m/it/10 :Theseprojectionsdidnot
+revealanyimmediatelyobviousstronglinearseparationorclearclusteringofdatapointsc
+orrespondingtodifferent$$\OT1/cmr/m/n/10 
+[]$
+./paper_v1.tex:172: Missing $ inserted.
+<inserted text> 
+                $
+l.172 ...ith `GroupKFold` (5 splits) based on `lh_
+                                                  id` to prevent data leakage.
+./paper_v1.tex:173: Missing $ inserted.
+<inserted text> 
+                $
+l.173 
+      
+
+Overfull \hbox (8.00752pt too wide) in paragraph at lines 179--194
+ []$ 
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+./paper_v1.tex:196: Missing $ inserted.
+<inserted text> 
+                $
+l.196 ...nce comparison (available in `data/model_
+                                                  performance_r2_11_<timesta...
+
+./paper_v1.tex:197: Missing $ inserted.
+<inserted text> 
+                $
+l.197 
+      
+
+Overfull \hbox (8.64098pt too wide) in paragraph at lines 196--197
+\TU/lmr/m/n/10 (available in ‘data/model$[]\OML/cmm/m/it/10 erformance[]\OT1/cm
+r/m/n/10 2[]1[]\OML/cmm/m/it/10 timestamp >
+
+Overfull \hbox (23.21019pt too wide) in paragraph at lines 196--197
+\OML/cmm/m/it/10 :png\OT1/cmr/m/n/10 `\OML/cmm/m/it/10 forRand\OT1/cmr/m/n/10 `
+\OML/cmm/m/it/10 data=model[]erformance[]se[]\OT1/cmr/m/n/10 2[]\OML/cmm/m/it/1
+0 timestamp >
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 198.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\Omega' on input line 198.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `subscript' on input line 198.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 198.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 201.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\sigma' on input line 201.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `subscript' on input line 201.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 201.
+
+
+Underfull \hbox (badness 1132) in paragraph at lines 202--203
+\TU/lmr/m/n/10 (MSE=0.006502), and with RFR an R² of 0.2827
+./paper_v1.tex:204: Missing $ inserted.
+<inserted text> 
+                $
+l.204 ...alue plots (available in `data/predicted_
+                                                  vs_true_Omega_m_9_<timesta...
+
+./paper_v1.tex:204: Double subscript.
+l.204 ...lable in `data/predicted_vs_true_Omega_m_
+                                                  9_<timestamp>.png` for $\O...
+
+./paper_v1.tex:204: Double subscript.
+l.204 ...ble in `data/predicted_vs_true_Omega_m_9_
+                                                  <timestamp>.png` for $\Ome...
+
+./paper_v1.tex:204: Missing $ inserted.
+<inserted text> 
+                $
+l.204 ...ue_Omega_m_9_<timestamp>.png` for $\Omega
+                                                  _m$ and `data/predicted_vs...
+
+./paper_v1.tex:204: Missing $ inserted.
+<inserted text> 
+                $
+l.204 ....png` for $\Omega_m$ and `data/predicted_
+                                                  vs_true_sigma_8_10_<timest...
+
+./paper_v1.tex:204: Double subscript.
+l.204 ...a_m$ and `data/predicted_vs_true_sigma_8_
+                                                  10_<timestamp>.png` for $\...
+
+./paper_v1.tex:204: Missing $ inserted.
+<inserted text> 
+                $
+l.204 ...e_sigma_8_10_<timestamp>.png` for $\sigma
+                                                  _8$) further illustrate th...
+
+
+Underfull \hbox (badness 2538) in paragraph at lines 204--205
+[]\TU/lmr/m/n/10 The predicted vs. true value plots (available
+
+Underfull \hbox (badness 10000) in paragraph at lines 204--205
+\TU/lmr/m/n/10 in ‘data/predicted$[]\OML/cmm/m/it/10 s[]rue[]mega[][][]timestam
+p >
+
+Overfull \hbox (32.46834pt too wide) in paragraph at lines 204--205
+\OML/cmm/m/it/10 :png\OT1/cmr/m/n/10 `\OML/cmm/m/it/10 for$$\OT1/cmr/m/n/10 
+[]$ \TU/lmr/m/n/10 and ‘data/predicted$[]\OML/cmm/m/it/10 s[]rue[]igma[][]\OT1/
+cmr/m/n/10 0[]\OML/cmm/m/it/10 timestamp >
+[6]
+./paper_v1.tex:208: Missing $ inserted.
+<inserted text> 
+                $
+l.208 ...re visualized in the plots `data/feature_
+                                                  importances_Omega_m_7_<tim...
+
+./paper_v1.tex:208: Double subscript.
+l.208 ... plots `data/feature_importances_Omega_m_
+                                                  7_<timestamp>.png` and `da...
+
+./paper_v1.tex:208: Double subscript.
+l.208 ...lots `data/feature_importances_Omega_m_7_
+                                                  <timestamp>.png` and `data...
+
+./paper_v1.tex:208: Double subscript.
+l.208 ...g` and `data/feature_importances_sigma_8_
+                                                  8_<timestamp>.png`.
+./paper_v1.tex:208: Double subscript.
+l.208 ... and `data/feature_importances_sigma_8_8_
+                                                  <timestamp>.png`.
+./paper_v1.tex:209: Missing $ inserted.
+<inserted text> 
+                $
+l.209 
+      
+
+Underfull \hbox (badness 10000) in paragraph at lines 208--209
+[]\TU/lmr/m/n/10 Feature importances were derived for the
+
+Underfull \hbox (badness 10000) in paragraph at lines 208--209
+\TU/lmr/m/n/10 tree-based models (RFR and GBR). These
+
+Underfull \hbox (badness 10000) in paragraph at lines 208--209
+\TU/lmr/m/n/10 importances are visualized in the plots
+
+Underfull \hbox (badness 10000) in paragraph at lines 208--209
+\TU/lmr/m/n/10 ‘data/feature$[]\OML/cmm/m/it/10 mportances[]mega[][][]timestamp
+ >
+
+Overfull \hbox (14.23372pt too wide) in paragraph at lines 208--209
+\OML/cmm/m/it/10 :png\OT1/cmr/m/n/10 `\OML/cmm/m/it/10 and\OT1/cmr/m/n/10 `\OML
+/cmm/m/it/10 data=feature[]mportances[]igma[][][]timestamp >
+
+Underfull \hbox (badness 1253) in paragraph at lines 212--214
+[]\TU/lmr/m/n/10 Predicting $\OT1/cmr/m/n/10 
+[]$\TU/lmr/m/n/10 : The RFR model highlighted
+
+Underfull \hbox (badness 2680) in paragraph at lines 212--214
+\TU/lmr/m/n/10 Vmax). The GBR model also emphasized
+
+Underfull \hbox (badness 3635) in paragraph at lines 212--214
+\TU/lmr/m/n/10 ‘SF$[]$mean‘, ‘logM$[]$mean‘, and ‘logV$[]$mean‘,
+
+Underfull \hbox (badness 5105) in paragraph at lines 214--216
+\TU/lmr/m/n/10 ‘logC$[]$mean‘ (mean log concentration) were
+./paper_v1.tex:226: Missing $ inserted.
+<inserted text> 
+                $
+l.226 ...The distributions plotted in `engineered_
+                                                  feature_dist_laplacian_*.p...
+
+./paper_v1.tex:227: Missing $ inserted.
+<inserted text> 
+                $
+l.227 
+      
+
+Overfull \hbox (348.47661pt too wide) in paragraph at lines 226--227
+\TU/lmr/m/n/10 ‘engineered$[]\OML/cmm/m/it/10 eature[]ist[]aplacian[]:png\OT1/c
+mr/m/n/10 `\OML/cmm/m/it/10 and\OT1/cmr/m/n/10 `\OML/cmm/m/it/10 engineered[]ea
+ture[]ist[]iff[]:png\OT1/cmr/m/n/10 `\OML/cmm/m/it/10 arelikelydominatedbythese
+imputedmeansformanygraphs:$ 
+
+Underfull \hbox (badness 5050) in paragraph at lines 238--239
+[]\TU/lmr/m/n/10 The relationship between these specific graph-
+[7] [8]
+No file paper_v1.bbl.
+[9] (./paper_v1.aux)
+
+Package rerunfilecheck Warning: File `paper_v1.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right .
+
+
+ )
+(see the transcript file for additional information)
+Output written on paper_v1.pdf (9 pages).
+Transcript written on paper_v1.log.
+---- STDERR ----
+
+==== ERROR on iteration Final Pass 1 ====
+---- STDOUT ----
+This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019) (preloaded format=xelatex)
+ restricted \write18 enabled.
+entering extended mode
+(./paper_v1.tex
+LaTeX2e <2018-12-01>
+(./aastex631.cls
+Document Class: aastex631 2020/12/20 Version 6.3.1d/AAS markup document class
+(/usr/local/texlive/2019/texmf-dist/tex/latex/revtex/revtex4-1.cls
+Document Class: revtex4-1 2010/07/25/20:33:00 4.1r (http://publish.aps.org/revt
+ex4/ for documentation)
+ltxutil[2010/07/25/20:33:00 4.1r utilities package (portions licensed from W. E
+. Baxter web at superscript.com)]
+ltxfront[2010/07/25/20:33:00 4.1r frontmatter package (AO,DPC)]
+ltxgrid[2010/07/25/20:33:00 4.1r page grid package (portions licensed from W. E
+. Baxter web at superscript.com)]
+(/usr/local/texlive/2019/texmf-dist/tex/latex/revtex/aps4-1.rtx)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/revtex/aps10pt4-1.rtx)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/textcase/textcase.sty)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/url/url.sty)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/natbib/natbib.sty)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/revtex/revsymb4-1.sty))
+(/usr/local/texlive/2019/texmf-dist/tex/latex/base/latexsym.sty)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/graphics/graphicx.sty
+(/usr/local/texlive/2019/texmf-dist/tex/latex/graphics/keyval.sty)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/graphics/graphics.sty
+(/usr/local/texlive/2019/texmf-dist/tex/latex/graphics/trig.sty)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/graphics-cfg/graphics.cfg)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/graphics-def/xetex.def)))
+(/usr/local/texlive/2019/texmf-dist/tex/latex/amsfonts/amssymb.sty
+(/usr/local/texlive/2019/texmf-dist/tex/latex/amsfonts/amsfonts.sty))
+(/usr/local/texlive/2019/texmf-dist/tex/generic/epsf/epsf.sty
+This is `epsf.tex' v2.7.4 <14 February 2011>
+) (/usr/local/texlive/2019/texmf-dist/tex/latex/tools/longtable.sty)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/xcolor/xcolor.sty
+(/usr/local/texlive/2019/texmf-dist/tex/latex/graphics-cfg/color.cfg))
+(/usr/local/texlive/2019/texmf-dist/tex/latex/hyperref/hyperref.sty
+(/usr/local/texlive/2019/texmf-dist/tex/generic/oberdiek/hobsub-hyperref.sty
+(/usr/local/texlive/2019/texmf-dist/tex/generic/oberdiek/hobsub-generic.sty))
+(/usr/local/texlive/2019/texmf-dist/tex/generic/ifxetex/ifxetex.sty)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/oberdiek/auxhook.sty)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/oberdiek/kvoptions.sty)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/hyperref/pd1enc.def)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/latexconfig/hyperref.cfg))
+(/usr/local/texlive/2019/texmf-dist/tex/latex/hyperref/hxetex.def
+(/usr/local/texlive/2019/texmf-dist/tex/latex/hyperref/puenc.def)
+(/usr/local/texlive/2019/texmf-dist/tex/generic/oberdiek/stringenc.sty)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty))
+(/usr/local/texlive/2019/texmf-dist/tex/latex/tools/array.sty)
+(/usr/local/texlive/2019/texmf-dist/tex/generic/ulem/ulem.sty))
+(/usr/local/texlive/2019/texmf-dist/tex/latex/amsmath/amsmath.sty
+For additional information on amsmath, use the `?' option.
+(/usr/local/texlive/2019/texmf-dist/tex/latex/amsmath/amstext.sty
+(/usr/local/texlive/2019/texmf-dist/tex/latex/amsmath/amsgen.sty))
+(/usr/local/texlive/2019/texmf-dist/tex/latex/amsmath/amsbsy.sty)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/amsmath/amsopn.sty))
+(/usr/local/texlive/2019/texmf-dist/tex/latex/multirow/multirow.sty)
+(./aas_macros.sty) (./paper_v1.aux)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/hyperref/nameref.sty
+(/usr/local/texlive/2019/texmf-dist/tex/generic/oberdiek/gettitlestring.sty))
+(./paper_v1.out) (./paper_v1.out)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/lineno/lineno.sty)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/base/ulasy.fd)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/amsfonts/umsa.fd)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/amsfonts/umsb.fd)
+(/usr/local/texlive/2019/texmf-dist/tex/generic/oberdiek/se-ascii-print.def)
+[1]
+Underfull \hbox (badness 1852) in paragraph at lines 43--44
+[]\TU/lmr/bx/n/10 Node Features (‘x‘)\TU/lmr/m/n/10 : A matrix of shape
+
+Underfull \hbox (badness 5771) in paragraph at lines 56--57
+[]\TU/lmr/bx/n/10 Node Feature Distributions\TU/lmr/m/n/10 : Analyzing
+
+Underfull \hbox (badness 3815) in paragraph at lines 56--57
+\TU/lmr/m/n/10 the distributions of the four node features
+[2]
+Underfull \hbox (badness 1521) in paragraph at lines 59--60
+[]\TU/lmr/bx/n/10 Edge Attribute Investigation\TU/lmr/m/n/10 : Examining
+
+Underfull \hbox (badness 2173) in paragraph at lines 59--60
+\TU/lmr/m/n/10 the nature and distribution of the provided
+
+Underfull \hbox (badness 10000) in paragraph at lines 78--79
+[]\TU/lmr/bx/n/10 Eigenvalue Decomposition\TU/lmr/m/n/10 : We com-
+
+Underfull \hbox (badness 5490) in paragraph at lines 78--79
+\TU/lmr/m/n/10 puted the eigenvalues of $\OML/cmm/m/it/10 L[]$ \TU/lmr/m/n/10 u
+sing the
+[3]
+Underfull \hbox (badness 10000) in paragraph at lines 100--101
+[]\TU/lmr/bx/n/10 Scale Factor Difference\TU/lmr/m/n/10 : $\OT1/cmr/m/n/10 ^^A[
+] =
+
+Underfull \hbox (badness 1975) in paragraph at lines 100--101
+\TU/lmr/m/n/10 edges point from progenitors to descen-
+
+Underfull \hbox (badness 10000) in paragraph at lines 100--101
+\TU/lmr/m/n/10 dants, we expect $\OML/cmm/m/it/10 scale[]factor\OT1/cmr/m/n/10 
+(\OML/cmm/m/it/10 v\OT1/cmr/m/n/10 ) \OML/cmm/m/it/10 >
+
+Underfull \hbox (badness 1178) in paragraph at lines 100--101
+\OML/cmm/m/it/10 scale[]factor\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 u\OT1/cmr/m/n/1
+0 )$\TU/lmr/m/n/10 , and $\OT1/cmr/m/n/10 ^^A[]$ \TU/lmr/m/n/10 represents the
+
+Underfull \hbox (badness 1515) in paragraph at lines 101--102
+[]\TU/lmr/bx/n/10 Log Mass Ratio\TU/lmr/m/n/10 : $\OML/cmm/m/it/10 log[]mass[]r
+atio \OT1/cmr/m/n/10 =
+
+Underfull \hbox (badness 1418) in paragraph at lines 116--117
+[]\TU/lmr/m/n/10 The selected models were trained on the PCA-
+[4]
+./paper_v1.tex:143: Missing $ inserted.
+<inserted text> 
+                $
+l.143 ...detailed in the file `data/normalization_
+                                                  params.npz`, were: mean = ...
+
+./paper_v1.tex:144: Missing $ inserted.
+<inserted text> 
+                $
+l.144 
+      
+
+Underfull \hbox (badness 3029) in paragraph at lines 143--144
+\TU/lmr/m/n/10 ing, node features, specifically the base-10 loga-
+
+Underfull \hbox (badness 3536) in paragraph at lines 143--144
+\TU/lmr/m/n/10 The computed normalization parameters, detailed
+
+Underfull \hbox (badness 2698) in paragraph at lines 143--144
+\TU/lmr/m/n/10 in the file ‘data/normalization$[]\OML/cmm/m/it/10 arams:npz\OT1
+/cmr/m/n/10 `\OML/cmm/m/it/10 ; were \OT1/cmr/m/n/10 :
+
+Underfull \hbox (badness 10000) in paragraph at lines 143--144
+\OML/cmm/m/it/10 mean \OT1/cmr/m/n/10 = `[11\OML/cmm/m/it/10 :\OT1/cmr/m/n/10 1
+38\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0\OML/cmm/m/it/10 :\OT1/cmr/m/n/10 736\OML
+/cmm/m/it/10 ; \OT1/cmr/m/n/10 2\OML/cmm/m/it/10 :\OT1/cmr/m/n/10 115\OML/cmm/m
+/it/10 ; \OT1/cmr/m/n/10 0\OML/cmm/m/it/10 :\OT1/cmr/m/n/10 370]`\OML/cmm/m/it/
+10 andstd \OT1/cmr/m/n/10 =
+
+Overfull \hbox (45.08554pt too wide) in paragraph at lines 143--144
+\OT1/cmr/m/n/10 `[0\OML/cmm/m/it/10 :\OT1/cmr/m/n/10 713\OML/cmm/m/it/10 ; \OT1
+/cmr/m/n/10 0\OML/cmm/m/it/10 :\OT1/cmr/m/n/10 364\OML/cmm/m/it/10 ; \OT1/cmr/m
+/n/10 0\OML/cmm/m/it/10 :\OT1/cmr/m/n/10 212\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 
+0\OML/cmm/m/it/10 :\OT1/cmr/m/n/10 180]`\OML/cmm/m/it/10 forthefournodefeatures
+; respectively:$ 
+./paper_v1.tex:152: Missing $ inserted.
+<inserted text> 
+                $
+l.152 ...aphs. To address this, a threshold (`MAX_
+                                                  NODES_FOR_EIGS = 500`) was...
+
+./paper_v1.tex:153: Missing $ inserted.
+<inserted text> 
+                $
+l.153 
+      
+
+Underfull \hbox (badness 10000) in paragraph at lines 152--153
+[]\TU/lmr/m/n/10 A significant challenge was the computa-
+
+Underfull \hbox (badness 10000) in paragraph at lines 152--153
+\TU/lmr/m/n/10 tional cost associated with eigenvalue de-
+
+Underfull \hbox (badness 10000) in paragraph at lines 152--153
+\TU/lmr/m/n/10 composition for large graphs. To address
+
+Underfull \hbox (badness 10000) in paragraph at lines 152--153
+\TU/lmr/m/n/10 this, a threshold (‘MAX$[]\OML/cmm/m/it/10 ODES[]OR[]IGS \OT1/cm
+r/m/n/10 =
+
+Overfull \hbox (2450.30879pt too wide) in paragraph at lines 152--153
+\OT1/cmr/m/n/10 500`)\OML/cmm/m/it/10 wasset; abovewhichLaplaciananddiffusionfe
+aturecalculationswereskipped:ThisresultedinNaNvaluesforthesefeaturesingraphsexc
+eedingthissizelimit:Specifically; \OT1/cmr/m/n/10 638\OML/cmm/m/it/10 outof\OT1
+/cmr/m/n/10 800\OML/cmm/m/it/10 traininggraphsand\OT1/cmr/m/n/10 164\OML/cmm/m/
+it/10 outof\OT1/cmr/m/n/10 200\OML/cmm/m/it/10 testgraphsexceededthislimit:Cons
+equently; asubstantialnumberofNaNentrieswerepresentintheengineeredfeaturematric
+es\OT1/cmr/m/n/10 (12\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 760\OML/cmm/m/it/10 NaN
+sin\OT1/cmr/m/n/10 `\OML/cmm/m/it/10 X[]rain[]ngineered\OT1/cmr/m/n/10 `(\OML/c
+mm/m/it/10 an\OT1/cmr/m/n/10 800\OML/cmm/m/it/10 x\OT1/cmr/m/n/10 24\OML/cmm/m/
+it/10 matrix\OT1/cmr/m/n/10 )\OML/cmm/m/it/10 and\OT1/cmr/m/n/10 3\OML/cmm/m/it
+/10 ; \OT1/cmr/m/n/10 280\OML/cmm/m/it/10 NaNsin\OT1/cmr/m/n/10 `\OML/cmm/m/it/
+10 X[]est[]ngineered\OT1/cmr/m/n/10 `(\OML/cmm/m/it/10 a\OT1/cmr/m/n/10 200\OML
+/cmm/m/it/10 x\OT1/cmr/m/n/10 24\OML/cmm/m/it/10 matrix\OT1/cmr/m/n/10 ))\OML/c
+mm/m/it/10 ; primarilyaffectingthe\OT1/cmr/m/n/10 20\OML/cmm/m/it/10 spectralan
+ddiffusionfeatures:TheseNaNsweresubsequentlyhandledbymeanimputationpriortoPrinc
+ipalComponentAnalysis\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 PCA\OT1/cmr/m/n/10 )\OML
+/cmm/m/it/10 :$ 
+./paper_v1.tex:154: Missing $ inserted.
+<inserted text> 
+                $
+l.154 ..., using raw values from `data/engineered_
+                                                  features_train.npz`) were ...
+
+./paper_v1.tex:155: Missing $ inserted.
+<inserted text> 
+                $
+l.155 
+      
+
+Underfull \hbox (badness 10000) in paragraph at lines 154--155
+[]\TU/lmr/m/n/10 The distributions of the engineered fea-
+
+Underfull \hbox (badness 10000) in paragraph at lines 154--155
+\TU/lmr/m/n/10 tures (post-imputation for plotting purposes
+
+Underfull \hbox (badness 10000) in paragraph at lines 154--155
+\TU/lmr/m/n/10 where applicable, using raw values from
+
+Overfull \hbox (1522.86035pt too wide) in paragraph at lines 154--155
+\TU/lmr/m/n/10 ‘data/engineered$[]\OML/cmm/m/it/10 eatures[]rain:npz\OT1/cmr/m/
+n/10 `)\OML/cmm/m/it/10 werevisualizedinaseriesofhistograms:Thedistributionsoft
+heedgefeatures\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 e:g:; \OT1/cmr/m/n/10 `\OML/cmm
+/m/it/10 mean[]delta[]sf\OT1/cmr/m/n/10 `\OML/cmm/m/it/10 and\OT1/cmr/m/n/10 `\
+OML/cmm/m/it/10 mean[]log[]mass[]ratio\OT1/cmr/m/n/10 `)\OML/cmm/m/it/10 werere
+lativelycompact:However; thedistributionsoftheLaplacianspectralfeatures\OT1/cmr
+/m/n/10 (\OML/cmm/m/it/10 e:g:; \OT1/cmr/m/n/10 `\OML/cmm/m/it/10 lap[]eig[]mea
+n\OT1/cmr/m/n/10 `\OML/cmm/m/it/10 and\OT1/cmr/m/n/10 `\OML/cmm/m/it/10 lap[]ei
+g[]std\OT1/cmr/m/n/10 `)\OML/cmm/m/it/10 andthediffusionmapfeatures\OT1/cmr/m/n
+/10 (\OML/cmm/m/it/10 mean; max; minpooled\OT1/cmr/m/n/10 )\OML/cmm/m/it/10 wer
+einfluencedbytheimputationofNaNsforlargegraphs:$ 
+./paper_v1.tex:158: Missing $ inserted.
+<inserted text> 
+                $
+l.158 ...ed variance plot (available in `data/pca_
+                                                  explained_variance_plot_1_...
+
+./paper_v1.tex:158: Double subscript.
+l.158 ...e in `data/pca_explained_variance_plot_1_
+                                                  <timestamp>.png`) shows th...
+
+./paper_v1.tex:159: Missing $ inserted.
+<inserted text> 
+                $
+l.159 
+      
+
+Underfull \hbox (badness 1789) in paragraph at lines 158--159
+\TU/lmr/m/n/10 Principal Component Analysis (PCA) was applied
+
+Underfull \hbox (badness 10000) in paragraph at lines 158--159
+\TU/lmr/m/n/10 in ‘data/pca$[]\OML/cmm/m/it/10 xplained[]ariance[]lot[][]timest
+amp >
+
+Overfull \hbox (1162.27211pt too wide) in paragraph at lines 158--159
+\OML/cmm/m/it/10 :png\OT1/cmr/m/n/10 `)\OML/cmm/m/it/10 showsthecumulativeandin
+dividualexplainedvariancepercomponent:Basedonthisanalysis; itwasdeterminedthat\
+OT1/cmr/m/n/10 8\OML/cmm/m/it/10 principalcomponentsweresufficienttoexplainappr
+oximately\OT1/cmr/m/n/10 96\OML/cmm/m/it/10 :\OT1/cmr/m/n/10 29%\OML/cmm/m/it/1
+0 ofthevarianceintheengineeredfeaturespace:Consequently; bothtrainingandtesteng
+ineeredfeaturesetsweretransformedintothis\OT1/cmr/m/n/10 8 \OMS/cmsy/m/n/10 ^^@
+
+[5]
+./paper_v1.tex:160: Missing $ inserted.
+<inserted text> 
+                $
+l.160 ...$ and $\sigma_8$ (available in `data/pca_
+                                                  projection_plot_6_<timesta...
+
+./paper_v1.tex:160: Double subscript.
+l.160 ...available in `data/pca_projection_plot_6_
+                                                  <timestamp>.png`). These p...
+
+./paper_v1.tex:160: Missing $ inserted.
+<inserted text> 
+                $
+l.160 ...points corresponding to different $\Omega
+                                                  _m$ or $\sigma_8$ values. ...
+
+
+Overfull \hbox (396.71777pt too wide) in paragraph at lines 160--161
+\OML/cmm/m/it/10 :png\OT1/cmr/m/n/10 `)\OML/cmm/m/it/10 :Theseprojectionsdidnot
+revealanyimmediatelyobviousstronglinearseparationorclearclusteringofdatapointsc
+orrespondingtodifferent$$\OT1/cmr/m/n/10 
+[]$
+./paper_v1.tex:172: Missing $ inserted.
+<inserted text> 
+                $
+l.172 ...ith `GroupKFold` (5 splits) based on `lh_
+                                                  id` to prevent data leakage.
+./paper_v1.tex:173: Missing $ inserted.
+<inserted text> 
+                $
+l.173 
+      
+
+Overfull \hbox (8.00752pt too wide) in paragraph at lines 179--194
+ []$ 
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+./paper_v1.tex:196: Missing $ inserted.
+<inserted text> 
+                $
+l.196 ...nce comparison (available in `data/model_
+                                                  performance_r2_11_<timesta...
+
+./paper_v1.tex:197: Missing $ inserted.
+<inserted text> 
+                $
+l.197 
+      
+
+Overfull \hbox (8.64098pt too wide) in paragraph at lines 196--197
+\TU/lmr/m/n/10 (available in ‘data/model$[]\OML/cmm/m/it/10 erformance[]\OT1/cm
+r/m/n/10 2[]1[]\OML/cmm/m/it/10 timestamp >
+
+Overfull \hbox (23.21019pt too wide) in paragraph at lines 196--197
+\OML/cmm/m/it/10 :png\OT1/cmr/m/n/10 `\OML/cmm/m/it/10 forRand\OT1/cmr/m/n/10 `
+\OML/cmm/m/it/10 data=model[]erformance[]se[]\OT1/cmr/m/n/10 2[]\OML/cmm/m/it/1
+0 timestamp >
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 198.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\Omega' on input line 198.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `subscript' on input line 198.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 198.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 201.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\sigma' on input line 201.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `subscript' on input line 201.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 201.
+
+
+Underfull \hbox (badness 1132) in paragraph at lines 202--203
+\TU/lmr/m/n/10 (MSE=0.006502), and with RFR an R² of 0.2827
+./paper_v1.tex:204: Missing $ inserted.
+<inserted text> 
+                $
+l.204 ...alue plots (available in `data/predicted_
+                                                  vs_true_Omega_m_9_<timesta...
+
+./paper_v1.tex:204: Double subscript.
+l.204 ...lable in `data/predicted_vs_true_Omega_m_
+                                                  9_<timestamp>.png` for $\O...
+
+./paper_v1.tex:204: Double subscript.
+l.204 ...ble in `data/predicted_vs_true_Omega_m_9_
+                                                  <timestamp>.png` for $\Ome...
+
+./paper_v1.tex:204: Missing $ inserted.
+<inserted text> 
+                $
+l.204 ...ue_Omega_m_9_<timestamp>.png` for $\Omega
+                                                  _m$ and `data/predicted_vs...
+
+./paper_v1.tex:204: Missing $ inserted.
+<inserted text> 
+                $
+l.204 ....png` for $\Omega_m$ and `data/predicted_
+                                                  vs_true_sigma_8_10_<timest...
+
+./paper_v1.tex:204: Double subscript.
+l.204 ...a_m$ and `data/predicted_vs_true_sigma_8_
+                                                  10_<timestamp>.png` for $\...
+
+./paper_v1.tex:204: Missing $ inserted.
+<inserted text> 
+                $
+l.204 ...e_sigma_8_10_<timestamp>.png` for $\sigma
+                                                  _8$) further illustrate th...
+
+
+Underfull \hbox (badness 2538) in paragraph at lines 204--205
+[]\TU/lmr/m/n/10 The predicted vs. true value plots (available
+
+Underfull \hbox (badness 10000) in paragraph at lines 204--205
+\TU/lmr/m/n/10 in ‘data/predicted$[]\OML/cmm/m/it/10 s[]rue[]mega[][][]timestam
+p >
+
+Overfull \hbox (32.46834pt too wide) in paragraph at lines 204--205
+\OML/cmm/m/it/10 :png\OT1/cmr/m/n/10 `\OML/cmm/m/it/10 for$$\OT1/cmr/m/n/10 
+[]$ \TU/lmr/m/n/10 and ‘data/predicted$[]\OML/cmm/m/it/10 s[]rue[]igma[][]\OT1/
+cmr/m/n/10 0[]\OML/cmm/m/it/10 timestamp >
+[6]
+./paper_v1.tex:208: Missing $ inserted.
+<inserted text> 
+                $
+l.208 ...re visualized in the plots `data/feature_
+                                                  importances_Omega_m_7_<tim...
+
+./paper_v1.tex:208: Double subscript.
+l.208 ... plots `data/feature_importances_Omega_m_
+                                                  7_<timestamp>.png` and `da...
+
+./paper_v1.tex:208: Double subscript.
+l.208 ...lots `data/feature_importances_Omega_m_7_
+                                                  <timestamp>.png` and `data...
+
+./paper_v1.tex:208: Double subscript.
+l.208 ...g` and `data/feature_importances_sigma_8_
+                                                  8_<timestamp>.png`.
+./paper_v1.tex:208: Double subscript.
+l.208 ... and `data/feature_importances_sigma_8_8_
+                                                  <timestamp>.png`.
+./paper_v1.tex:209: Missing $ inserted.
+<inserted text> 
+                $
+l.209 
+      
+
+Underfull \hbox (badness 10000) in paragraph at lines 208--209
+[]\TU/lmr/m/n/10 Feature importances were derived for the
+
+Underfull \hbox (badness 10000) in paragraph at lines 208--209
+\TU/lmr/m/n/10 tree-based models (RFR and GBR). These
+
+Underfull \hbox (badness 10000) in paragraph at lines 208--209
+\TU/lmr/m/n/10 importances are visualized in the plots
+
+Underfull \hbox (badness 10000) in paragraph at lines 208--209
+\TU/lmr/m/n/10 ‘data/feature$[]\OML/cmm/m/it/10 mportances[]mega[][][]timestamp
+ >
+
+Overfull \hbox (14.23372pt too wide) in paragraph at lines 208--209
+\OML/cmm/m/it/10 :png\OT1/cmr/m/n/10 `\OML/cmm/m/it/10 and\OT1/cmr/m/n/10 `\OML
+/cmm/m/it/10 data=feature[]mportances[]igma[][][]timestamp >
+
+Underfull \hbox (badness 1253) in paragraph at lines 212--214
+[]\TU/lmr/m/n/10 Predicting $\OT1/cmr/m/n/10 
+[]$\TU/lmr/m/n/10 : The RFR model highlighted
+
+Underfull \hbox (badness 2680) in paragraph at lines 212--214
+\TU/lmr/m/n/10 Vmax). The GBR model also emphasized
+
+Underfull \hbox (badness 3635) in paragraph at lines 212--214
+\TU/lmr/m/n/10 ‘SF$[]$mean‘, ‘logM$[]$mean‘, and ‘logV$[]$mean‘,
+
+Underfull \hbox (badness 5105) in paragraph at lines 214--216
+\TU/lmr/m/n/10 ‘logC$[]$mean‘ (mean log concentration) were
+./paper_v1.tex:226: Missing $ inserted.
+<inserted text> 
+                $
+l.226 ...The distributions plotted in `engineered_
+                                                  feature_dist_laplacian_*.p...
+
+./paper_v1.tex:227: Missing $ inserted.
+<inserted text> 
+                $
+l.227 
+      
+
+Overfull \hbox (348.47661pt too wide) in paragraph at lines 226--227
+\TU/lmr/m/n/10 ‘engineered$[]\OML/cmm/m/it/10 eature[]ist[]aplacian[]:png\OT1/c
+mr/m/n/10 `\OML/cmm/m/it/10 and\OT1/cmr/m/n/10 `\OML/cmm/m/it/10 engineered[]ea
+ture[]ist[]iff[]:png\OT1/cmr/m/n/10 `\OML/cmm/m/it/10 arelikelydominatedbythese
+imputedmeansformanygraphs:$ 
+
+Underfull \hbox (badness 5050) in paragraph at lines 238--239
+[]\TU/lmr/m/n/10 The relationship between these specific graph-
+[7] [8]
+No file paper_v1.bbl.
+[9] (./paper_v1.aux) )
+(see the transcript file for additional information)
+Output written on paper_v1.pdf (9 pages).
+Transcript written on paper_v1.log.
+---- STDERR ----
+
+==== ERROR on iteration Pass 1 ====
+---- STDOUT ----
+This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019) (preloaded format=xelatex)
+ restricted \write18 enabled.
+entering extended mode
+(./paper_v4.tex
+LaTeX2e <2018-12-01>
+(./aastex631.cls
+Document Class: aastex631 2020/12/20 Version 6.3.1d/AAS markup document class
+(/usr/local/texlive/2019/texmf-dist/tex/latex/revtex/revtex4-1.cls
+Document Class: revtex4-1 2010/07/25/20:33:00 4.1r (http://publish.aps.org/revt
+ex4/ for documentation)
+ltxutil[2010/07/25/20:33:00 4.1r utilities package (portions licensed from W. E
+. Baxter web at superscript.com)]
+ltxfront[2010/07/25/20:33:00 4.1r frontmatter package (AO,DPC)]
+ltxgrid[2010/07/25/20:33:00 4.1r page grid package (portions licensed from W. E
+. Baxter web at superscript.com)]
+(/usr/local/texlive/2019/texmf-dist/tex/latex/revtex/aps4-1.rtx)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/revtex/aps10pt4-1.rtx)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/textcase/textcase.sty)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/url/url.sty)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/natbib/natbib.sty)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/revtex/revsymb4-1.sty))
+(/usr/local/texlive/2019/texmf-dist/tex/latex/base/latexsym.sty)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/graphics/graphicx.sty
+(/usr/local/texlive/2019/texmf-dist/tex/latex/graphics/keyval.sty)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/graphics/graphics.sty
+(/usr/local/texlive/2019/texmf-dist/tex/latex/graphics/trig.sty)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/graphics-cfg/graphics.cfg)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/graphics-def/xetex.def)))
+(/usr/local/texlive/2019/texmf-dist/tex/latex/amsfonts/amssymb.sty
+(/usr/local/texlive/2019/texmf-dist/tex/latex/amsfonts/amsfonts.sty))
+(/usr/local/texlive/2019/texmf-dist/tex/generic/epsf/epsf.sty
+This is `epsf.tex' v2.7.4 <14 February 2011>
+) (/usr/local/texlive/2019/texmf-dist/tex/latex/tools/longtable.sty)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/xcolor/xcolor.sty
+(/usr/local/texlive/2019/texmf-dist/tex/latex/graphics-cfg/color.cfg))
+(/usr/local/texlive/2019/texmf-dist/tex/latex/hyperref/hyperref.sty
+(/usr/local/texlive/2019/texmf-dist/tex/generic/oberdiek/hobsub-hyperref.sty
+(/usr/local/texlive/2019/texmf-dist/tex/generic/oberdiek/hobsub-generic.sty))
+(/usr/local/texlive/2019/texmf-dist/tex/generic/ifxetex/ifxetex.sty)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/oberdiek/auxhook.sty)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/oberdiek/kvoptions.sty)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/hyperref/pd1enc.def)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/latexconfig/hyperref.cfg))
+(/usr/local/texlive/2019/texmf-dist/tex/latex/hyperref/hxetex.def
+(/usr/local/texlive/2019/texmf-dist/tex/latex/hyperref/puenc.def)
+(/usr/local/texlive/2019/texmf-dist/tex/generic/oberdiek/stringenc.sty)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty))
+(/usr/local/texlive/2019/texmf-dist/tex/latex/tools/array.sty)
+(/usr/local/texlive/2019/texmf-dist/tex/generic/ulem/ulem.sty))
+(/usr/local/texlive/2019/texmf-dist/tex/latex/amsmath/amsmath.sty
+For additional information on amsmath, use the `?' option.
+(/usr/local/texlive/2019/texmf-dist/tex/latex/amsmath/amstext.sty
+(/usr/local/texlive/2019/texmf-dist/tex/latex/amsmath/amsgen.sty))
+(/usr/local/texlive/2019/texmf-dist/tex/latex/amsmath/amsbsy.sty)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/amsmath/amsopn.sty))
+(/usr/local/texlive/2019/texmf-dist/tex/latex/multirow/multirow.sty)
+(./aas_macros.sty)
+No file paper_v4.aux.
+(/usr/local/texlive/2019/texmf-dist/tex/latex/hyperref/nameref.sty
+(/usr/local/texlive/2019/texmf-dist/tex/generic/oberdiek/gettitlestring.sty))
+
+Package hyperref Warning: Rerun to get /PageLabels entry.
+
+(/usr/local/texlive/2019/texmf-dist/tex/latex/lineno/lineno.sty)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/base/ulasy.fd)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/amsfonts/umsa.fd)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/amsfonts/umsb.fd)
+(/usr/local/texlive/2019/texmf-dist/tex/generic/oberdiek/se-ascii-print.def)
+
+Package natbib Warning: Citation `parkinson2007generatingdarkmatterhalo' on pag
+e 1 undefined on input line 29.
+
+
+Package natbib Warning: Citation `robles2022deeplearningapproachhalo' on page 1
+ undefined on input line 29.
+
+
+Package natbib Warning: Citation `robles2022deeplearningapproachhalo' on page 1
+ undefined on input line 29.
+
+
+Package natbib Warning: Citation `geda2025constructingmergertreesdensity' on pa
+ge 1 undefined on input line 29.
+
+
+Package natbib Warning: Citation `parkinson2007generatingdarkmatterhalo' on pag
+e 1 undefined on input line 29.
+
+
+Package natbib Warning: Citation `jung2024mergertreebasedgalaxymatching' on pag
+e 1 undefined on input line 29.
+
+[1]
+
+Package natbib Warning: Citation `bose2022constructinghighfidelityhalomerger' o
+n page 2 undefined on input line 33.
+
+
+Package natbib Warning: Citation `bose2022constructinghighfidelityhalomerger' o
+n page 2 undefined on input line 33.
+
+
+Package natbib Warning: Citation `chandrogómez2025accuracydarkmatterhalo' on pa
+ge 2 undefined on input line 33.
+
+
+Package natbib Warning: Citation `chandrogómez2025accuracydarkmatterhalo' on pa
+ge 2 undefined on input line 33.
+
+
+Package natbib Warning: Citation `bose2022constructinghighfidelityhalomerger' o
+n page 2 undefined on input line 33.
+
+
+Package natbib Warning: Citation `jung2024mergertreebasedgalaxymatching' on pag
+e 2 undefined on input line 33.
+
+
+Package natbib Warning: Citation `bose2022constructinghighfidelityhalomerger' o
+n page 2 undefined on input line 33.
+
+
+Package natbib Warning: Citation `bose2022constructinghighfidelityhalomerger' o
+n page 2 undefined on input line 33.
+
+
+Package natbib Warning: Citation `jung2024mergertreebasedgalaxymatching' on pag
+e 2 undefined on input line 33.
+
+
+Package natbib Warning: Citation `chandrogómez2025accuracydarkmatterhalo' on pa
+ge 2 undefined on input line 33.
+
+
+Underfull \hbox (badness 1852) in paragraph at lines 43--44
+[]\TU/lmr/bx/n/10 Node Features (‘x‘)\TU/lmr/m/n/10 : A matrix of shape
+./paper_v4.tex:45: Missing $ inserted.
+<inserted text> 
+                $
+l.45 ...tem \textbf{Edge Attributes (`edge_attr`)}
+                                                  : A matrix of shape `[num_...
+
+./paper_v4.tex:45: Extra }, or forgotten $.
+<recently read> \egroup 
+                        
+l.45 ...tem \textbf{Edge Attributes (`edge_attr`)}
+                                                  : A matrix of shape `[num_...
+
+
+./paper_v4.tex:46: LaTeX Error: Command \item invalid in math mode.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.46     \item
+               \textbf{Graph-Level Labels (`y`)}: A matrix of shape `[1, 2]`...
+
+
+./paper_v4.tex:46: LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.46     \item \textbf
+                      {Graph-Level Labels (`y`)}: A matrix of shape `[1, 2]`...
+
+
+./paper_v4.tex:46: LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.46     \item \textbf
+                      {Graph-Level Labels (`y`)}: A matrix of shape `[1, 2]`...
+
+./paper_v4.tex:46: Missing $ inserted.
+<inserted text> 
+                $
+l.46 ...ted: the matter density parameter ($\Omega
+                                                  _m$) and the amplitude of ...
+
+
+Overfull \hbox (1409.03645pt too wide) in paragraph at lines 45--47
+[]\TU/lmr/bx/n/10 Edge Attributes (‘edge$[]\OML/cmm/m/it/10 ttr\OT1/cmr/m/n/10 
+`) : \OML/cmm/m/it/10 Amatrixofshape\OT1/cmr/m/n/10 `[\OML/cmm/m/it/10 num[]dge
+s; \OT1/cmr/m/n/10 1]`\OML/cmm/m/it/10 thatstoresasinglefeatureassociatedwithea
+chmergerevent:Thisfeature[]sprecisenaturewillbecarefullyexaminedduringexplorato
+rydataanalysis\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 EDA\OT1/cmr/m/n/10 )\OML/cmm/m/
+it/10 ; andifitprovesinsufficientforourpurposes; wewillcomputeastrophysicallymo
+tivatededgefeaturesfromthenodeproperties:[] \OT1/cmr/m/n/10 :
+
+Overfull \hbox (364.036pt too wide) in paragraph at lines 45--47
+\OML/cmm/m/it/10 Amatrixofshape\OT1/cmr/m/n/10 `[1\OML/cmm/m/it/10 ; \OT1/cmr/m
+/n/10 2]`\OML/cmm/m/it/10 containingthecosmologicalparametersassociatedwiththes
+imulationfromwhichthemergertreewasextracted \OT1/cmr/m/n/10 :
+./paper_v4.tex:47: Missing $ inserted.
+<inserted text> 
+                $
+l.47 ...tem \textbf{Number of Nodes (`num_nodes`)}
+                                                  : The total number of halo...
+
+./paper_v4.tex:47: Extra }, or forgotten $.
+<recently read> \egroup 
+                        
+l.47 ...tem \textbf{Number of Nodes (`num_nodes`)}
+                                                  : The total number of halo...
+
+
+./paper_v4.tex:48: LaTeX Error: Command \item invalid in math mode.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.48     \item
+               \textbf{Latin Hypercube ID (`lh_id`)}: An identifier indicati...
+
+
+./paper_v4.tex:48: LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.48     \item \textbf
+                      {Latin Hypercube ID (`lh_id`)}: An identifier indicati...
+
+
+./paper_v4.tex:48: LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.48     \item \textbf
+                      {Latin Hypercube ID (`lh_id`)}: An identifier indicati...
+
+./paper_v4.tex:48: Missing $ inserted.
+<inserted text> 
+                $
+l.48 ...item \textbf{Latin Hypercube ID (`lh_id`)}
+                                                  : An identifier indicating...
+
+./paper_v4.tex:48: Extra }, or forgotten $.
+\textdef@ ...th {#1}\let \f@size #2\selectfont #3}
+                                                  }
+l.48 ...item \textbf{Latin Hypercube ID (`lh_id`)}
+                                                  : An identifier indicating...
+
+./paper_v4.tex:48: Extra }, or forgotten $.
+\textdef@ ...h {#1}\let \f@size #2\selectfont #3}}
+                                                  
+l.48 ...item \textbf{Latin Hypercube ID (`lh_id`)}
+                                                  : An identifier indicating...
+
+./paper_v4.tex:48: Extra }, or forgotten $.
+\text@ ...e {\textdef@ \displaystyle \f@size {#1}}
+                                                  {\textdef@ \textstyle \f@s...
+l.48 ...item \textbf{Latin Hypercube ID (`lh_id`)}
+                                                  : An identifier indicating...
+
+./paper_v4.tex:48: Missing $ inserted.
+<inserted text> 
+                $
+l.48 ...item \textbf{Latin Hypercube ID (`lh_id`)}
+                                                  : An identifier indicating...
+
+./paper_v4.tex:48: Extra }, or forgotten $.
+\textdef@ ...th {#1}\let \f@size #2\selectfont #3}
+                                                  }
+l.48 ...item \textbf{Latin Hypercube ID (`lh_id`)}
+                                                  : An identifier indicating...
+
+./paper_v4.tex:48: Extra }, or forgotten $.
+\textdef@ ...h {#1}\let \f@size #2\selectfont #3}}
+                                                  
+l.48 ...item \textbf{Latin Hypercube ID (`lh_id`)}
+                                                  : An identifier indicating...
+
+./paper_v4.tex:48: Extra }, or forgotten $.
+\text@ ...xtstyle \f@size {\firstchoice@false #1}}
+                                                  {\textdef@ \textstyle \sf@...
+l.48 ...item \textbf{Latin Hypercube ID (`lh_id`)}
+                                                  : An identifier indicating...
+
+./paper_v4.tex:48: Missing $ inserted.
+<inserted text> 
+                $
+l.48 ...item \textbf{Latin Hypercube ID (`lh_id`)}
+                                                  : An identifier indicating...
+
+./paper_v4.tex:48: Extra }, or forgotten $.
+\textdef@ ...th {#1}\let \f@size #2\selectfont #3}
+                                                  }
+l.48 ...item \textbf{Latin Hypercube ID (`lh_id`)}
+                                                  : An identifier indicating...
+
+./paper_v4.tex:48: Extra }, or forgotten $.
+\textdef@ ...h {#1}\let \f@size #2\selectfont #3}}
+                                                  
+l.48 ...item \textbf{Latin Hypercube ID (`lh_id`)}
+                                                  : An identifier indicating...
+
+./paper_v4.tex:48: Extra }, or forgotten $.
+\text@ ...tstyle \sf@size {\firstchoice@false #1}}
+                                                  {\textdef@ \textstyle \ssf...
+l.48 ...item \textbf{Latin Hypercube ID (`lh_id`)}
+                                                  : An identifier indicating...
+
+./paper_v4.tex:48: Missing $ inserted.
+<inserted text> 
+                $
+l.48 ...item \textbf{Latin Hypercube ID (`lh_id`)}
+                                                  : An identifier indicating...
+
+./paper_v4.tex:48: Extra }, or forgotten $.
+\textdef@ ...th {#1}\let \f@size #2\selectfont #3}
+                                                  }
+l.48 ...item \textbf{Latin Hypercube ID (`lh_id`)}
+                                                  : An identifier indicating...
+
+./paper_v4.tex:48: Extra }, or forgotten $.
+\textdef@ ...h {#1}\let \f@size #2\selectfont #3}}
+                                                  
+l.48 ...item \textbf{Latin Hypercube ID (`lh_id`)}
+                                                  : An identifier indicating...
+
+./paper_v4.tex:48: Extra }, or forgotten $.
+\text@ ...style \ssf@size {\firstchoice@false #1}}
+                                                  \check@mathfonts }
+l.48 ...item \textbf{Latin Hypercube ID (`lh_id`)}
+                                                  : An identifier indicating...
+
+./paper_v4.tex:48: Extra }, or forgotten $.
+\text@ ...firstchoice@false #1}}\check@mathfonts }
+                                                  
+l.48 ...item \textbf{Latin Hypercube ID (`lh_id`)}
+                                                  : An identifier indicating...
+
+./paper_v4.tex:49: Missing $ inserted.
+<inserted text> 
+                $
+l.49     \item \textbf
+                      {Node Halo ID (`node_halo_id`)}: Unique identifiers fo...
+
+./paper_v4.tex:49: Missing } inserted.
+<inserted text> 
+                }
+l.49     \item \textbf
+                      {Node Halo ID (`node_halo_id`)}: Unique identifiers fo...
+
+./paper_v4.tex:49: Missing $ inserted.
+<inserted text> 
+                $
+l.49 ...tem \textbf{Node Halo ID (`node_halo_id`)}
+                                                  : Unique identifiers for e...
+
+./paper_v4.tex:49: Extra }, or forgotten $.
+<recently read> \egroup 
+                        
+l.49 ...tem \textbf{Node Halo ID (`node_halo_id`)}
+                                                  : Unique identifiers for e...
+
+./paper_v4.tex:50: Missing $ inserted.
+<inserted text> 
+                $
+l.50 \end{itemize}
+                  
+./paper_v4.tex:50: Missing } inserted.
+<inserted text> 
+                }
+l.50 \end{itemize}
+                  
+./paper_v4.tex:50: Missing } inserted.
+<inserted text> 
+                }
+l.50 \end{itemize}
+                  
+./paper_v4.tex:50: Missing } inserted.
+<inserted text> 
+                }
+l.50 \end{itemize}
+                  
+./paper_v4.tex:50: Missing $ inserted.
+<inserted text> 
+                $
+l.50 \end{itemize}
+                  
+./paper_v4.tex:50: Missing } inserted.
+<inserted text> 
+                }
+l.50 \end{itemize}
+                  
+./paper_v4.tex:50: Missing } inserted.
+<inserted text> 
+                }
+l.50 \end{itemize}
+                  
+./paper_v4.tex:50: Missing } inserted.
+<inserted text> 
+                }
+l.50 \end{itemize}
+                  
+./paper_v4.tex:50: Missing $ inserted.
+<inserted text> 
+                $
+l.50 \end{itemize}
+                  
+./paper_v4.tex:50: Missing } inserted.
+<inserted text> 
+                }
+l.50 \end{itemize}
+                  
+./paper_v4.tex:50: Missing } inserted.
+<inserted text> 
+                }
+l.50 \end{itemize}
+                  
+./paper_v4.tex:50: Missing } inserted.
+<inserted text> 
+                }
+l.50 \end{itemize}
+                  
+./paper_v4.tex:50: Missing $ inserted.
+<inserted text> 
+                $
+l.50 \end{itemize}
+                  
+./paper_v4.tex:50: Missing } inserted.
+<inserted text> 
+                }
+l.50 \end{itemize}
+                  
+./paper_v4.tex:50: Missing } inserted.
+<inserted text> 
+                }
+l.50 \end{itemize}
+                  
+./paper_v4.tex:50: Missing } inserted.
+<inserted text> 
+                }
+l.50 \end{itemize}
+                  
+./paper_v4.tex:50: Missing { inserted.
+<to be read again> 
+                   \endgroup 
+l.50 \end{itemize}
+                  
+./paper_v4.tex:50: Missing } inserted.
+<inserted text> 
+                }
+l.50 \end{itemize}
+                  
+./paper_v4.tex:50: Missing { inserted.
+<to be read again> 
+                   \endgroup 
+l.50 \end{itemize}
+                  
+./paper_v4.tex:50: Missing } inserted.
+<inserted text> 
+                }
+l.50 \end{itemize}
+                  
+./paper_v4.tex:50: Missing { inserted.
+<to be read again> 
+                   \endgroup 
+l.50 \end{itemize}
+                  
+./paper_v4.tex:50: Missing } inserted.
+<inserted text> 
+                }
+l.50 \end{itemize}
+                  
+./paper_v4.tex:50: Missing } inserted.
+<inserted text> 
+                }
+l.50 \end{itemize}
+                  
+./paper_v4.tex:50: Missing $ inserted.
+<inserted text> 
+                $
+l.50 \end{itemize}
+                  
+./paper_v4.tex:50: Missing } inserted.
+<inserted text> 
+                }
+l.50 \end{itemize}
+                  
+./paper_v4.tex:50: Missing } inserted.
+<inserted text> 
+                }
+l.50 \end{itemize}
+                  
+
+Overfull \hbox (133.78873pt too wide) in paragraph at lines 47--51
+[]\TU/lmr/bx/n/10 Number of Nodes (‘num$[]\OML/cmm/m/it/10 odes\OT1/cmr/m/n/10 
+`) : \OML/cmm/m/it/10 Thetotalnumberofhalos\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 no
+des\OT1/cmr/m/n/10 )\OML/cmm/m/it/10 inthemergertree:[]$
+
+Underfull \hbox (badness 10000) in paragraph at lines 47--51
+
+
+Package natbib Warning: Citation `haghighi2023analyzingastronomicaldatamachine'
+ on page 2 undefined on input line 54.
+
+
+Underfull \hbox (badness 5771) in paragraph at lines 57--58
+[]\TU/lmr/bx/n/10 Node Feature Distributions\TU/lmr/m/n/10 : Analyzing
+
+Underfull \hbox (badness 3815) in paragraph at lines 57--58
+\TU/lmr/m/n/10 the distributions of the four node features
+./paper_v4.tex:58: Missing $ inserted.
+<inserted text> 
+                $
+l.58 ...ees derived from the same simulation (`lh_
+                                                  id`). This analysis helps ...
+
+
+./paper_v4.tex:59: LaTeX Error: Command \item invalid in math mode.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.59     \item
+               \textbf{Graph Structural Properties}: Analyzing the distribut...
+
+
+./paper_v4.tex:59: LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.59     \item \textbf
+                      {Graph Structural Properties}: Analyzing the distribut...
+
+
+./paper_v4.tex:59: LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.59     \item \textbf
+                      {Graph Structural Properties}: Analyzing the distribut...
+
+
+./paper_v4.tex:60: LaTeX Error: Command \item invalid in math mode.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.60     \item
+               \textbf{Edge Attribute Investigation}: Examining the nature a...
+
+./paper_v4.tex:60: Missing $ inserted.
+<inserted text> 
+                $
+l.60     \item \textbf
+                      {Edge Attribute Investigation}: Examining the nature a...
+
+./paper_v4.tex:60: Missing } inserted.
+<inserted text> 
+                }
+l.60     \item \textbf
+                      {Edge Attribute Investigation}: Examining the nature a...
+
+
+Overfull \hbox (327.26706pt too wide) in paragraph at lines 58--60
+\TU/lmr/m/n/10 (‘lh$[]\OML/cmm/m/it/10 d\OT1/cmr/m/n/10 `)\OML/cmm/m/it/10 :Thi
+sanalysishelpsconfirmtheexpectedrangesandvariabilityofthetargetvariables:[][] \
+OT1/cmr/m/n/10 :
+
+Overfull \hbox (750.75676pt too wide) in paragraph at lines 58--60
+\OML/cmm/m/it/10 Analyzingthedistributionofgraphsizes; specificallythenumberofn
+odesandedgesineachmergertree:Thisisimportantbecausethevariabilityingraphsizenec
+essitatestheuseofgraphembeddingmethodsthatcanproducefixed \OMS/cmsy/m/n/10 ^^@
+./paper_v4.tex:60: Extra }, or forgotten \endgroup.
+\par ...m \@noitemerr {\@@par }\fi \else {\@@par }
+                                                  \fi 
+l.60     \item \textbf
+                      {Edge Attribute Investigation}: Examining the nature a...
+
+./paper_v4.tex:60: Missing $ inserted.
+<inserted text> 
+                $
+l.60 ...re and distribution of the provided `edge_
+                                                  attr`. If this attribute i...
+
+
+./paper_v4.tex:61: LaTeX Error: Command \end{enumerate} invalid in math mode.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.61 \end{enumerate}
+                    
+
+./paper_v4.tex:61: LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.61 \end{enumerate}
+                    
+
+./paper_v4.tex:61: LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.61 \end{enumerate}
+                    
+./paper_v4.tex:61: Missing $ inserted.
+<inserted text> 
+                $
+l.61 \end{enumerate}
+                    
+
+Package natbib Warning: Citation `kent2017editorialtechniquesmethodsastrophysic
+al' on page 2 undefined on input line 62.
+
+
+Package natbib Warning: Citation `giri2025astronomycalcpythontoolkitteaching' o
+n page 2 undefined on input line 62.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 60--63
+[]\TU/lmr/bx/n/10 Edge Attribute Investigation\TU/lmr/m/n/10 : Examining
+
+Underfull \hbox (badness 10000) in paragraph at lines 60--63
+\TU/lmr/m/n/10 the nature and distribution of the provided
+
+Overfull \hbox (475.74222pt too wide) in paragraph at lines 60--63
+\TU/lmr/m/n/10 ‘edge$[]\OML/cmm/m/it/10 ttr\OT1/cmr/m/n/10 `\OML/cmm/m/it/10 :I
+fthisattributeisnotdirectlyinterpretableasaphysicalquantityrelevanttomergereven
+ts; wewillproceedtocomputethesefeaturesmanuallyasdescribedlater:$
+
+Package natbib Warning: Citation `frailis2004perspectsastrophysicaldatabases' o
+n page 2 undefined on input line 65.
+
+
+Package natbib Warning: Citation `onose2016scalablesplittingalgorithmsbigdata' 
+on page 2 undefined on input line 65.
+
+./paper_v4.tex:65: Missing $ inserted.
+<inserted text> 
+                $
+l.65 ...med at the simulation level using the `lh_
+                                                  id` to prevent data leakag...
+
+./paper_v4.tex:65: Missing $ inserted.
+<inserted text> 
+                $
+l.65 ...he same simulation share identical $\Omega
+                                                  _m$ and $\sigma_8$ values....
+
+
+Underfull \hbox (badness 6252) in paragraph at lines 65--66
+[]\TU/lmr/m/n/10 To ensure robust and unbiased model evalu-
+
+Underfull \hbox (badness 5504) in paragraph at lines 65--66
+\TU/lmr/m/n/10 ation, the dataset was split into training and
+
+Underfull \hbox (badness 10000) in paragraph at lines 65--66
+\TU/lmr/m/n/10 testing sets (\TU/lmr/bx/n/10 ??\TU/lmr/m/n/10 ). Critically, th
+is split was
+
+Underfull \hbox (badness 10000) in paragraph at lines 65--66
+\TU/lmr/m/n/10 performed at the simulation level using the
+
+Overfull \hbox (114.13885pt too wide) in paragraph at lines 65--66
+\TU/lmr/m/n/10 ‘lh$[]\OML/cmm/m/it/10 d\OT1/cmr/m/n/10 `\OML/cmm/m/it/10 toprev
+entdataleakage; asalltreesfromthesamesimulationshareidentical$$\OT1/cmr/m/n/10 
+
+[]$
+[2]
+
+Package natbib Warning: Citation `bhowmik2024imageprocessinganalysismultiple' o
+n page 3 undefined on input line 68.
+
+
+Package natbib Warning: Citation `różański2021suppnetneuralnetworkstellar' on p
+age 3 undefined on input line 68.
+
+
+Package natbib Warning: Citation `stonemartinez2025starflowleveragingnormalizin
+gflows' on page 3 undefined on input line 68.
+
+
+Package natbib Warning: Citation `jespersen2022textttmangrovelearninggalaxyprop
+erties' on page 3 undefined on input line 71.
+
+
+Package natbib Warning: Citation `bose2022constructinghighfidelityhalomerger' o
+n page 3 undefined on input line 71.
+
+
+Package natbib Warning: Citation `robles2022deeplearningapproachhalo' on page 3
+ undefined on input line 71.
+
+
+Package natbib Warning: Citation `gómez2021halomergertreecomparison' on page 3 
+undefined on input line 71.
+
+
+Package natbib Warning: Citation `desouza2023graphbasedspectralclassificationty
+pe' on page 3 undefined on input line 74.
+
+
+Package natbib Warning: Citation `pavlou2023graphtheoreticalanalysislocal' on p
+age 3 undefined on input line 74.
+
+./paper_v4.tex:76: Missing $ inserted.
+<inserted text> 
+                $
+l.76 ...g = (V, E)$, we first converted the `edge_
+                                                  index` to a SciPy sparse a...
+
+./paper_v4.tex:76: Missing $ inserted.
+<inserted text> 
+                $
+l.76 ...normalized graph Laplacian, defined as $L_
+                                                  {norm} = I - D^{-1/2} A D^...
+
+
+Overfull \hbox (289.35083pt too wide) in paragraph at lines 76--77
+\TU/lmr/m/n/10 ‘edge$[]\OML/cmm/m/it/10 ndex\OT1/cmr/m/n/10 `\OML/cmm/m/it/10 t
+oaSciPysparseadjacencymatrix$\TU/lmr/m/n/10 A$\OML/cmm/m/it/10 :Wethencomputedt
+henormalizedgraphLaplacian; definedas$\TU/lmr/m/n/10 L$[] \OT1/cmr/m/n/10 =
+
+Underfull \hbox (badness 10000) in paragraph at lines 77--78
+[]\TU/lmr/bx/n/10 Eigenvalue Decomposition\TU/lmr/m/n/10 : We com-
+
+Underfull \hbox (badness 5490) in paragraph at lines 77--78
+\TU/lmr/m/n/10 puted the eigenvalues of $\OML/cmm/m/it/10 L[]$ \TU/lmr/m/n/10 u
+sing the
+
+Package natbib Warning: Citation `berger2017visualizingtimevaryingparticleflows
+' on page 3 undefined on input line 82.
+
+
+Package natbib Warning: Citation `jagvaral2023unifiedframeworkdiffusiongenerati
+ve' on page 3 undefined on input line 82.
+
+[3]
+
+Package natbib Warning: Citation `jespersen2022textttmangrovelearninggalaxyprop
+erties' on page 4 undefined on input line 90.
+
+
+Package natbib Warning: Citation `jung2024mergertreebasedgalaxymatching' on pag
+e 4 undefined on input line 90.
+
+
+Package natbib Warning: Citation `chandrogómez2025accuracydarkmatterhalo' on pa
+ge 4 undefined on input line 90.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 94--95
+[]\TU/lmr/bx/n/10 Scale Factor Difference\TU/lmr/m/n/10 : $\OT1/cmr/m/n/10 ^^A[
+] =
+
+Underfull \hbox (badness 1975) in paragraph at lines 94--95
+\TU/lmr/m/n/10 edges point from progenitors to descen-
+
+Underfull \hbox (badness 10000) in paragraph at lines 94--95
+\TU/lmr/m/n/10 dants, we expect $\OML/cmm/m/it/10 scale[]factor\OT1/cmr/m/n/10 
+(\OML/cmm/m/it/10 v\OT1/cmr/m/n/10 ) \OML/cmm/m/it/10 >
+
+Underfull \hbox (badness 1178) in paragraph at lines 94--95
+\OML/cmm/m/it/10 scale[]factor\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 u\OT1/cmr/m/n/1
+0 )$\TU/lmr/m/n/10 , and $\OT1/cmr/m/n/10 ^^A[]$ \TU/lmr/m/n/10 represents the
+
+Underfull \hbox (badness 1515) in paragraph at lines 95--96
+[]\TU/lmr/bx/n/10 Log Mass Ratio\TU/lmr/m/n/10 : $\OML/cmm/m/it/10 log[]mass[]r
+atio \OT1/cmr/m/n/10 =
+
+Package natbib Warning: Citation `sun2024knowledgegraphastronomicalresearch' on
+ page 4 undefined on input line 102.
+
+
+Package natbib Warning: Citation `ma2025characterizingdarkmattersubhalo' on pag
+e 4 undefined on input line 102.
+
+
+Package natbib Warning: Citation `villaescusanavarro2021camelsprojectcosmologya
+strophysics' on page 4 undefined on input line 105.
+
+
+Package natbib Warning: Citation `villaescusanavarro2021camelsprojectcosmologya
+strophysics' on page 4 undefined on input line 105.
+
+
+Package natbib Warning: Citation `balla2024cosmicscalebenchmarksymmetrypreservi
+ngdata' on page 4 undefined on input line 105.
+
+
+Package natbib Warning: Citation `makinen2024hybridsummarystatistics' on page 4
+ undefined on input line 105.
+
+
+Package natbib Warning: Citation `steiner2009pcatomographyextractinformation' o
+n page 4 undefined on input line 108.
+
+
+Package natbib Warning: Citation `yun2023pcafilteringmethodunbiased' on page 4 
+undefined on input line 108.
+
+
+Package natbib Warning: Citation `kuiper2025representationlearningfastradio' on
+ page 4 undefined on input line 108.
+
+./paper_v4.tex:108: Missing $ inserted.
+<inserted text> 
+                $
+l.108 ...the simulation level, respecting the `lh_
+                                                  id` groupings. We employed...
+
+./paper_v4.tex:109: Missing $ inserted.
+<inserted text> 
+                $
+l.109 
+      
+
+Underfull \hbox (badness 1418) in paragraph at lines 108--109
+[]\TU/lmr/m/n/10 The selected models were trained on the PCA-
+
+Underfull \hbox (badness 2142) in paragraph at lines 108--109
+\TU/lmr/m/n/10 transformed feature vectors from the training set
+
+Underfull \hbox (badness 1215) in paragraph at lines 108--109
+\TU/lmr/m/n/10 duce data leakage, the cross-validation splits were
+
+Overfull \hbox (353.05382pt too wide) in paragraph at lines 108--109
+\TU/lmr/m/n/10 ‘lh$[]\OML/cmm/m/it/10 d\OT1/cmr/m/n/10 `\OML/cmm/m/it/10 groupi
+ngs:Weemployed\OT1/cmr/m/n/10 `\OML/cmm/m/it/10 GridSearchCV\OT1/cmr/m/n/10 `\O
+ML/cmm/m/it/10 or\OT1/cmr/m/n/10 `\OML/cmm/m/it/10 RandomizedSearchCV\OT1/cmr/m
+/n/10 `\OML/cmm/m/it/10 tosearchfortheoptimalhyperparametersettingsforeachmodel
+:$ 
+
+Package natbib Warning: Citation `mishrasharma2024paperclipassociatingastronomi
+calobservations' on page 4 undefined on input line 111.
+
+
+Package natbib Warning: Citation `narkedimilli2024predictingstellarmetallicityc
+omparative' on page 4 undefined on input line 111.
+
+
+Package natbib Warning: Citation `raghav2024photometricanalysispredictingstar' 
+on page 4 undefined on input line 111.
+
+
+Package natbib Warning: Citation `pandya2025siddasinkhorndynamicdomain' on page
+ 4 undefined on input line 116.
+
+
+Package natbib Warning: Citation `pan2024astromlab2astrollama270bmodel' on page
+ 4 undefined on input line 119.
+
+
+Package natbib Warning: Citation `dehaan2025astromlab3achievinggpt4o' on page 4
+ undefined on input line 119.
+
+
+Package natbib Warning: Citation `soo2023machinelearningapplicationsastrophysic
+s' on page 4 undefined on input line 122.
+
+[4]
+
+Package natbib Warning: Citation `zhong2024improvingconvolutionalneuralnetworks
+' on page 5 undefined on input line 124.
+
+
+Package natbib Warning: Citation `kvasiuk2024reconstructioncontinuouscosmologic
+alfields' on page 5 undefined on input line 124.
+
+
+Underfull \hbox (badness 2221) in paragraph at lines 131--132
+\TU/lmr/m/n/10 25 trees per simulation. Prior to feature engi-
+
+Underfull \hbox (badness 5985) in paragraph at lines 140--141
+[]\TU/lmr/m/n/10 A significant challenge was the computational
+
+Underfull \hbox (badness 10000) in paragraph at lines 140--141
+\TU/lmr/m/n/10 cost associated with eigenvalue decomposition
+
+Underfull \hbox (badness 2426) in paragraph at lines 140--141
+\TU/lmr/m/n/10 for large graphs. To address this, a threshold
+
+LaTeX Warning: Reference `fig:edge_feature_dist' on page 5 undefined on input l
+ine 142.
+
+
+LaTeX Warning: Reference `fig:laplacian_feature_dist' on page 5 undefined on in
+put line 142.
+
+
+LaTeX Warning: Reference `fig:diffusion_feature_dist_mean' on page 5 undefined 
+on input line 142.
+
+
+LaTeX Warning: Reference `fig:diffusion_feature_dist' on page 5 undefined on in
+put line 142.
+
+
+LaTeX Warning: Reference `fig:diffusion_feature_dist_min' on page 5 undefined o
+n input line 142.
+
+
+Overfull \hbox (14.29219pt too wide) in paragraph at lines 146--147
+ [][] 
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+Overfull \hbox (14.29219pt too wide) in paragraph at lines 153--154
+ [][] 
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+Overfull \hbox (14.29219pt too wide) in paragraph at lines 160--161
+ [][] 
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+Overfull \hbox (14.29219pt too wide) in paragraph at lines 167--168
+ [][] 
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+Overfull \hbox (14.29219pt too wide) in paragraph at lines 174--175
+ [][] 
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+LaTeX Warning: Reference `fig:pca_explained_variance' on page 5 undefined on in
+put line 181.
+
+
+Overfull \hbox (14.29219pt too wide) in paragraph at lines 185--186
+ [][] 
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+LaTeX Warning: Reference `fig:pca_projection' on page 5 undefined on input line
+ 190.
+
+[5]
+
+LaTeX Warning: A float is stuck (cannot be placed) on input line 191.
+
+
+LaTeX Warning: A float is stuck (cannot be placed) on input line 191.
+
+
+Class revtex4-1 Warning: Deferred float stuck during \clearpage processing.
+
+
+Overfull \hbox (14.29219pt too wide) in paragraph at lines 194--195
+ [][] 
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[6]
+
+LaTeX Warning: A float is stuck (cannot be placed) on input line 204.
+
+
+LaTeX Warning: A float is stuck (cannot be placed) on input line 204.
+
+
+Class revtex4-1 Warning: Deferred float stuck during \clearpage processing.
+
+
+LaTeX Warning: Reference `tab:model_performance' on page 7 undefined on input l
+ine 211.
+
+
+LaTeX Warning: Reference `fig:model_performance_r2' on page 7 undefined on inpu
+t line 211.
+
+
+LaTeX Warning: Reference `fig:model_performance_mse' on page 7 undefined on inp
+ut line 211.
+
+
+Overfull \hbox (8.00752pt too wide) in paragraph at lines 216--231
+ []$ 
+
+Overfull \hbox (14.29219pt too wide) in paragraph at lines 235--236
+ [][] 
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+Overfull \hbox (14.29219pt too wide) in paragraph at lines 242--243
+ [][] 
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 247.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\Omega' on input line 247.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `subscript' on input line 247.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 247.
+
+
+LaTeX Warning: Reference `fig:predicted_vs_true_omega_m' on page 7 undefined on
+ input line 248.
+
+[7]
+
+LaTeX Warning: A float is stuck (cannot be placed) on input line 249.
+
+
+LaTeX Warning: A float is stuck (cannot be placed) on input line 249.
+
+
+Class revtex4-1 Warning: Deferred float stuck during \clearpage processing.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 250.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\sigma' on input line 250.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `subscript' on input line 250.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 250.
+
+
+LaTeX Warning: Reference `fig:predicted_vs_true_sigma_8' on page 8 undefined on
+ input line 251.
+
+
+Underfull \hbox (badness 1132) in paragraph at lines 251--252
+\TU/lmr/m/n/10 (MSE=0.006502), and with RFR an R² of 0.2827
+
+Overfull \hbox (14.29219pt too wide) in paragraph at lines 255--256
+ [][] 
+
+Overfull \hbox (14.29219pt too wide) in paragraph at lines 262--263
+ [][] 
+
+LaTeX Warning: Reference `fig:feature_importances_omega_m' on page 8 undefined 
+on input line 269.
+
+
+LaTeX Warning: Reference `fig:feature_importances_sigma_8' on page 8 undefined 
+on input line 269.
+
+
+Overfull \hbox (14.29219pt too wide) in paragraph at lines 273--274
+ [][] 
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+Overfull \hbox (14.29219pt too wide) in paragraph at lines 280--281
+ [][] 
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 287--289
+[]\TU/lmr/m/n/10 Predicting $\OT1/cmr/m/n/10 
+[]$\TU/lmr/m/n/10 : The RFR model high-
+
+Underfull \hbox (badness 6625) in paragraph at lines 287--289
+\TU/lmr/m/n/10 lighted ‘SF__mean‘ (mean scale factor of
+
+Underfull \hbox (badness 1874) in paragraph at lines 287--289
+\TU/lmr/m/n/10 halos in the tree) as highly important, fol-
+
+Underfull \hbox (badness 1424) in paragraph at lines 287--289
+\TU/lmr/m/n/10 also emphasized ‘SF__mean‘, ‘logM__mean‘,
+[8]
+
+LaTeX Warning: A float is stuck (cannot be placed) on input line 289.
+
+
+LaTeX Warning: A float is stuck (cannot be placed) on input line 289.
+
+
+Class revtex4-1 Warning: Deferred float stuck during \clearpage processing.
+
+
+Underfull \hbox (badness 1728) in paragraph at lines 289--291
+\TU/lmr/m/n/10 ‘logC__mean‘ (mean log concentration) were
+
+LaTeX Warning: Reference `fig:laplacian_feature_dist' on page 9 undefined on in
+put line 301.
+
+
+LaTeX Warning: Reference `fig:diffusion_feature_dist_mean' on page 9 undefined 
+on input line 301.
+
+
+LaTeX Warning: Reference `fig:diffusion_feature_dist' on page 9 undefined on in
+put line 301.
+
+
+LaTeX Warning: Reference `fig:diffusion_feature_dist_min' on page 9 undefined o
+n input line 301.
+
+[9]
+Underfull \hbox (badness 5050) in paragraph at lines 313--314
+[]\TU/lmr/m/n/10 The relationship between these specific graph-
+[10]
+No file paper_v4.bbl.
+
+Package natbib Warning: There were undefined citations.
+
+[11] (./paper_v4.aux)
+
+Package rerunfilecheck Warning: File `paper_v4.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+
+LaTeX Warning: There were undefined references.
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right .
+
+
+ )
+(see the transcript file for additional information)
+Output written on paper_v4.pdf (11 pages).
+Transcript written on paper_v4.log.
+---- STDERR ----
+
+==== ERROR on iteration Final Pass 1 ====
+---- STDOUT ----
+This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019) (preloaded format=xelatex)
+ restricted \write18 enabled.
+entering extended mode
+(./paper_v4.tex
+LaTeX2e <2018-12-01>
+(./aastex631.cls
+Document Class: aastex631 2020/12/20 Version 6.3.1d/AAS markup document class
+(/usr/local/texlive/2019/texmf-dist/tex/latex/revtex/revtex4-1.cls
+Document Class: revtex4-1 2010/07/25/20:33:00 4.1r (http://publish.aps.org/revt
+ex4/ for documentation)
+ltxutil[2010/07/25/20:33:00 4.1r utilities package (portions licensed from W. E
+. Baxter web at superscript.com)]
+ltxfront[2010/07/25/20:33:00 4.1r frontmatter package (AO,DPC)]
+ltxgrid[2010/07/25/20:33:00 4.1r page grid package (portions licensed from W. E
+. Baxter web at superscript.com)]
+(/usr/local/texlive/2019/texmf-dist/tex/latex/revtex/aps4-1.rtx)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/revtex/aps10pt4-1.rtx)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/textcase/textcase.sty)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/url/url.sty)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/natbib/natbib.sty)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/revtex/revsymb4-1.sty))
+(/usr/local/texlive/2019/texmf-dist/tex/latex/base/latexsym.sty)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/graphics/graphicx.sty
+(/usr/local/texlive/2019/texmf-dist/tex/latex/graphics/keyval.sty)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/graphics/graphics.sty
+(/usr/local/texlive/2019/texmf-dist/tex/latex/graphics/trig.sty)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/graphics-cfg/graphics.cfg)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/graphics-def/xetex.def)))
+(/usr/local/texlive/2019/texmf-dist/tex/latex/amsfonts/amssymb.sty
+(/usr/local/texlive/2019/texmf-dist/tex/latex/amsfonts/amsfonts.sty))
+(/usr/local/texlive/2019/texmf-dist/tex/generic/epsf/epsf.sty
+This is `epsf.tex' v2.7.4 <14 February 2011>
+) (/usr/local/texlive/2019/texmf-dist/tex/latex/tools/longtable.sty)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/xcolor/xcolor.sty
+(/usr/local/texlive/2019/texmf-dist/tex/latex/graphics-cfg/color.cfg))
+(/usr/local/texlive/2019/texmf-dist/tex/latex/hyperref/hyperref.sty
+(/usr/local/texlive/2019/texmf-dist/tex/generic/oberdiek/hobsub-hyperref.sty
+(/usr/local/texlive/2019/texmf-dist/tex/generic/oberdiek/hobsub-generic.sty))
+(/usr/local/texlive/2019/texmf-dist/tex/generic/ifxetex/ifxetex.sty)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/oberdiek/auxhook.sty)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/oberdiek/kvoptions.sty)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/hyperref/pd1enc.def)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/latexconfig/hyperref.cfg))
+(/usr/local/texlive/2019/texmf-dist/tex/latex/hyperref/hxetex.def
+(/usr/local/texlive/2019/texmf-dist/tex/latex/hyperref/puenc.def)
+(/usr/local/texlive/2019/texmf-dist/tex/generic/oberdiek/stringenc.sty)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty))
+(/usr/local/texlive/2019/texmf-dist/tex/latex/tools/array.sty)
+(/usr/local/texlive/2019/texmf-dist/tex/generic/ulem/ulem.sty))
+(/usr/local/texlive/2019/texmf-dist/tex/latex/amsmath/amsmath.sty
+For additional information on amsmath, use the `?' option.
+(/usr/local/texlive/2019/texmf-dist/tex/latex/amsmath/amstext.sty
+(/usr/local/texlive/2019/texmf-dist/tex/latex/amsmath/amsgen.sty))
+(/usr/local/texlive/2019/texmf-dist/tex/latex/amsmath/amsbsy.sty)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/amsmath/amsopn.sty))
+(/usr/local/texlive/2019/texmf-dist/tex/latex/multirow/multirow.sty)
+(./aas_macros.sty) (./paper_v4.aux)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/hyperref/nameref.sty
+(/usr/local/texlive/2019/texmf-dist/tex/generic/oberdiek/gettitlestring.sty))
+(./paper_v4.out) (./paper_v4.out)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/lineno/lineno.sty)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/base/ulasy.fd)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/amsfonts/umsa.fd)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/amsfonts/umsb.fd)
+(/usr/local/texlive/2019/texmf-dist/tex/generic/oberdiek/se-ascii-print.def)
+
+Package natbib Warning: Citation `parkinson2007generatingdarkmatterhalo' on pag
+e 1 undefined on input line 29.
+
+
+Package natbib Warning: Citation `robles2022deeplearningapproachhalo' on page 1
+ undefined on input line 29.
+
+
+Package natbib Warning: Citation `robles2022deeplearningapproachhalo' on page 1
+ undefined on input line 29.
+
+
+Package natbib Warning: Citation `geda2025constructingmergertreesdensity' on pa
+ge 1 undefined on input line 29.
+
+
+Package natbib Warning: Citation `parkinson2007generatingdarkmatterhalo' on pag
+e 1 undefined on input line 29.
+
+
+Package natbib Warning: Citation `jung2024mergertreebasedgalaxymatching' on pag
+e 1 undefined on input line 29.
+
+[1]
+
+Package natbib Warning: Citation `bose2022constructinghighfidelityhalomerger' o
+n page 2 undefined on input line 33.
+
+
+Package natbib Warning: Citation `bose2022constructinghighfidelityhalomerger' o
+n page 2 undefined on input line 33.
+
+
+Package natbib Warning: Citation `chandrogómez2025accuracydarkmatterhalo' on pa
+ge 2 undefined on input line 33.
+
+
+Package natbib Warning: Citation `chandrogómez2025accuracydarkmatterhalo' on pa
+ge 2 undefined on input line 33.
+
+
+Package natbib Warning: Citation `bose2022constructinghighfidelityhalomerger' o
+n page 2 undefined on input line 33.
+
+
+Package natbib Warning: Citation `jung2024mergertreebasedgalaxymatching' on pag
+e 2 undefined on input line 33.
+
+
+Package natbib Warning: Citation `bose2022constructinghighfidelityhalomerger' o
+n page 2 undefined on input line 33.
+
+
+Package natbib Warning: Citation `bose2022constructinghighfidelityhalomerger' o
+n page 2 undefined on input line 33.
+
+
+Package natbib Warning: Citation `jung2024mergertreebasedgalaxymatching' on pag
+e 2 undefined on input line 33.
+
+
+Package natbib Warning: Citation `chandrogómez2025accuracydarkmatterhalo' on pa
+ge 2 undefined on input line 33.
+
+
+Underfull \hbox (badness 1852) in paragraph at lines 43--44
+[]\TU/lmr/bx/n/10 Node Features (‘x‘)\TU/lmr/m/n/10 : A matrix of shape
+./paper_v4.tex:45: Missing $ inserted.
+<inserted text> 
+                $
+l.45 ...tem \textbf{Edge Attributes (`edge_attr`)}
+                                                  : A matrix of shape `[num_...
+
+./paper_v4.tex:45: Extra }, or forgotten $.
+<recently read> \egroup 
+                        
+l.45 ...tem \textbf{Edge Attributes (`edge_attr`)}
+                                                  : A matrix of shape `[num_...
+
+
+./paper_v4.tex:46: LaTeX Error: Command \item invalid in math mode.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.46     \item
+               \textbf{Graph-Level Labels (`y`)}: A matrix of shape `[1, 2]`...
+
+
+./paper_v4.tex:46: LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.46     \item \textbf
+                      {Graph-Level Labels (`y`)}: A matrix of shape `[1, 2]`...
+
+
+./paper_v4.tex:46: LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.46     \item \textbf
+                      {Graph-Level Labels (`y`)}: A matrix of shape `[1, 2]`...
+
+./paper_v4.tex:46: Missing $ inserted.
+<inserted text> 
+                $
+l.46 ...ted: the matter density parameter ($\Omega
+                                                  _m$) and the amplitude of ...
+
+
+Overfull \hbox (1409.03645pt too wide) in paragraph at lines 45--47
+[]\TU/lmr/bx/n/10 Edge Attributes (‘edge$[]\OML/cmm/m/it/10 ttr\OT1/cmr/m/n/10 
+`) : \OML/cmm/m/it/10 Amatrixofshape\OT1/cmr/m/n/10 `[\OML/cmm/m/it/10 num[]dge
+s; \OT1/cmr/m/n/10 1]`\OML/cmm/m/it/10 thatstoresasinglefeatureassociatedwithea
+chmergerevent:Thisfeature[]sprecisenaturewillbecarefullyexaminedduringexplorato
+rydataanalysis\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 EDA\OT1/cmr/m/n/10 )\OML/cmm/m/
+it/10 ; andifitprovesinsufficientforourpurposes; wewillcomputeastrophysicallymo
+tivatededgefeaturesfromthenodeproperties:[] \OT1/cmr/m/n/10 :
+
+Overfull \hbox (364.036pt too wide) in paragraph at lines 45--47
+\OML/cmm/m/it/10 Amatrixofshape\OT1/cmr/m/n/10 `[1\OML/cmm/m/it/10 ; \OT1/cmr/m
+/n/10 2]`\OML/cmm/m/it/10 containingthecosmologicalparametersassociatedwiththes
+imulationfromwhichthemergertreewasextracted \OT1/cmr/m/n/10 :
+./paper_v4.tex:47: Missing $ inserted.
+<inserted text> 
+                $
+l.47 ...tem \textbf{Number of Nodes (`num_nodes`)}
+                                                  : The total number of halo...
+
+./paper_v4.tex:47: Extra }, or forgotten $.
+<recently read> \egroup 
+                        
+l.47 ...tem \textbf{Number of Nodes (`num_nodes`)}
+                                                  : The total number of halo...
+
+
+./paper_v4.tex:48: LaTeX Error: Command \item invalid in math mode.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.48     \item
+               \textbf{Latin Hypercube ID (`lh_id`)}: An identifier indicati...
+
+
+./paper_v4.tex:48: LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.48     \item \textbf
+                      {Latin Hypercube ID (`lh_id`)}: An identifier indicati...
+
+
+./paper_v4.tex:48: LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.48     \item \textbf
+                      {Latin Hypercube ID (`lh_id`)}: An identifier indicati...
+
+./paper_v4.tex:48: Missing $ inserted.
+<inserted text> 
+                $
+l.48 ...item \textbf{Latin Hypercube ID (`lh_id`)}
+                                                  : An identifier indicating...
+
+./paper_v4.tex:48: Extra }, or forgotten $.
+\textdef@ ...th {#1}\let \f@size #2\selectfont #3}
+                                                  }
+l.48 ...item \textbf{Latin Hypercube ID (`lh_id`)}
+                                                  : An identifier indicating...
+
+./paper_v4.tex:48: Extra }, or forgotten $.
+\textdef@ ...h {#1}\let \f@size #2\selectfont #3}}
+                                                  
+l.48 ...item \textbf{Latin Hypercube ID (`lh_id`)}
+                                                  : An identifier indicating...
+
+./paper_v4.tex:48: Extra }, or forgotten $.
+\text@ ...e {\textdef@ \displaystyle \f@size {#1}}
+                                                  {\textdef@ \textstyle \f@s...
+l.48 ...item \textbf{Latin Hypercube ID (`lh_id`)}
+                                                  : An identifier indicating...
+
+./paper_v4.tex:48: Missing $ inserted.
+<inserted text> 
+                $
+l.48 ...item \textbf{Latin Hypercube ID (`lh_id`)}
+                                                  : An identifier indicating...
+
+./paper_v4.tex:48: Extra }, or forgotten $.
+\textdef@ ...th {#1}\let \f@size #2\selectfont #3}
+                                                  }
+l.48 ...item \textbf{Latin Hypercube ID (`lh_id`)}
+                                                  : An identifier indicating...
+
+./paper_v4.tex:48: Extra }, or forgotten $.
+\textdef@ ...h {#1}\let \f@size #2\selectfont #3}}
+                                                  
+l.48 ...item \textbf{Latin Hypercube ID (`lh_id`)}
+                                                  : An identifier indicating...
+
+./paper_v4.tex:48: Extra }, or forgotten $.
+\text@ ...xtstyle \f@size {\firstchoice@false #1}}
+                                                  {\textdef@ \textstyle \sf@...
+l.48 ...item \textbf{Latin Hypercube ID (`lh_id`)}
+                                                  : An identifier indicating...
+
+./paper_v4.tex:48: Missing $ inserted.
+<inserted text> 
+                $
+l.48 ...item \textbf{Latin Hypercube ID (`lh_id`)}
+                                                  : An identifier indicating...
+
+./paper_v4.tex:48: Extra }, or forgotten $.
+\textdef@ ...th {#1}\let \f@size #2\selectfont #3}
+                                                  }
+l.48 ...item \textbf{Latin Hypercube ID (`lh_id`)}
+                                                  : An identifier indicating...
+
+./paper_v4.tex:48: Extra }, or forgotten $.
+\textdef@ ...h {#1}\let \f@size #2\selectfont #3}}
+                                                  
+l.48 ...item \textbf{Latin Hypercube ID (`lh_id`)}
+                                                  : An identifier indicating...
+
+./paper_v4.tex:48: Extra }, or forgotten $.
+\text@ ...tstyle \sf@size {\firstchoice@false #1}}
+                                                  {\textdef@ \textstyle \ssf...
+l.48 ...item \textbf{Latin Hypercube ID (`lh_id`)}
+                                                  : An identifier indicating...
+
+./paper_v4.tex:48: Missing $ inserted.
+<inserted text> 
+                $
+l.48 ...item \textbf{Latin Hypercube ID (`lh_id`)}
+                                                  : An identifier indicating...
+
+./paper_v4.tex:48: Extra }, or forgotten $.
+\textdef@ ...th {#1}\let \f@size #2\selectfont #3}
+                                                  }
+l.48 ...item \textbf{Latin Hypercube ID (`lh_id`)}
+                                                  : An identifier indicating...
+
+./paper_v4.tex:48: Extra }, or forgotten $.
+\textdef@ ...h {#1}\let \f@size #2\selectfont #3}}
+                                                  
+l.48 ...item \textbf{Latin Hypercube ID (`lh_id`)}
+                                                  : An identifier indicating...
+
+./paper_v4.tex:48: Extra }, or forgotten $.
+\text@ ...style \ssf@size {\firstchoice@false #1}}
+                                                  \check@mathfonts }
+l.48 ...item \textbf{Latin Hypercube ID (`lh_id`)}
+                                                  : An identifier indicating...
+
+./paper_v4.tex:48: Extra }, or forgotten $.
+\text@ ...firstchoice@false #1}}\check@mathfonts }
+                                                  
+l.48 ...item \textbf{Latin Hypercube ID (`lh_id`)}
+                                                  : An identifier indicating...
+
+./paper_v4.tex:49: Missing $ inserted.
+<inserted text> 
+                $
+l.49     \item \textbf
+                      {Node Halo ID (`node_halo_id`)}: Unique identifiers fo...
+
+./paper_v4.tex:49: Missing } inserted.
+<inserted text> 
+                }
+l.49     \item \textbf
+                      {Node Halo ID (`node_halo_id`)}: Unique identifiers fo...
+
+./paper_v4.tex:49: Missing $ inserted.
+<inserted text> 
+                $
+l.49 ...tem \textbf{Node Halo ID (`node_halo_id`)}
+                                                  : Unique identifiers for e...
+
+./paper_v4.tex:49: Extra }, or forgotten $.
+<recently read> \egroup 
+                        
+l.49 ...tem \textbf{Node Halo ID (`node_halo_id`)}
+                                                  : Unique identifiers for e...
+
+./paper_v4.tex:50: Missing $ inserted.
+<inserted text> 
+                $
+l.50 \end{itemize}
+                  
+./paper_v4.tex:50: Missing } inserted.
+<inserted text> 
+                }
+l.50 \end{itemize}
+                  
+./paper_v4.tex:50: Missing } inserted.
+<inserted text> 
+                }
+l.50 \end{itemize}
+                  
+./paper_v4.tex:50: Missing } inserted.
+<inserted text> 
+                }
+l.50 \end{itemize}
+                  
+./paper_v4.tex:50: Missing $ inserted.
+<inserted text> 
+                $
+l.50 \end{itemize}
+                  
+./paper_v4.tex:50: Missing } inserted.
+<inserted text> 
+                }
+l.50 \end{itemize}
+                  
+./paper_v4.tex:50: Missing } inserted.
+<inserted text> 
+                }
+l.50 \end{itemize}
+                  
+./paper_v4.tex:50: Missing } inserted.
+<inserted text> 
+                }
+l.50 \end{itemize}
+                  
+./paper_v4.tex:50: Missing $ inserted.
+<inserted text> 
+                $
+l.50 \end{itemize}
+                  
+./paper_v4.tex:50: Missing } inserted.
+<inserted text> 
+                }
+l.50 \end{itemize}
+                  
+./paper_v4.tex:50: Missing } inserted.
+<inserted text> 
+                }
+l.50 \end{itemize}
+                  
+./paper_v4.tex:50: Missing } inserted.
+<inserted text> 
+                }
+l.50 \end{itemize}
+                  
+./paper_v4.tex:50: Missing $ inserted.
+<inserted text> 
+                $
+l.50 \end{itemize}
+                  
+./paper_v4.tex:50: Missing } inserted.
+<inserted text> 
+                }
+l.50 \end{itemize}
+                  
+./paper_v4.tex:50: Missing } inserted.
+<inserted text> 
+                }
+l.50 \end{itemize}
+                  
+./paper_v4.tex:50: Missing } inserted.
+<inserted text> 
+                }
+l.50 \end{itemize}
+                  
+./paper_v4.tex:50: Missing { inserted.
+<to be read again> 
+                   \endgroup 
+l.50 \end{itemize}
+                  
+./paper_v4.tex:50: Missing } inserted.
+<inserted text> 
+                }
+l.50 \end{itemize}
+                  
+./paper_v4.tex:50: Missing { inserted.
+<to be read again> 
+                   \endgroup 
+l.50 \end{itemize}
+                  
+./paper_v4.tex:50: Missing } inserted.
+<inserted text> 
+                }
+l.50 \end{itemize}
+                  
+./paper_v4.tex:50: Missing { inserted.
+<to be read again> 
+                   \endgroup 
+l.50 \end{itemize}
+                  
+./paper_v4.tex:50: Missing } inserted.
+<inserted text> 
+                }
+l.50 \end{itemize}
+                  
+./paper_v4.tex:50: Missing } inserted.
+<inserted text> 
+                }
+l.50 \end{itemize}
+                  
+./paper_v4.tex:50: Missing $ inserted.
+<inserted text> 
+                $
+l.50 \end{itemize}
+                  
+./paper_v4.tex:50: Missing } inserted.
+<inserted text> 
+                }
+l.50 \end{itemize}
+                  
+./paper_v4.tex:50: Missing } inserted.
+<inserted text> 
+                }
+l.50 \end{itemize}
+                  
+
+Overfull \hbox (133.78873pt too wide) in paragraph at lines 47--51
+[]\TU/lmr/bx/n/10 Number of Nodes (‘num$[]\OML/cmm/m/it/10 odes\OT1/cmr/m/n/10 
+`) : \OML/cmm/m/it/10 Thetotalnumberofhalos\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 no
+des\OT1/cmr/m/n/10 )\OML/cmm/m/it/10 inthemergertree:[]$
+
+Underfull \hbox (badness 10000) in paragraph at lines 47--51
+
+
+Package natbib Warning: Citation `haghighi2023analyzingastronomicaldatamachine'
+ on page 2 undefined on input line 54.
+
+
+Underfull \hbox (badness 5771) in paragraph at lines 57--58
+[]\TU/lmr/bx/n/10 Node Feature Distributions\TU/lmr/m/n/10 : Analyzing
+
+Underfull \hbox (badness 3815) in paragraph at lines 57--58
+\TU/lmr/m/n/10 the distributions of the four node features
+./paper_v4.tex:58: Missing $ inserted.
+<inserted text> 
+                $
+l.58 ...ees derived from the same simulation (`lh_
+                                                  id`). This analysis helps ...
+
+
+./paper_v4.tex:59: LaTeX Error: Command \item invalid in math mode.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.59     \item
+               \textbf{Graph Structural Properties}: Analyzing the distribut...
+
+
+./paper_v4.tex:59: LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.59     \item \textbf
+                      {Graph Structural Properties}: Analyzing the distribut...
+
+
+./paper_v4.tex:59: LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.59     \item \textbf
+                      {Graph Structural Properties}: Analyzing the distribut...
+
+
+./paper_v4.tex:60: LaTeX Error: Command \item invalid in math mode.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.60     \item
+               \textbf{Edge Attribute Investigation}: Examining the nature a...
+
+./paper_v4.tex:60: Missing $ inserted.
+<inserted text> 
+                $
+l.60     \item \textbf
+                      {Edge Attribute Investigation}: Examining the nature a...
+
+./paper_v4.tex:60: Missing } inserted.
+<inserted text> 
+                }
+l.60     \item \textbf
+                      {Edge Attribute Investigation}: Examining the nature a...
+
+
+Overfull \hbox (327.26706pt too wide) in paragraph at lines 58--60
+\TU/lmr/m/n/10 (‘lh$[]\OML/cmm/m/it/10 d\OT1/cmr/m/n/10 `)\OML/cmm/m/it/10 :Thi
+sanalysishelpsconfirmtheexpectedrangesandvariabilityofthetargetvariables:[][] \
+OT1/cmr/m/n/10 :
+
+Overfull \hbox (750.75676pt too wide) in paragraph at lines 58--60
+\OML/cmm/m/it/10 Analyzingthedistributionofgraphsizes; specificallythenumberofn
+odesandedgesineachmergertree:Thisisimportantbecausethevariabilityingraphsizenec
+essitatestheuseofgraphembeddingmethodsthatcanproducefixed \OMS/cmsy/m/n/10 ^^@
+./paper_v4.tex:60: Extra }, or forgotten \endgroup.
+\par ...m \@noitemerr {\@@par }\fi \else {\@@par }
+                                                  \fi 
+l.60     \item \textbf
+                      {Edge Attribute Investigation}: Examining the nature a...
+
+./paper_v4.tex:60: Missing $ inserted.
+<inserted text> 
+                $
+l.60 ...re and distribution of the provided `edge_
+                                                  attr`. If this attribute i...
+
+
+./paper_v4.tex:61: LaTeX Error: Command \end{enumerate} invalid in math mode.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.61 \end{enumerate}
+                    
+
+./paper_v4.tex:61: LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.61 \end{enumerate}
+                    
+
+./paper_v4.tex:61: LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.61 \end{enumerate}
+                    
+./paper_v4.tex:61: Missing $ inserted.
+<inserted text> 
+                $
+l.61 \end{enumerate}
+                    
+
+Package natbib Warning: Citation `kent2017editorialtechniquesmethodsastrophysic
+al' on page 2 undefined on input line 62.
+
+
+Package natbib Warning: Citation `giri2025astronomycalcpythontoolkitteaching' o
+n page 2 undefined on input line 62.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 60--63
+[]\TU/lmr/bx/n/10 Edge Attribute Investigation\TU/lmr/m/n/10 : Examining
+
+Underfull \hbox (badness 10000) in paragraph at lines 60--63
+\TU/lmr/m/n/10 the nature and distribution of the provided
+
+Overfull \hbox (475.74222pt too wide) in paragraph at lines 60--63
+\TU/lmr/m/n/10 ‘edge$[]\OML/cmm/m/it/10 ttr\OT1/cmr/m/n/10 `\OML/cmm/m/it/10 :I
+fthisattributeisnotdirectlyinterpretableasaphysicalquantityrelevanttomergereven
+ts; wewillproceedtocomputethesefeaturesmanuallyasdescribedlater:$
+
+Package natbib Warning: Citation `frailis2004perspectsastrophysicaldatabases' o
+n page 2 undefined on input line 65.
+
+
+Package natbib Warning: Citation `onose2016scalablesplittingalgorithmsbigdata' 
+on page 2 undefined on input line 65.
+
+./paper_v4.tex:65: Missing $ inserted.
+<inserted text> 
+                $
+l.65 ...med at the simulation level using the `lh_
+                                                  id` to prevent data leakag...
+
+./paper_v4.tex:65: Missing $ inserted.
+<inserted text> 
+                $
+l.65 ...he same simulation share identical $\Omega
+                                                  _m$ and $\sigma_8$ values....
+
+
+Underfull \hbox (badness 6252) in paragraph at lines 65--66
+[]\TU/lmr/m/n/10 To ensure robust and unbiased model evalu-
+
+Underfull \hbox (badness 5504) in paragraph at lines 65--66
+\TU/lmr/m/n/10 ation, the dataset was split into training and
+
+Underfull \hbox (badness 10000) in paragraph at lines 65--66
+\TU/lmr/m/n/10 testing sets (\TU/lmr/bx/n/10 ??\TU/lmr/m/n/10 ). Critically, th
+is split was
+
+Underfull \hbox (badness 10000) in paragraph at lines 65--66
+\TU/lmr/m/n/10 performed at the simulation level using the
+
+Overfull \hbox (114.13885pt too wide) in paragraph at lines 65--66
+\TU/lmr/m/n/10 ‘lh$[]\OML/cmm/m/it/10 d\OT1/cmr/m/n/10 `\OML/cmm/m/it/10 toprev
+entdataleakage; asalltreesfromthesamesimulationshareidentical$$\OT1/cmr/m/n/10 
+
+[]$
+[2]
+
+Package natbib Warning: Citation `bhowmik2024imageprocessinganalysismultiple' o
+n page 3 undefined on input line 68.
+
+
+Package natbib Warning: Citation `różański2021suppnetneuralnetworkstellar' on p
+age 3 undefined on input line 68.
+
+
+Package natbib Warning: Citation `stonemartinez2025starflowleveragingnormalizin
+gflows' on page 3 undefined on input line 68.
+
+
+Package natbib Warning: Citation `jespersen2022textttmangrovelearninggalaxyprop
+erties' on page 3 undefined on input line 71.
+
+
+Package natbib Warning: Citation `bose2022constructinghighfidelityhalomerger' o
+n page 3 undefined on input line 71.
+
+
+Package natbib Warning: Citation `robles2022deeplearningapproachhalo' on page 3
+ undefined on input line 71.
+
+
+Package natbib Warning: Citation `gómez2021halomergertreecomparison' on page 3 
+undefined on input line 71.
+
+
+Package natbib Warning: Citation `desouza2023graphbasedspectralclassificationty
+pe' on page 3 undefined on input line 74.
+
+
+Package natbib Warning: Citation `pavlou2023graphtheoreticalanalysislocal' on p
+age 3 undefined on input line 74.
+
+./paper_v4.tex:76: Missing $ inserted.
+<inserted text> 
+                $
+l.76 ...g = (V, E)$, we first converted the `edge_
+                                                  index` to a SciPy sparse a...
+
+./paper_v4.tex:76: Missing $ inserted.
+<inserted text> 
+                $
+l.76 ...normalized graph Laplacian, defined as $L_
+                                                  {norm} = I - D^{-1/2} A D^...
+
+
+Overfull \hbox (289.35083pt too wide) in paragraph at lines 76--77
+\TU/lmr/m/n/10 ‘edge$[]\OML/cmm/m/it/10 ndex\OT1/cmr/m/n/10 `\OML/cmm/m/it/10 t
+oaSciPysparseadjacencymatrix$\TU/lmr/m/n/10 A$\OML/cmm/m/it/10 :Wethencomputedt
+henormalizedgraphLaplacian; definedas$\TU/lmr/m/n/10 L$[] \OT1/cmr/m/n/10 =
+
+Underfull \hbox (badness 10000) in paragraph at lines 77--78
+[]\TU/lmr/bx/n/10 Eigenvalue Decomposition\TU/lmr/m/n/10 : We com-
+
+Underfull \hbox (badness 5490) in paragraph at lines 77--78
+\TU/lmr/m/n/10 puted the eigenvalues of $\OML/cmm/m/it/10 L[]$ \TU/lmr/m/n/10 u
+sing the
+
+Package natbib Warning: Citation `berger2017visualizingtimevaryingparticleflows
+' on page 3 undefined on input line 82.
+
+
+Package natbib Warning: Citation `jagvaral2023unifiedframeworkdiffusiongenerati
+ve' on page 3 undefined on input line 82.
+
+[3]
+
+Package natbib Warning: Citation `jespersen2022textttmangrovelearninggalaxyprop
+erties' on page 4 undefined on input line 90.
+
+
+Package natbib Warning: Citation `jung2024mergertreebasedgalaxymatching' on pag
+e 4 undefined on input line 90.
+
+
+Package natbib Warning: Citation `chandrogómez2025accuracydarkmatterhalo' on pa
+ge 4 undefined on input line 90.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 94--95
+[]\TU/lmr/bx/n/10 Scale Factor Difference\TU/lmr/m/n/10 : $\OT1/cmr/m/n/10 ^^A[
+] =
+
+Underfull \hbox (badness 1975) in paragraph at lines 94--95
+\TU/lmr/m/n/10 edges point from progenitors to descen-
+
+Underfull \hbox (badness 10000) in paragraph at lines 94--95
+\TU/lmr/m/n/10 dants, we expect $\OML/cmm/m/it/10 scale[]factor\OT1/cmr/m/n/10 
+(\OML/cmm/m/it/10 v\OT1/cmr/m/n/10 ) \OML/cmm/m/it/10 >
+
+Underfull \hbox (badness 1178) in paragraph at lines 94--95
+\OML/cmm/m/it/10 scale[]factor\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 u\OT1/cmr/m/n/1
+0 )$\TU/lmr/m/n/10 , and $\OT1/cmr/m/n/10 ^^A[]$ \TU/lmr/m/n/10 represents the
+
+Underfull \hbox (badness 1515) in paragraph at lines 95--96
+[]\TU/lmr/bx/n/10 Log Mass Ratio\TU/lmr/m/n/10 : $\OML/cmm/m/it/10 log[]mass[]r
+atio \OT1/cmr/m/n/10 =
+
+Package natbib Warning: Citation `sun2024knowledgegraphastronomicalresearch' on
+ page 4 undefined on input line 102.
+
+
+Package natbib Warning: Citation `ma2025characterizingdarkmattersubhalo' on pag
+e 4 undefined on input line 102.
+
+
+Package natbib Warning: Citation `villaescusanavarro2021camelsprojectcosmologya
+strophysics' on page 4 undefined on input line 105.
+
+
+Package natbib Warning: Citation `villaescusanavarro2021camelsprojectcosmologya
+strophysics' on page 4 undefined on input line 105.
+
+
+Package natbib Warning: Citation `balla2024cosmicscalebenchmarksymmetrypreservi
+ngdata' on page 4 undefined on input line 105.
+
+
+Package natbib Warning: Citation `makinen2024hybridsummarystatistics' on page 4
+ undefined on input line 105.
+
+
+Package natbib Warning: Citation `steiner2009pcatomographyextractinformation' o
+n page 4 undefined on input line 108.
+
+
+Package natbib Warning: Citation `yun2023pcafilteringmethodunbiased' on page 4 
+undefined on input line 108.
+
+
+Package natbib Warning: Citation `kuiper2025representationlearningfastradio' on
+ page 4 undefined on input line 108.
+
+./paper_v4.tex:108: Missing $ inserted.
+<inserted text> 
+                $
+l.108 ...the simulation level, respecting the `lh_
+                                                  id` groupings. We employed...
+
+./paper_v4.tex:109: Missing $ inserted.
+<inserted text> 
+                $
+l.109 
+      
+
+Underfull \hbox (badness 1418) in paragraph at lines 108--109
+[]\TU/lmr/m/n/10 The selected models were trained on the PCA-
+
+Underfull \hbox (badness 2142) in paragraph at lines 108--109
+\TU/lmr/m/n/10 transformed feature vectors from the training set
+
+Underfull \hbox (badness 1215) in paragraph at lines 108--109
+\TU/lmr/m/n/10 duce data leakage, the cross-validation splits were
+
+Overfull \hbox (353.05382pt too wide) in paragraph at lines 108--109
+\TU/lmr/m/n/10 ‘lh$[]\OML/cmm/m/it/10 d\OT1/cmr/m/n/10 `\OML/cmm/m/it/10 groupi
+ngs:Weemployed\OT1/cmr/m/n/10 `\OML/cmm/m/it/10 GridSearchCV\OT1/cmr/m/n/10 `\O
+ML/cmm/m/it/10 or\OT1/cmr/m/n/10 `\OML/cmm/m/it/10 RandomizedSearchCV\OT1/cmr/m
+/n/10 `\OML/cmm/m/it/10 tosearchfortheoptimalhyperparametersettingsforeachmodel
+:$ 
+
+Package natbib Warning: Citation `mishrasharma2024paperclipassociatingastronomi
+calobservations' on page 4 undefined on input line 111.
+
+
+Package natbib Warning: Citation `narkedimilli2024predictingstellarmetallicityc
+omparative' on page 4 undefined on input line 111.
+
+
+Package natbib Warning: Citation `raghav2024photometricanalysispredictingstar' 
+on page 4 undefined on input line 111.
+
+
+Package natbib Warning: Citation `pandya2025siddasinkhorndynamicdomain' on page
+ 4 undefined on input line 116.
+
+
+Package natbib Warning: Citation `pan2024astromlab2astrollama270bmodel' on page
+ 4 undefined on input line 119.
+
+
+Package natbib Warning: Citation `dehaan2025astromlab3achievinggpt4o' on page 4
+ undefined on input line 119.
+
+
+Package natbib Warning: Citation `soo2023machinelearningapplicationsastrophysic
+s' on page 4 undefined on input line 122.
+
+[4]
+
+Package natbib Warning: Citation `zhong2024improvingconvolutionalneuralnetworks
+' on page 5 undefined on input line 124.
+
+
+Package natbib Warning: Citation `kvasiuk2024reconstructioncontinuouscosmologic
+alfields' on page 5 undefined on input line 124.
+
+
+Underfull \hbox (badness 2221) in paragraph at lines 131--132
+\TU/lmr/m/n/10 25 trees per simulation. Prior to feature engi-
+
+Underfull \hbox (badness 5985) in paragraph at lines 140--141
+[]\TU/lmr/m/n/10 A significant challenge was the computational
+
+Underfull \hbox (badness 10000) in paragraph at lines 140--141
+\TU/lmr/m/n/10 cost associated with eigenvalue decomposition
+
+Underfull \hbox (badness 2426) in paragraph at lines 140--141
+\TU/lmr/m/n/10 for large graphs. To address this, a threshold
+
+Overfull \hbox (14.29219pt too wide) in paragraph at lines 146--147
+ [][] 
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+Overfull \hbox (14.29219pt too wide) in paragraph at lines 153--154
+ [][] 
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+Overfull \hbox (14.29219pt too wide) in paragraph at lines 160--161
+ [][] 
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+Overfull \hbox (14.29219pt too wide) in paragraph at lines 167--168
+ [][] 
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+Overfull \hbox (14.29219pt too wide) in paragraph at lines 174--175
+ [][] 
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+Overfull \hbox (14.29219pt too wide) in paragraph at lines 185--186
+ [][] 
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[5]
+
+LaTeX Warning: A float is stuck (cannot be placed) on input line 191.
+
+
+LaTeX Warning: A float is stuck (cannot be placed) on input line 191.
+
+
+Class revtex4-1 Warning: Deferred float stuck during \clearpage processing.
+
+
+Overfull \hbox (14.29219pt too wide) in paragraph at lines 194--195
+ [][] 
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[6]
+
+LaTeX Warning: A float is stuck (cannot be placed) on input line 204.
+
+
+LaTeX Warning: A float is stuck (cannot be placed) on input line 204.
+
+
+Class revtex4-1 Warning: Deferred float stuck during \clearpage processing.
+
+
+Overfull \hbox (8.00752pt too wide) in paragraph at lines 216--231
+ []$ 
+
+Overfull \hbox (14.29219pt too wide) in paragraph at lines 235--236
+ [][] 
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+Overfull \hbox (14.29219pt too wide) in paragraph at lines 242--243
+ [][] 
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 247.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\Omega' on input line 247.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `subscript' on input line 247.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 247.
+
+[7]
+
+LaTeX Warning: A float is stuck (cannot be placed) on input line 249.
+
+
+LaTeX Warning: A float is stuck (cannot be placed) on input line 249.
+
+
+Class revtex4-1 Warning: Deferred float stuck during \clearpage processing.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 250.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\sigma' on input line 250.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `subscript' on input line 250.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 250.
+
+
+Underfull \hbox (badness 1132) in paragraph at lines 251--252
+\TU/lmr/m/n/10 (MSE=0.006502), and with RFR an R² of 0.2827
+
+Overfull \hbox (14.29219pt too wide) in paragraph at lines 255--256
+ [][] 
+
+Overfull \hbox (14.29219pt too wide) in paragraph at lines 262--263
+ [][] 
+
+Overfull \hbox (14.29219pt too wide) in paragraph at lines 273--274
+ [][] 
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+Overfull \hbox (14.29219pt too wide) in paragraph at lines 280--281
+ [][] 
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 287--289
+[]\TU/lmr/m/n/10 Predicting $\OT1/cmr/m/n/10 
+[]$\TU/lmr/m/n/10 : The RFR model high-
+
+Underfull \hbox (badness 6625) in paragraph at lines 287--289
+\TU/lmr/m/n/10 lighted ‘SF__mean‘ (mean scale factor of
+
+Underfull \hbox (badness 1874) in paragraph at lines 287--289
+\TU/lmr/m/n/10 halos in the tree) as highly important, fol-
+
+Underfull \hbox (badness 1424) in paragraph at lines 287--289
+\TU/lmr/m/n/10 also emphasized ‘SF__mean‘, ‘logM__mean‘,
+[8]
+
+LaTeX Warning: A float is stuck (cannot be placed) on input line 289.
+
+
+LaTeX Warning: A float is stuck (cannot be placed) on input line 289.
+
+
+Class revtex4-1 Warning: Deferred float stuck during \clearpage processing.
+
+
+Underfull \hbox (badness 1728) in paragraph at lines 289--291
+\TU/lmr/m/n/10 ‘logC__mean‘ (mean log concentration) were
+[9]
+Underfull \hbox (badness 5050) in paragraph at lines 313--314
+[]\TU/lmr/m/n/10 The relationship between these specific graph-
+[10] (./paper_v4.bbl [11]) [12]
+
+Package natbib Warning: There were undefined citations.
+
+(./paper_v4.aux
+
+Package natbib Warning: Citation(s) may have changed.
+(natbib)                Rerun to get citations correct.
+
+)
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right .
+
+
+ )
+(see the transcript file for additional information)
+Output written on paper_v4.pdf (12 pages).
+Transcript written on paper_v4.log.
+---- STDERR ----
+
+==== ERROR on iteration Final Pass 2 ====
+---- STDOUT ----
+This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019) (preloaded format=xelatex)
+ restricted \write18 enabled.
+entering extended mode
+(./paper_v4.tex
+LaTeX2e <2018-12-01>
+(./aastex631.cls
+Document Class: aastex631 2020/12/20 Version 6.3.1d/AAS markup document class
+(/usr/local/texlive/2019/texmf-dist/tex/latex/revtex/revtex4-1.cls
+Document Class: revtex4-1 2010/07/25/20:33:00 4.1r (http://publish.aps.org/revt
+ex4/ for documentation)
+ltxutil[2010/07/25/20:33:00 4.1r utilities package (portions licensed from W. E
+. Baxter web at superscript.com)]
+ltxfront[2010/07/25/20:33:00 4.1r frontmatter package (AO,DPC)]
+ltxgrid[2010/07/25/20:33:00 4.1r page grid package (portions licensed from W. E
+. Baxter web at superscript.com)]
+(/usr/local/texlive/2019/texmf-dist/tex/latex/revtex/aps4-1.rtx)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/revtex/aps10pt4-1.rtx)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/textcase/textcase.sty)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/url/url.sty)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/natbib/natbib.sty)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/revtex/revsymb4-1.sty))
+(/usr/local/texlive/2019/texmf-dist/tex/latex/base/latexsym.sty)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/graphics/graphicx.sty
+(/usr/local/texlive/2019/texmf-dist/tex/latex/graphics/keyval.sty)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/graphics/graphics.sty
+(/usr/local/texlive/2019/texmf-dist/tex/latex/graphics/trig.sty)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/graphics-cfg/graphics.cfg)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/graphics-def/xetex.def)))
+(/usr/local/texlive/2019/texmf-dist/tex/latex/amsfonts/amssymb.sty
+(/usr/local/texlive/2019/texmf-dist/tex/latex/amsfonts/amsfonts.sty))
+(/usr/local/texlive/2019/texmf-dist/tex/generic/epsf/epsf.sty
+This is `epsf.tex' v2.7.4 <14 February 2011>
+) (/usr/local/texlive/2019/texmf-dist/tex/latex/tools/longtable.sty)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/xcolor/xcolor.sty
+(/usr/local/texlive/2019/texmf-dist/tex/latex/graphics-cfg/color.cfg))
+(/usr/local/texlive/2019/texmf-dist/tex/latex/hyperref/hyperref.sty
+(/usr/local/texlive/2019/texmf-dist/tex/generic/oberdiek/hobsub-hyperref.sty
+(/usr/local/texlive/2019/texmf-dist/tex/generic/oberdiek/hobsub-generic.sty))
+(/usr/local/texlive/2019/texmf-dist/tex/generic/ifxetex/ifxetex.sty)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/oberdiek/auxhook.sty)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/oberdiek/kvoptions.sty)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/hyperref/pd1enc.def)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/latexconfig/hyperref.cfg))
+(/usr/local/texlive/2019/texmf-dist/tex/latex/hyperref/hxetex.def
+(/usr/local/texlive/2019/texmf-dist/tex/latex/hyperref/puenc.def)
+(/usr/local/texlive/2019/texmf-dist/tex/generic/oberdiek/stringenc.sty)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty))
+(/usr/local/texlive/2019/texmf-dist/tex/latex/tools/array.sty)
+(/usr/local/texlive/2019/texmf-dist/tex/generic/ulem/ulem.sty))
+(/usr/local/texlive/2019/texmf-dist/tex/latex/amsmath/amsmath.sty
+For additional information on amsmath, use the `?' option.
+(/usr/local/texlive/2019/texmf-dist/tex/latex/amsmath/amstext.sty
+(/usr/local/texlive/2019/texmf-dist/tex/latex/amsmath/amsgen.sty))
+(/usr/local/texlive/2019/texmf-dist/tex/latex/amsmath/amsbsy.sty)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/amsmath/amsopn.sty))
+(/usr/local/texlive/2019/texmf-dist/tex/latex/multirow/multirow.sty)
+(./aas_macros.sty) (./paper_v4.aux)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/hyperref/nameref.sty
+(/usr/local/texlive/2019/texmf-dist/tex/generic/oberdiek/gettitlestring.sty))
+(./paper_v4.out) (./paper_v4.out)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/lineno/lineno.sty)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/base/ulasy.fd)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/amsfonts/umsa.fd)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/amsfonts/umsb.fd)
+(/usr/local/texlive/2019/texmf-dist/tex/generic/oberdiek/se-ascii-print.def)
+[1]
+Underfull \hbox (badness 1852) in paragraph at lines 43--44
+[]\TU/lmr/bx/n/10 Node Features (‘x‘)\TU/lmr/m/n/10 : A matrix of shape
+./paper_v4.tex:45: Missing $ inserted.
+<inserted text> 
+                $
+l.45 ...tem \textbf{Edge Attributes (`edge_attr`)}
+                                                  : A matrix of shape `[num_...
+
+./paper_v4.tex:45: Extra }, or forgotten $.
+<recently read> \egroup 
+                        
+l.45 ...tem \textbf{Edge Attributes (`edge_attr`)}
+                                                  : A matrix of shape `[num_...
+
+
+./paper_v4.tex:46: LaTeX Error: Command \item invalid in math mode.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.46     \item
+               \textbf{Graph-Level Labels (`y`)}: A matrix of shape `[1, 2]`...
+
+
+./paper_v4.tex:46: LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.46     \item \textbf
+                      {Graph-Level Labels (`y`)}: A matrix of shape `[1, 2]`...
+
+
+./paper_v4.tex:46: LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.46     \item \textbf
+                      {Graph-Level Labels (`y`)}: A matrix of shape `[1, 2]`...
+
+./paper_v4.tex:46: Missing $ inserted.
+<inserted text> 
+                $
+l.46 ...ted: the matter density parameter ($\Omega
+                                                  _m$) and the amplitude of ...
+
+
+Overfull \hbox (1409.03645pt too wide) in paragraph at lines 45--47
+[]\TU/lmr/bx/n/10 Edge Attributes (‘edge$[]\OML/cmm/m/it/10 ttr\OT1/cmr/m/n/10 
+`) : \OML/cmm/m/it/10 Amatrixofshape\OT1/cmr/m/n/10 `[\OML/cmm/m/it/10 num[]dge
+s; \OT1/cmr/m/n/10 1]`\OML/cmm/m/it/10 thatstoresasinglefeatureassociatedwithea
+chmergerevent:Thisfeature[]sprecisenaturewillbecarefullyexaminedduringexplorato
+rydataanalysis\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 EDA\OT1/cmr/m/n/10 )\OML/cmm/m/
+it/10 ; andifitprovesinsufficientforourpurposes; wewillcomputeastrophysicallymo
+tivatededgefeaturesfromthenodeproperties:[] \OT1/cmr/m/n/10 :
+
+Overfull \hbox (364.036pt too wide) in paragraph at lines 45--47
+\OML/cmm/m/it/10 Amatrixofshape\OT1/cmr/m/n/10 `[1\OML/cmm/m/it/10 ; \OT1/cmr/m
+/n/10 2]`\OML/cmm/m/it/10 containingthecosmologicalparametersassociatedwiththes
+imulationfromwhichthemergertreewasextracted \OT1/cmr/m/n/10 :
+./paper_v4.tex:47: Missing $ inserted.
+<inserted text> 
+                $
+l.47 ...tem \textbf{Number of Nodes (`num_nodes`)}
+                                                  : The total number of halo...
+
+./paper_v4.tex:47: Extra }, or forgotten $.
+<recently read> \egroup 
+                        
+l.47 ...tem \textbf{Number of Nodes (`num_nodes`)}
+                                                  : The total number of halo...
+
+
+./paper_v4.tex:48: LaTeX Error: Command \item invalid in math mode.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.48     \item
+               \textbf{Latin Hypercube ID (`lh_id`)}: An identifier indicati...
+
+
+./paper_v4.tex:48: LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.48     \item \textbf
+                      {Latin Hypercube ID (`lh_id`)}: An identifier indicati...
+
+
+./paper_v4.tex:48: LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.48     \item \textbf
+                      {Latin Hypercube ID (`lh_id`)}: An identifier indicati...
+
+./paper_v4.tex:48: Missing $ inserted.
+<inserted text> 
+                $
+l.48 ...item \textbf{Latin Hypercube ID (`lh_id`)}
+                                                  : An identifier indicating...
+
+./paper_v4.tex:48: Extra }, or forgotten $.
+\textdef@ ...th {#1}\let \f@size #2\selectfont #3}
+                                                  }
+l.48 ...item \textbf{Latin Hypercube ID (`lh_id`)}
+                                                  : An identifier indicating...
+
+./paper_v4.tex:48: Extra }, or forgotten $.
+\textdef@ ...h {#1}\let \f@size #2\selectfont #3}}
+                                                  
+l.48 ...item \textbf{Latin Hypercube ID (`lh_id`)}
+                                                  : An identifier indicating...
+
+./paper_v4.tex:48: Extra }, or forgotten $.
+\text@ ...e {\textdef@ \displaystyle \f@size {#1}}
+                                                  {\textdef@ \textstyle \f@s...
+l.48 ...item \textbf{Latin Hypercube ID (`lh_id`)}
+                                                  : An identifier indicating...
+
+./paper_v4.tex:48: Missing $ inserted.
+<inserted text> 
+                $
+l.48 ...item \textbf{Latin Hypercube ID (`lh_id`)}
+                                                  : An identifier indicating...
+
+./paper_v4.tex:48: Extra }, or forgotten $.
+\textdef@ ...th {#1}\let \f@size #2\selectfont #3}
+                                                  }
+l.48 ...item \textbf{Latin Hypercube ID (`lh_id`)}
+                                                  : An identifier indicating...
+
+./paper_v4.tex:48: Extra }, or forgotten $.
+\textdef@ ...h {#1}\let \f@size #2\selectfont #3}}
+                                                  
+l.48 ...item \textbf{Latin Hypercube ID (`lh_id`)}
+                                                  : An identifier indicating...
+
+./paper_v4.tex:48: Extra }, or forgotten $.
+\text@ ...xtstyle \f@size {\firstchoice@false #1}}
+                                                  {\textdef@ \textstyle \sf@...
+l.48 ...item \textbf{Latin Hypercube ID (`lh_id`)}
+                                                  : An identifier indicating...
+
+./paper_v4.tex:48: Missing $ inserted.
+<inserted text> 
+                $
+l.48 ...item \textbf{Latin Hypercube ID (`lh_id`)}
+                                                  : An identifier indicating...
+
+./paper_v4.tex:48: Extra }, or forgotten $.
+\textdef@ ...th {#1}\let \f@size #2\selectfont #3}
+                                                  }
+l.48 ...item \textbf{Latin Hypercube ID (`lh_id`)}
+                                                  : An identifier indicating...
+
+./paper_v4.tex:48: Extra }, or forgotten $.
+\textdef@ ...h {#1}\let \f@size #2\selectfont #3}}
+                                                  
+l.48 ...item \textbf{Latin Hypercube ID (`lh_id`)}
+                                                  : An identifier indicating...
+
+./paper_v4.tex:48: Extra }, or forgotten $.
+\text@ ...tstyle \sf@size {\firstchoice@false #1}}
+                                                  {\textdef@ \textstyle \ssf...
+l.48 ...item \textbf{Latin Hypercube ID (`lh_id`)}
+                                                  : An identifier indicating...
+
+./paper_v4.tex:48: Missing $ inserted.
+<inserted text> 
+                $
+l.48 ...item \textbf{Latin Hypercube ID (`lh_id`)}
+                                                  : An identifier indicating...
+
+./paper_v4.tex:48: Extra }, or forgotten $.
+\textdef@ ...th {#1}\let \f@size #2\selectfont #3}
+                                                  }
+l.48 ...item \textbf{Latin Hypercube ID (`lh_id`)}
+                                                  : An identifier indicating...
+
+./paper_v4.tex:48: Extra }, or forgotten $.
+\textdef@ ...h {#1}\let \f@size #2\selectfont #3}}
+                                                  
+l.48 ...item \textbf{Latin Hypercube ID (`lh_id`)}
+                                                  : An identifier indicating...
+
+./paper_v4.tex:48: Extra }, or forgotten $.
+\text@ ...style \ssf@size {\firstchoice@false #1}}
+                                                  \check@mathfonts }
+l.48 ...item \textbf{Latin Hypercube ID (`lh_id`)}
+                                                  : An identifier indicating...
+
+./paper_v4.tex:48: Extra }, or forgotten $.
+\text@ ...firstchoice@false #1}}\check@mathfonts }
+                                                  
+l.48 ...item \textbf{Latin Hypercube ID (`lh_id`)}
+                                                  : An identifier indicating...
+
+./paper_v4.tex:49: Missing $ inserted.
+<inserted text> 
+                $
+l.49     \item \textbf
+                      {Node Halo ID (`node_halo_id`)}: Unique identifiers fo...
+
+./paper_v4.tex:49: Missing } inserted.
+<inserted text> 
+                }
+l.49     \item \textbf
+                      {Node Halo ID (`node_halo_id`)}: Unique identifiers fo...
+
+./paper_v4.tex:49: Missing $ inserted.
+<inserted text> 
+                $
+l.49 ...tem \textbf{Node Halo ID (`node_halo_id`)}
+                                                  : Unique identifiers for e...
+
+./paper_v4.tex:49: Extra }, or forgotten $.
+<recently read> \egroup 
+                        
+l.49 ...tem \textbf{Node Halo ID (`node_halo_id`)}
+                                                  : Unique identifiers for e...
+
+./paper_v4.tex:50: Missing $ inserted.
+<inserted text> 
+                $
+l.50 \end{itemize}
+                  
+./paper_v4.tex:50: Missing } inserted.
+<inserted text> 
+                }
+l.50 \end{itemize}
+                  
+./paper_v4.tex:50: Missing } inserted.
+<inserted text> 
+                }
+l.50 \end{itemize}
+                  
+./paper_v4.tex:50: Missing } inserted.
+<inserted text> 
+                }
+l.50 \end{itemize}
+                  
+./paper_v4.tex:50: Missing $ inserted.
+<inserted text> 
+                $
+l.50 \end{itemize}
+                  
+./paper_v4.tex:50: Missing } inserted.
+<inserted text> 
+                }
+l.50 \end{itemize}
+                  
+./paper_v4.tex:50: Missing } inserted.
+<inserted text> 
+                }
+l.50 \end{itemize}
+                  
+./paper_v4.tex:50: Missing } inserted.
+<inserted text> 
+                }
+l.50 \end{itemize}
+                  
+./paper_v4.tex:50: Missing $ inserted.
+<inserted text> 
+                $
+l.50 \end{itemize}
+                  
+./paper_v4.tex:50: Missing } inserted.
+<inserted text> 
+                }
+l.50 \end{itemize}
+                  
+./paper_v4.tex:50: Missing } inserted.
+<inserted text> 
+                }
+l.50 \end{itemize}
+                  
+./paper_v4.tex:50: Missing } inserted.
+<inserted text> 
+                }
+l.50 \end{itemize}
+                  
+./paper_v4.tex:50: Missing $ inserted.
+<inserted text> 
+                $
+l.50 \end{itemize}
+                  
+./paper_v4.tex:50: Missing } inserted.
+<inserted text> 
+                }
+l.50 \end{itemize}
+                  
+./paper_v4.tex:50: Missing } inserted.
+<inserted text> 
+                }
+l.50 \end{itemize}
+                  
+./paper_v4.tex:50: Missing } inserted.
+<inserted text> 
+                }
+l.50 \end{itemize}
+                  
+./paper_v4.tex:50: Missing { inserted.
+<to be read again> 
+                   \endgroup 
+l.50 \end{itemize}
+                  
+./paper_v4.tex:50: Missing } inserted.
+<inserted text> 
+                }
+l.50 \end{itemize}
+                  
+./paper_v4.tex:50: Missing { inserted.
+<to be read again> 
+                   \endgroup 
+l.50 \end{itemize}
+                  
+./paper_v4.tex:50: Missing } inserted.
+<inserted text> 
+                }
+l.50 \end{itemize}
+                  
+./paper_v4.tex:50: Missing { inserted.
+<to be read again> 
+                   \endgroup 
+l.50 \end{itemize}
+                  
+./paper_v4.tex:50: Missing } inserted.
+<inserted text> 
+                }
+l.50 \end{itemize}
+                  
+./paper_v4.tex:50: Missing } inserted.
+<inserted text> 
+                }
+l.50 \end{itemize}
+                  
+./paper_v4.tex:50: Missing $ inserted.
+<inserted text> 
+                $
+l.50 \end{itemize}
+                  
+./paper_v4.tex:50: Missing } inserted.
+<inserted text> 
+                }
+l.50 \end{itemize}
+                  
+./paper_v4.tex:50: Missing } inserted.
+<inserted text> 
+                }
+l.50 \end{itemize}
+                  
+
+Overfull \hbox (133.78873pt too wide) in paragraph at lines 47--51
+[]\TU/lmr/bx/n/10 Number of Nodes (‘num$[]\OML/cmm/m/it/10 odes\OT1/cmr/m/n/10 
+`) : \OML/cmm/m/it/10 Thetotalnumberofhalos\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 no
+des\OT1/cmr/m/n/10 )\OML/cmm/m/it/10 inthemergertree:[]$
+
+Underfull \hbox (badness 10000) in paragraph at lines 47--51
+
+
+Underfull \hbox (badness 5771) in paragraph at lines 57--58
+[]\TU/lmr/bx/n/10 Node Feature Distributions\TU/lmr/m/n/10 : Analyzing
+
+Underfull \hbox (badness 3815) in paragraph at lines 57--58
+\TU/lmr/m/n/10 the distributions of the four node features
+./paper_v4.tex:58: Missing $ inserted.
+<inserted text> 
+                $
+l.58 ...ees derived from the same simulation (`lh_
+                                                  id`). This analysis helps ...
+
+
+./paper_v4.tex:59: LaTeX Error: Command \item invalid in math mode.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.59     \item
+               \textbf{Graph Structural Properties}: Analyzing the distribut...
+
+
+./paper_v4.tex:59: LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.59     \item \textbf
+                      {Graph Structural Properties}: Analyzing the distribut...
+
+
+./paper_v4.tex:59: LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.59     \item \textbf
+                      {Graph Structural Properties}: Analyzing the distribut...
+
+
+./paper_v4.tex:60: LaTeX Error: Command \item invalid in math mode.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.60     \item
+               \textbf{Edge Attribute Investigation}: Examining the nature a...
+
+./paper_v4.tex:60: Missing $ inserted.
+<inserted text> 
+                $
+l.60     \item \textbf
+                      {Edge Attribute Investigation}: Examining the nature a...
+
+./paper_v4.tex:60: Missing } inserted.
+<inserted text> 
+                }
+l.60     \item \textbf
+                      {Edge Attribute Investigation}: Examining the nature a...
+
+
+Overfull \hbox (327.26706pt too wide) in paragraph at lines 58--60
+\TU/lmr/m/n/10 (‘lh$[]\OML/cmm/m/it/10 d\OT1/cmr/m/n/10 `)\OML/cmm/m/it/10 :Thi
+sanalysishelpsconfirmtheexpectedrangesandvariabilityofthetargetvariables:[][] \
+OT1/cmr/m/n/10 :
+
+Overfull \hbox (750.75676pt too wide) in paragraph at lines 58--60
+\OML/cmm/m/it/10 Analyzingthedistributionofgraphsizes; specificallythenumberofn
+odesandedgesineachmergertree:Thisisimportantbecausethevariabilityingraphsizenec
+essitatestheuseofgraphembeddingmethodsthatcanproducefixed \OMS/cmsy/m/n/10 ^^@
+./paper_v4.tex:60: Extra }, or forgotten \endgroup.
+\par ...m \@noitemerr {\@@par }\fi \else {\@@par }
+                                                  \fi 
+l.60     \item \textbf
+                      {Edge Attribute Investigation}: Examining the nature a...
+
+./paper_v4.tex:60: Missing $ inserted.
+<inserted text> 
+                $
+l.60 ...re and distribution of the provided `edge_
+                                                  attr`. If this attribute i...
+
+
+./paper_v4.tex:61: LaTeX Error: Command \end{enumerate} invalid in math mode.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.61 \end{enumerate}
+                    
+
+./paper_v4.tex:61: LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.61 \end{enumerate}
+                    
+
+./paper_v4.tex:61: LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.61 \end{enumerate}
+                    
+./paper_v4.tex:61: Missing $ inserted.
+<inserted text> 
+                $
+l.61 \end{enumerate}
+                    
+
+Underfull \hbox (badness 10000) in paragraph at lines 60--63
+[]\TU/lmr/bx/n/10 Edge Attribute Investigation\TU/lmr/m/n/10 : Examining
+
+Underfull \hbox (badness 10000) in paragraph at lines 60--63
+\TU/lmr/m/n/10 the nature and distribution of the provided
+
+Overfull \hbox (475.74222pt too wide) in paragraph at lines 60--63
+\TU/lmr/m/n/10 ‘edge$[]\OML/cmm/m/it/10 ttr\OT1/cmr/m/n/10 `\OML/cmm/m/it/10 :I
+fthisattributeisnotdirectlyinterpretableasaphysicalquantityrelevanttomergereven
+ts; wewillproceedtocomputethesefeaturesmanuallyasdescribedlater:$
+[2]
+./paper_v4.tex:65: Missing $ inserted.
+<inserted text> 
+                $
+l.65 ...med at the simulation level using the `lh_
+                                                  id` to prevent data leakag...
+
+./paper_v4.tex:65: Missing $ inserted.
+<inserted text> 
+                $
+l.65 ...he same simulation share identical $\Omega
+                                                  _m$ and $\sigma_8$ values....
+
+
+Overfull \hbox (114.13885pt too wide) in paragraph at lines 65--66
+\TU/lmr/m/n/10 ‘lh$[]\OML/cmm/m/it/10 d\OT1/cmr/m/n/10 `\OML/cmm/m/it/10 toprev
+entdataleakage; asalltreesfromthesamesimulationshareidentical$$\OT1/cmr/m/n/10 
+
+[]$
+./paper_v4.tex:76: Missing $ inserted.
+<inserted text> 
+                $
+l.76 ...g = (V, E)$, we first converted the `edge_
+                                                  index` to a SciPy sparse a...
+
+./paper_v4.tex:76: Missing $ inserted.
+<inserted text> 
+                $
+l.76 ...normalized graph Laplacian, defined as $L_
+                                                  {norm} = I - D^{-1/2} A D^...
+
+
+Overfull \hbox (289.35083pt too wide) in paragraph at lines 76--77
+\TU/lmr/m/n/10 ‘edge$[]\OML/cmm/m/it/10 ndex\OT1/cmr/m/n/10 `\OML/cmm/m/it/10 t
+oaSciPysparseadjacencymatrix$\TU/lmr/m/n/10 A$\OML/cmm/m/it/10 :Wethencomputedt
+henormalizedgraphLaplacian; definedas$\TU/lmr/m/n/10 L$[] \OT1/cmr/m/n/10 =
+
+Underfull \hbox (badness 10000) in paragraph at lines 77--78
+[]\TU/lmr/bx/n/10 Eigenvalue Decomposition\TU/lmr/m/n/10 : We com-
+
+Underfull \hbox (badness 5490) in paragraph at lines 77--78
+\TU/lmr/m/n/10 puted the eigenvalues of $\OML/cmm/m/it/10 L[]$ \TU/lmr/m/n/10 u
+sing the
+[3]
+Underfull \hbox (badness 10000) in paragraph at lines 94--95
+[]\TU/lmr/bx/n/10 Scale Factor Difference\TU/lmr/m/n/10 : $\OT1/cmr/m/n/10 ^^A[
+] =
+
+Underfull \hbox (badness 1975) in paragraph at lines 94--95
+\TU/lmr/m/n/10 edges point from progenitors to descen-
+
+Underfull \hbox (badness 10000) in paragraph at lines 94--95
+\TU/lmr/m/n/10 dants, we expect $\OML/cmm/m/it/10 scale[]factor\OT1/cmr/m/n/10 
+(\OML/cmm/m/it/10 v\OT1/cmr/m/n/10 ) \OML/cmm/m/it/10 >
+
+Underfull \hbox (badness 1178) in paragraph at lines 94--95
+\OML/cmm/m/it/10 scale[]factor\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 u\OT1/cmr/m/n/1
+0 )$\TU/lmr/m/n/10 , and $\OT1/cmr/m/n/10 ^^A[]$ \TU/lmr/m/n/10 represents the
+
+Underfull \hbox (badness 1515) in paragraph at lines 95--96
+[]\TU/lmr/bx/n/10 Log Mass Ratio\TU/lmr/m/n/10 : $\OML/cmm/m/it/10 log[]mass[]r
+atio \OT1/cmr/m/n/10 =
+./paper_v4.tex:108: Missing $ inserted.
+<inserted text> 
+                $
+l.108 ...the simulation level, respecting the `lh_
+                                                  id` groupings. We employed...
+
+./paper_v4.tex:109: Missing $ inserted.
+<inserted text> 
+                $
+l.109 
+      
+
+Underfull \hbox (badness 1418) in paragraph at lines 108--109
+[]\TU/lmr/m/n/10 The selected models were trained on the PCA-
+
+Underfull \hbox (badness 2142) in paragraph at lines 108--109
+\TU/lmr/m/n/10 transformed feature vectors from the training set
+
+Underfull \hbox (badness 1215) in paragraph at lines 108--109
+\TU/lmr/m/n/10 duce data leakage, the cross-validation splits were
+
+Overfull \hbox (353.05382pt too wide) in paragraph at lines 108--109
+\TU/lmr/m/n/10 ‘lh$[]\OML/cmm/m/it/10 d\OT1/cmr/m/n/10 `\OML/cmm/m/it/10 groupi
+ngs:Weemployed\OT1/cmr/m/n/10 `\OML/cmm/m/it/10 GridSearchCV\OT1/cmr/m/n/10 `\O
+ML/cmm/m/it/10 or\OT1/cmr/m/n/10 `\OML/cmm/m/it/10 RandomizedSearchCV\OT1/cmr/m
+/n/10 `\OML/cmm/m/it/10 tosearchfortheoptimalhyperparametersettingsforeachmodel
+:$ 
+[4]
+Underfull \hbox (badness 2221) in paragraph at lines 131--132
+\TU/lmr/m/n/10 25 trees per simulation. Prior to feature engi-
+
+Underfull \hbox (badness 5985) in paragraph at lines 140--141
+[]\TU/lmr/m/n/10 A significant challenge was the computational
+
+Underfull \hbox (badness 10000) in paragraph at lines 140--141
+\TU/lmr/m/n/10 cost associated with eigenvalue decomposition
+
+Underfull \hbox (badness 2426) in paragraph at lines 140--141
+\TU/lmr/m/n/10 for large graphs. To address this, a threshold
+[5]
+Overfull \hbox (14.29219pt too wide) in paragraph at lines 146--147
+ [][] 
+
+Overfull \hbox (14.29219pt too wide) in paragraph at lines 153--154
+ [][] 
+
+Overfull \hbox (14.29219pt too wide) in paragraph at lines 160--161
+ [][] 
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+Overfull \hbox (14.29219pt too wide) in paragraph at lines 167--168
+ [][] 
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+Overfull \hbox (14.29219pt too wide) in paragraph at lines 174--175
+ [][] 
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+Overfull \hbox (14.29219pt too wide) in paragraph at lines 185--186
+ [][] 
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[6]
+
+LaTeX Warning: A float is stuck (cannot be placed) on input line 191.
+
+
+LaTeX Warning: A float is stuck (cannot be placed) on input line 191.
+
+
+Class revtex4-1 Warning: Deferred float stuck during \clearpage processing.
+
+
+Overfull \hbox (14.29219pt too wide) in paragraph at lines 194--195
+ [][] 
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+Overfull \hbox (8.00752pt too wide) in paragraph at lines 216--231
+ []$ 
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+Overfull \hbox (14.29219pt too wide) in paragraph at lines 235--236
+ [][] 
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+Overfull \hbox (14.29219pt too wide) in paragraph at lines 242--243
+ [][] 
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 247.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\Omega' on input line 247.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `subscript' on input line 247.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 247.
+
+[7]
+
+LaTeX Warning: A float is stuck (cannot be placed) on input line 249.
+
+
+LaTeX Warning: A float is stuck (cannot be placed) on input line 249.
+
+
+Class revtex4-1 Warning: Deferred float stuck during \clearpage processing.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 250.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\sigma' on input line 250.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `subscript' on input line 250.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 250.
+
+
+Underfull \hbox (badness 1132) in paragraph at lines 251--252
+\TU/lmr/m/n/10 (MSE=0.006502), and with RFR an R² of 0.2827
+
+Overfull \hbox (14.29219pt too wide) in paragraph at lines 255--256
+ [][] 
+
+Overfull \hbox (14.29219pt too wide) in paragraph at lines 262--263
+ [][] 
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+Overfull \hbox (14.29219pt too wide) in paragraph at lines 273--274
+ [][] 
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+Overfull \hbox (14.29219pt too wide) in paragraph at lines 280--281
+ [][] 
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 287--289
+[]\TU/lmr/m/n/10 Predicting $\OT1/cmr/m/n/10 
+[]$\TU/lmr/m/n/10 : The RFR model high-
+
+Underfull \hbox (badness 6625) in paragraph at lines 287--289
+\TU/lmr/m/n/10 lighted ‘SF__mean‘ (mean scale factor of
+
+Underfull \hbox (badness 1874) in paragraph at lines 287--289
+\TU/lmr/m/n/10 halos in the tree) as highly important, fol-
+
+Underfull \hbox (badness 1424) in paragraph at lines 287--289
+\TU/lmr/m/n/10 also emphasized ‘SF__mean‘, ‘logM__mean‘,
+[8]
+
+LaTeX Warning: A float is stuck (cannot be placed) on input line 289.
+
+
+LaTeX Warning: A float is stuck (cannot be placed) on input line 289.
+
+
+Class revtex4-1 Warning: Deferred float stuck during \clearpage processing.
+
+
+Underfull \hbox (badness 1728) in paragraph at lines 289--291
+\TU/lmr/m/n/10 ‘logC__mean‘ (mean log concentration) were
+[9]
+Underfull \hbox (badness 5050) in paragraph at lines 313--314
+[]\TU/lmr/m/n/10 The relationship between these specific graph-
+[10] (./paper_v4.bbl [11] [12]) [13] (./paper_v4.aux)
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right .
+
+
+ )
+(see the transcript file for additional information)
+Output written on paper_v4.pdf (13 pages).
+Transcript written on paper_v4.log.
+---- STDERR ----
