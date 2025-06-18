@@ -1,0 +1,22 @@
+\documentclass[twocolumn]{aastex631}
+
+\usepackage{amsmath}
+\usepackage{multirow}
+\usepackage{natbib}
+\usepackage{graphicx} 
+\usepackage{aas_macros}
+
+\begin{document}
+
+
+Understanding the formation history of dark matter halos is crucial for connecting the large-scale structure of the Universe to the galaxies that reside within them. While halo mass is a primary determinant of galaxy properties, halos of similar mass can exhibit different clustering behaviors depending on their formation history, a phenomenon known as assembly bias. Specifically, at a given mass, halos that assembled earlier tend to cluster more strongly than those that assembled later. This implies that halo mass alone is insufficient to fully explain the observed distribution of galaxies, posing a significant challenge to our understanding of galaxy formation and evolution. The origin of assembly bias lies in the complex gravitational processes that govern halo growth, including the accretion of smaller halos and mergers with other objects. These processes leave a unique imprint on the halo's merger history.
+
+Merger trees, which represent the hierarchical merging history of a halo, offer a rich source of information about its formation process. However, extracting meaningful insights from merger trees is challenging due to their high dimensionality and complex structure. Traditional approaches often rely on hand-engineered features that may not fully capture the relevant aspects of a halo's formation history. Moreover, the precise relationship between merger tree morphology and assembly bias remains poorly understood.
+
+In this paper, we investigate the feasibility of using Graph Neural Networks (GNNs) to predict an assembly bias proxy directly from the structural properties of halo merger trees. GNNs are well-suited for this task because they can naturally handle the graph-like structure of merger trees and learn complex relationships between node and edge features. Our initial idea was to leverage Topological Data Analysis (TDA) to guide the GNN architecture and training. TDA provides a powerful framework for quantifying the shape and structure of complex data by identifying topological features such as loops and connected components. We hypothesized that these topological features could capture key aspects of a halo's formation history that are relevant to assembly bias. The GNN model takes the merger tree as input, where nodes are characterized by features like halo mass ($M$), maximum circular velocity ($V_{max}$), and scale factor ($a$), and edges are characterized by merger mass ratio and time difference between mergers ($\Delta t$). The GNN outputs a prediction for the halo's assembly bias proxy.
+
+To test our hypothesis, we preprocessed merger trees from cosmological N-body simulations, extracting relevant node and edge features. We aimed to calculate an assembly bias proxy for each halo based on the mean halo mass of the main halos at $z=0$. However, significant issues arose during the calculation of this proxy, resulting in a drastic reduction of the dataset size, which precluded the originally intended application of TDA. We proceeded with training a Graph Convolutional Network (GCN) on this limited dataset to predict the assembly bias proxy. The performance of the GNN model was evaluated using Mean Squared Error (MSE) and R-squared ($R^2$) score on a test set. Although the initial attempt was unsuccessful due to data limitations, the proposed methodology warrants further investigation with larger, more robust datasets and the incorporation of TDA to quantify merger tree morphology.
+
+
+\end{document}
+                
