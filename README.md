@@ -25,6 +25,18 @@ Here is a list of the current example articles.
 - Epigenetic Aging, Regional Brain Morphology, and the Spectrum of Cognitive Decline in Long-Lived
 Egyptian Fruit Bats &rArr; [pdf](https://users.flatironinstitute.org/~fvillaescusa/Denario/Neuroscience/Iteration1/Project1/paper/paper_v2_no_citations.pdf) | [files](https://users.flatironinstitute.org/~fvillaescusa/Denario/Neuroscience/Iteration1/Project1/)
 
+- Unraveling Brain Structural Correlates of Cognitive Aging and Resilience in Long-Lived Bats: An
+Integrated Study of Epigenetic Age and Spatial Memory &rArr; [pdf](https://users.flatironinstitute.org/~fvillaescusa/Denario/Neuroscience/Iteration1/Project2/paper/paper_v2_no_citations.pdf) | [files](https://users.flatironinstitute.org/~fvillaescusa/Denario/Neuroscience/Iteration1/Project2/)
+
+- Investigating Cognitive Resilience in Long-Lived Bats: Challenges in Integrating Epigenetic Age,
+Spatial Memory, and Brain Structure &rArr; [pdf](https://users.flatironinstitute.org/~fvillaescusa/Denario/Neuroscience/Iteration1/Project3/paper/paper_v2_no_citations.pdf) | [files](https://users.flatironinstitute.org/~fvillaescusa/Denario/Neuroscience/Iteration1/Project3/)
+
+- Brain Structural Preservation in Long-Lived Bats: An Epigenetic Investigation of
+Rousettus aegyptiacus &rArr; [pdf](https://users.flatironinstitute.org/~fvillaescusa/Denario/Neuroscience/Iteration1/Project4/paper/paper_v2_no_citations.pdf) | [files](https://users.flatironinstitute.org/~fvillaescusa/Denario/Neuroscience/Iteration1/Project4/)
+
+- Critical Assessment of a Multimodal Pipeline for Studying Cognitive Resilience in Aging Bats:
+Insights from Data Integration Failures &rArr; [pdf](https://users.flatironinstitute.org/~fvillaescusa/Denario/Neuroscience/Iteration1/Project5/paper/paper_v2_no_citations.pdf) | [files](https://users.flatironinstitute.org/~fvillaescusa/Denario/Neuroscience/Iteration1/Project5/)
+
 ## Contributing
 
 If you generate an interesting article with [Denario](https://github.com/AstroPilot-AI/Denario) please feel free to open a pull request with the full project files (including code and latex files), and we will consider to include it among the current examples.
