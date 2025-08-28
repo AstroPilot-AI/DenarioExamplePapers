@@ -67,6 +67,22 @@ Egyptian Fruit Bats &rArr; [pdf](https://users.flatironinstitute.org/~fvillaescu
 - Brain Microstructural Pattern Age Acceleration (BMPAA) in Long-Lived Bats: Disentangling
 Age-Related, Sex-Related, and Origin-Specific Signatures &rArr; [pdf](https://users.flatironinstitute.org/~fvillaescusa/Denario/Neuroscience/Iteration3/Project5/paper/paper_v2_no_citations.pdf) | [files](https://users.flatironinstitute.org/~fvillaescusa/Denario/Neuroscience/Iteration3/Project5/)
 
+### Medicine
+
+- Analysis of Principal Diagnosis Present on Admission Status and Resource Utilization in Texas Inpatient Data &rArr; [pdf](https://users.flatironinstitute.org/~fvillaescusa/Denario/Medicine/Admision1/paper/paper_v2.pdf) | [files](https://users.flatironinstitute.org/~fvillaescusa/Denario/Medicine/Admision1/)
+
+- Evaluating Attention-Based Learning of Patient Diagnosis Representations with Present On Admission Status for In-Hospital Mortality and Prolonged Length of Stay Prediction &rArr; [pdf](https://users.flatironinstitute.org/~fvillaescusa/Denario/Medicine/Admision3/paper/paper_v2.pdf) | [files](https://users.flatironinstitute.org/~fvillaescusa/Denario/Medicine/Admision3/)
+
+- Modeling Inpatient Morbidity Dynamics Using Present on Admission Data: Predicting Emergent Conditions and Analyzing Resource Utilization in Texas Hospitals &rArr; [pdf](https://users.flatironinstitute.org/~fvillaescusa/Denario/Medicine/Admision4/paper/paper_v2.pdf) | [files](https://users.flatironinstitute.org/~fvillaescusa/Denario/Medicine/Admision4/)
+
+- Efficiency Analysis of US ART Clinics: A Data Envelopment Analysis Approach (2020-2022) &rArr; [pdf](https://users.flatironinstitute.org/~fvillaescusa/Denario/Medicine/Fertility1/paper/paper_v2.pdf) | [files](https://users.flatironinstitute.org/~fvillaescusa/Denario/Medicine/Fertility1/)
+
+- Characterizing the Variability and Correlates of U.S. ART Clinic Performance During the COVID-19 Pandemic (2020-2022) &rArr; [pdf](https://users.flatironinstitute.org/~fvillaescusa/Denario/Medicine/Fertility2/paper/paper_v2.pdf) | [files](https://users.flatironinstitute.org/~fvillaescusa/Denario/Medicine/Fertility2/)
+
+
+
+
+
 
 ## Contributing
 
