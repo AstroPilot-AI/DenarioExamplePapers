@@ -37,6 +37,37 @@ Rousettus aegyptiacus &rArr; [pdf](https://users.flatironinstitute.org/~fvillaes
 - Critical Assessment of a Multimodal Pipeline for Studying Cognitive Resilience in Aging Bats:
 Insights from Data Integration Failures &rArr; [pdf](https://users.flatironinstitute.org/~fvillaescusa/Denario/Neuroscience/Iteration1/Project5/paper/paper_v2_no_citations.pdf) | [files](https://users.flatironinstitute.org/~fvillaescusa/Denario/Neuroscience/Iteration1/Project5/)
 
+- Microstructural Brain Signatures of Adaptive Cognitive Strategies in Long-Lived Bats: An
+ROI-based DTI and Behavioral Resilience Analysis &rArr; [pdf](https://users.flatironinstitute.org/~fvillaescusa/Denario/Neuroscience/Iteration2/Project1/paper/paper_v2_no_citations.pdf) | [files](https://users.flatironinstitute.org/~fvillaescusa/Denario/Neuroscience/Iteration2/Project1/)
+
+- Aging and Cognition in Long-Lived Egyptian Fruit Bats: Behavioral Performance and the Unmet
+Promise of Microstructural Biomarkers &rArr; [pdf](https://users.flatironinstitute.org/~fvillaescusa/Denario/Neuroscience/Iteration2/Project2/paper/paper_v2_no_citations.pdf) | [files](https://users.flatironinstitute.org/~fvillaescusa/Denario/Neuroscience/Iteration2/Project2/)
+
+- Cognitive-Structural Decoupling in Long-Lived Bats: Quantifying Resilience Beyond Age and Global
+Brain Structure &rArr; [pdf](https://users.flatironinstitute.org/~fvillaescusa/Denario/Neuroscience/Iteration2/Project3/paper/paper_v2_no_citations.pdf) | [files](https://users.flatironinstitute.org/~fvillaescusa/Denario/Neuroscience/Iteration2/Project3/)
+
+- Regional Brain Morphometry and Adaptive Foraging Reveal Age-Related Cognitive Flexibility and
+Resilience Trends in Egyptian Fruit Bats &rArr; [pdf](https://users.flatironinstitute.org/~fvillaescusa/Denario/Neuroscience/Iteration2/Project4/paper/paper_v2_no_citations.pdf) | [files](https://users.flatironinstitute.org/~fvillaescusa/Denario/Neuroscience/Iteration2/Project4/)
+
+- Exploratory Multi-Modal Investigation of Brain Microstructure and Epigenetic Aging in Egyptian
+Fruit Bats: Identifying Phenotypes of Resilience and Vulnerability &rArr; [pdf](https://users.flatironinstitute.org/~fvillaescusa/Denario/Neuroscience/Iteration2/Project5/paper/paper_v2_no_citations.pdf) | [files](https://users.flatironinstitute.org/~fvillaescusa/Denario/Neuroscience/Iteration2/Project5/)
+
+- Cognitive Resilience and the Neuroepigenetic Landscape of Spatial Memory in Aging Egyptian Fruit
+Bats &rArr; [pdf](https://users.flatironinstitute.org/~fvillaescusa/Denario/Neuroscience/Iteration3/Project1/paper/paper_v2_no_citations.pdf) | [files](https://users.flatironinstitute.org/~fvillaescusa/Denario/Neuroscience/Iteration3/Project1/)
+
+- Unveiling Predictive Neural Signatures of Cognitive Adaptability in Aging Bats: A Multi-Region DTI
+and Machine Learning Approach &rArr; [pdf](https://users.flatironinstitute.org/~fvillaescusa/Denario/Neuroscience/Iteration3/Project2/paper/paper_v2_no_citations.pdf) | [files](https://users.flatironinstitute.org/~fvillaescusa/Denario/Neuroscience/Iteration3/Project2/)
+
+- Neuro-Cognitive Resilience in Long-Lived Bats: An Epigenetic Age-Adjusted Analysis of Spatial
+Memory and Brain Microstructure &rArr; [pdf](https://users.flatironinstitute.org/~fvillaescusa/Denario/Neuroscience/Iteration3/Project3/paper/paper_v2_no_citations.pdf) | [files](https://users.flatironinstitute.org/~fvillaescusa/Denario/Neuroscience/Iteration3/Project3/)
+
+- A Neuro-Cognitive Decoupling Framework for Investigating Resilience and Vulnerability in Aging
+Egyptian Fruit Bats &rArr; [pdf](https://users.flatironinstitute.org/~fvillaescusa/Denario/Neuroscience/Iteration3/Project4/paper/paper_v2_no_citations.pdf) | [files](https://users.flatironinstitute.org/~fvillaescusa/Denario/Neuroscience/Iteration3/Project4/)
+
+- Brain Microstructural Pattern Age Acceleration (BMPAA) in Long-Lived Bats: Disentangling
+Age-Related, Sex-Related, and Origin-Specific Signatures &rArr; [pdf](https://users.flatironinstitute.org/~fvillaescusa/Denario/Neuroscience/Iteration3/Project5/paper/paper_v2_no_citations.pdf) | [files](https://users.flatironinstitute.org/~fvillaescusa/Denario/Neuroscience/Iteration3/Project5/)
+
+
 ## Contributing
 
 If you generate an interesting article with [Denario](https://github.com/AstroPilot-AI/Denario) please feel free to open a pull request with the full project files (including code and latex files), and we will consider to include it among the current examples.
