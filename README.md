@@ -90,6 +90,35 @@ Age-Related, Sex-Related, and Origin-Specific Signatures &rArr; [pdf](https://us
 - Characterizing the Variability and Correlates of U.S. ART Clinic Performance During the COVID-19 Pandemic (2020-2022) &rArr; [pdf](https://users.flatironinstitute.org/~fvillaescusa/Denario/Medicine/Fertility2/paper/paper_v2.pdf) | [files](https://users.flatironinstitute.org/~fvillaescusa/Denario/Medicine/Fertility2/)
 
 
+### Planetary science
+
+- Constraining Asteroid Thermal Properties Through Analysis of Spin-Orbital Correlations Within Families &rArr; [pdf](https://users.flatironinstitute.org/~fvillaescusa/Denario/Planetary_science/Asteroids/Iteration1/Project1/paper/paper_v2.pdf) | [files](https://users.flatironinstitute.org/~fvillaescusa/Denario/Planetary_science/Asteroids/Iteration1/Project1/)
+
+- Statistical Evidence for Coupled Spin-Orbit Evolution in Asteroid Families &rArr; [pdf](https://users.flatironinstitute.org/~fvillaescusa/Denario/Planetary_science/Asteroids/Iteration1/Project5/paper/paper_v2.pdf) | [files](https://users.flatironinstitute.org/~fvillaescusa/Denario/Planetary_science/Asteroids/Iteration1/Project5/)
+
+- Unveiling the Intrinsic Structure of the Asteroid Belt: Correcting for Observational Selection Bias in Physical and Compositional Properties &rArr; [pdf](https://users.flatironinstitute.org/~fvillaescusa/Denario/Planetary_science/Asteroids/Iteration1/Project7/paper/paper_v2.pdf) | [files](https://users.flatironinstitute.org/~fvillaescusa/Denario/Planetary_science/Asteroids/Iteration1/Project7/)
+
+- The Limited Predictability of Asteroid Spin Obliquity from Age, Size, Type, and Family: A Gaussian Process Regression Study &rArr; [pdf](https://users.flatironinstitute.org/~fvillaescusa/Denario/Planetary_science/Asteroids/Iteration1/Project10/paper/paper_v2.pdf) | [files](https://users.flatironinstitute.org/~fvillaescusa/Denario/Planetary_science/Asteroids/Iteration1/Project10/)
+
+- Identifying Anomalous Asteroids via Predictive Modeling of Physical and Spin Properties based on Orbit and Age &rArr; [pdf](https://users.flatironinstitute.org/~fvillaescusa/Denario/Planetary_science/Asteroids/Iteration1/Project14/paper/paper_v2.pdf) | [files](https://users.flatironinstitute.org/~fvillaescusa/Denario/Planetary_science/Asteroids/Iteration1/Project14/)
+
+
+- The Spatial Architecture of the Main Asteroid Belt: Size, Composition, and Dynamical Gradients &rArr; [pdf](https://users.flatironinstitute.org/~fvillaescusa/Denario/Planetary_science/Asteroids/Iteration1/Project4/paper/paper_v2_no_citations.pdf) | [files](https://users.flatironinstitute.org/~fvillaescusa/Denario/Planetary_science/Asteroids/Iteration1/Project4/)
+
+- Mapping Thermophysical Diversity in Asteroid Families via Spin-Orbit V-Shape Morphology &rArr; [pdf](https://users.flatironinstitute.org/~fvillaescusa/Denario/Planetary_science/Asteroids/Iteration2/Project1/paper/paper_v2.pdf) | [files](https://users.flatironinstitute.org/~fvillaescusa/Denario/Planetary_science/Asteroids/Iteration2/Project1/)
+
+- Quantifying Yarkovsky-Driven Orbital Dispersion Gradients and Proxy Efficacy in Asteroid Families &rArr; [pdf](https://users.flatironinstitute.org/~fvillaescusa/Denario/Planetary_science/Asteroids/Iteration2/Project2/paper/paper_v2.pdf) | [files](https://users.flatironinstitute.org/~fvillaescusa/Denario/Planetary_science/Asteroids/Iteration2/Project2/)
+
+- Spin-Orbit V-Shapes in Asteroid Families: Empirical Constraints for Yarkovsky-YORP Evolution &rArr; [pdf](https://users.flatironinstitute.org/~fvillaescusa/Denario/Planetary_science/Asteroids/Iteration2/Project3/paper/paper_v2.pdf) | [files](https://users.flatironinstitute.org/~fvillaescusa/Denario/Planetary_science/Asteroids/Iteration2/Project3/)
+
+- Quantifying Spin-Dependent Yarkovsky Drift: Empirical Evidence from Asteroid Family V-Shapes &rArr; [pdf](https://users.flatironinstitute.org/~fvillaescusa/Denario/Planetary_science/Asteroids/Iteration2/Project4/paper/paper_v2.pdf) | [files](https://users.flatironinstitute.org/~fvillaescusa/Denario/Planetary_science/Asteroids/Iteration2/Project4/)
+
+
+- Unraveling Asteroid Family Evolution: Deconstructing Yarkovsky V-Shapes through Comparative Analysis with YORP-Evolved Distributions &rArr; [pdf](https://users.flatironinstitute.org/~fvillaescusa/Denario/Planetary_science/Asteroids/Iteration3/Project1/paper/paper_v2_no_citations.pdf) | [files](https://users.flatironinstitute.org/~fvillaescusa/Denario/Planetary_science/Asteroids/Iteration3/Project1/)
+
+- Unveiling the Yarkovsky Effect: Enhanced V-Shape Clarity in Asteroid Families via a Spin-Diameter Metric &rArr; [pdf](https://users.flatironinstitute.org/~fvillaescusa/Denario/Planetary_science/Asteroids/Iteration3/Project2/paper/paper_v2_no_citations.pdf) | [files](https://users.flatironinstitute.org/~fvillaescusa/Denario/Planetary_science/Asteroids/Iteration3/Project2/)
+
+- Quantitative Morphological Fingerprints of Yarkovsky-YORP Co-evolution in Asteroid Families &rArr; [pdf](https://users.flatironinstitute.org/~fvillaescusa/Denario/Planetary_science/Asteroids/Iteration3/Project3/paper/paper_v2_no_citations.pdf) | [files](https://users.flatironinstitute.org/~fvillaescusa/Denario/Planetary_science/Asteroids/Iteration3/Project3/)
 
 
 
