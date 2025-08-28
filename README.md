@@ -22,8 +22,8 @@ Here is a list of the current example articles.
 
 ### Neuroscience
 
-- [Epigenetic Aging, Regional Brain Morphology, and the Spectrum of Cognitive Decline in Long-Lived
-Egyptian Fruit Bats](https://users.flatironinstitute.org/~fvillaescusa/Denario/Neuroscience/Iteration1/Project1/paper/paper_v2_no_citations.pdf) [Files](https://users.flatironinstitute.org/~fvillaescusa/Denario/Neuroscience/Iteration1/Project1/)
+- Epigenetic Aging, Regional Brain Morphology, and the Spectrum of Cognitive Decline in Long-Lived
+Egyptian Fruit Bats [pdf](https://users.flatironinstitute.org/~fvillaescusa/Denario/Neuroscience/Iteration1/Project1/paper/paper_v2_no_citations.pdf) | [files](https://users.flatironinstitute.org/~fvillaescusa/Denario/Neuroscience/Iteration1/Project1/)
 
 ## Contributing
 
