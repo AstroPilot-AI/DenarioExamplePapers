@@ -20,6 +20,16 @@ Here is a list of the current example articles.
 
 - [Mapping Star Formation Quenching Efficiency Across Feedback and Cosmological Parameter Space with CAMELS Simulations](papers/astro/Project6/Example.pdf)
 
+### Biology
+
+- Comparative Single-Cell Transcriptomics Reveals Divergent Stage Transition Dynamics and Regulatory Strategies in Lab-Adapted and Field Isolates of **Plasmodium falciparum** &rArr; [pdf](https://users.flatironinstitute.org/~fvillaescusa/Denario/Biology/Project1/paper/paper_v2.pdf) | [files](https://users.flatironinstitute.org/~fvillaescusa/Denario/Biology/Project1/)
+
+- Divergent Transcriptional Programs and Regulatory Networks Govern Plasmodium falciparum Development in Laboratory-Adapted Strains and Field Isolates &rArr; [pdf](https://users.flatironinstitute.org/~fvillaescusa/Denario/Biology/Project2/paper/paper_v2.pdf) | [files](https://users.flatironinstitute.org/~fvillaescusa/Denario/Biology/Project2/)
+
+- Single-cell Transcriptomics Reveals Patient-Specific Heterogeneity in Transiently Expressed Regulators of Plasmodium falciparum Gametocytogenesis in Field Isolates &rArr; [pdf](https://users.flatironinstitute.org/~fvillaescusa/Denario/Biology/Project3/paper/paper_v2.pdf) | [files](https://users.flatironinstitute.org/~fvillaescusa/Denario/Biology/Project3/)
+
+- Single-Cell Analysis Reveals Profound Divergence in Transcriptional Regulatory Programs Between Laboratory and Field Isolates of Plasmodium falciparum &rArr; [pdf](https://users.flatironinstitute.org/~fvillaescusa/Denario/Biology/Project4/paper/paper_v2.pdf) | [files](https://users.flatironinstitute.org/~fvillaescusa/Denario/Biology/Project4/)
+
 ### Neuroscience
 
 - Epigenetic Aging, Regional Brain Morphology, and the Spectrum of Cognitive Decline in Long-Lived
