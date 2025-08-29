@@ -124,7 +124,23 @@ Age-Related, Sex-Related, and Origin-Specific Signatures &rArr; [pdf](https://us
 
 - Quantitative Morphological Fingerprints of Yarkovsky-YORP Co-evolution in Asteroid Families &rArr; [pdf](https://users.flatironinstitute.org/~fvillaescusa/Denario/Planetary_science/Asteroids/Iteration3/Project3/paper/paper_v2_no_citations.pdf) | [files](https://users.flatironinstitute.org/~fvillaescusa/Denario/Planetary_science/Asteroids/Iteration3/Project3/)
 
+### Physics
 
+- Mathematical Interpretation of PINN Latent Space for Burger’s Equation: Learned Dynamics and Geometric Structure &rArr; [pdf](https://users.flatironinstitute.org/~fvillaescusa/Denario/Turbulence/Project_turbulence/paper/paper_v4.pdf) | [files](https://users.flatironinstitute.org/~fvillaescusa/Denario/Turbulence/Project_turbulence/)
+
+- Characterizing the Multi-Scale and Geometric Structure of PINN Latent Space via Wavelets and Ricci Scalar &rArr; [pdf](https://users.flatironinstitute.org/~fvillaescusa/Denario/Turbulence/Project_turbulence3/paper/paper_v4.pdf) | [files](https://users.flatironinstitute.org/~fvillaescusa/Denario/Turbulence/Project_turbulence3/)
+
+- Analyzing the Local Intrinsic Dimension of Physics-Informed Neural Network Latent Spaces for Burger’s Equation &rArr; [pdf](https://users.flatironinstitute.org/~fvillaescusa/Denario/Turbulence/Project_turbulence4/paper/paper_v4.pdf) | [files](https://users.flatironinstitute.org/~fvillaescusa/Denario/Turbulence/Project_turbulence4/)
+
+- Geometric Structure of PINN Latent Space for Burger’s Equation: Low-Dimensional Manifolds and Initial Condition Encoding &rArr; [pdf](https://users.flatironinstitute.org/~fvillaescusa/Denario/Turbulence/Project_turbulenceV1/paper/paper_v2.pdf) | [files](https://users.flatironinstitute.org/~fvillaescusa/Denario/Turbulence/Project_turbulenceV1/)
+
+- Viscosity-Dependent Latent Space Structure in a PINN for Burger’s Equation: Analysis via PCA and Fractal Dimension with a Renormalization Group Analogy &rArr; [pdf](https://users.flatironinstitute.org/~fvillaescusa/Denario/Turbulence/Project_turbulenceV2/paper/paper_v2.pdf) | [files](https://users.flatironinstitute.org/~fvillaescusa/Denario/Turbulence/Project_turbulenceV2/)
+
+- Intrinsic Dimensionality of PINN Latent Spaces for Burger’s Equation: Evidence for a Renormalization Group-like Flow &rArr; [pdf](https://users.flatironinstitute.org/~fvillaescusa/Denario/Turbulence/Project_turbulenceV3/paper/paper_v2.pdf) | [files](https://users.flatironinstitute.org/~fvillaescusa/Denario/Turbulence/Project_turbulenceV3/)
+
+- Quantifying the Evolution of Learned Feature Structure in PINN Latent Space for 2D Burger’s Equation via Principal Component Analysis &rArr; [pdf](https://users.flatironinstitute.org/~fvillaescusa/Denario/Turbulence/Project_turbulenceV4/paper/paper_v2.pdf) | [files](https://users.flatironinstitute.org/~fvillaescusa/Denario/Turbulence/Project_turbulenceV4/)
+
+- Renormalization Group Analysis of PINN Latent Space Structure for the 2D Burger’s Equation &rArr; [pdf](https://users.flatironinstitute.org/~fvillaescusa/Denario/Turbulence/Project_turbulenceV5/paper/paper_v4.pdf) | [files](https://users.flatironinstitute.org/~fvillaescusa/Denario/Turbulence/Project_turbulenceV5/)
 
 
 ## Contributing
