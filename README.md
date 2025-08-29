@@ -30,6 +30,10 @@ Here is a list of the current example articles.
 
 - Single-Cell Analysis Reveals Profound Divergence in Transcriptional Regulatory Programs Between Laboratory and Field Isolates of Plasmodium falciparum &rArr; [pdf](https://users.flatironinstitute.org/~fvillaescusa/Denario/Biology/Project4/paper/paper_v2.pdf) | [files](https://users.flatironinstitute.org/~fvillaescusa/Denario/Biology/Project4/)
 
+### Biophysics
+
+- Comprehensive Kinetic and Free Energy Analysis of NTL9 Folding via Systematic Collective Variable Selection and Markov State Models &rArr; [pdf](https://users.flatironinstitute.org/~fvillaescusa/Denario/Biophysics/Project10/paper/paper_v4.pdf) | [files](https://users.flatironinstitute.org/~fvillaescusa/Denario/Biophysics/Project10/)
+
 ### Neuroscience
 
 - Epigenetic Aging, Regional Brain Morphology, and the Spectrum of Cognitive Decline in Long-Lived
