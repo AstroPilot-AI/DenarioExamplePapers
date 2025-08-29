@@ -20,6 +20,45 @@ Here is a list of the current example articles.
 
 - [Mapping Star Formation Quenching Efficiency Across Feedback and Cosmological Parameter Space with CAMELS Simulations](papers/astro/Project6/Example.pdf)
 
+
+
+### Cosmology & Astrophysics
+
+- Predicting the Direction of Dark Matter Halo Concentration Evolution with Graph Neural Networks and Contrastive Learning &rArr; [pdf](https://users.flatironinstitute.org/~fvillaescusa/Denario/Astrophysics/merger_trees/Project4/paper/paper_v4_final.pdf) | [files](https://users.flatironinstitute.org/~fvillaescusa/Denario/Astrophysics/merger_trees/Project4)
+
+- Predicting Halo Mass Function Proxies from Merger Tree Distributions using a Hybrid GNN and Gaussian Mixture Model &rArr; [pdf](https://users.flatironinstitute.org/~fvillaescusa/Denario/Astrophysics/merger_trees/Project10/paper/paper_v2.pdf) | [files](https://users.flatironinstitute.org/~fvillaescusa/Denario/Astrophysics/merger_trees/Project10)
+
+- Predicting Halo Assembly Bias from Merger Trees using Graph Neural Networks with Formation
+Time Regularization &rArr; [pdf](https://users.flatironinstitute.org/~fvillaescusa/Denario/Astrophysics/merger_trees/Project11/paper/paper_v4.pdf) | [files](https://users.flatironinstitute.org/~fvillaescusa/Denario/Astrophysics/merger_trees/Project11)
+
+- Hierarchical Contrastive Graph Representation Learning for Cosmological Merger Trees and Parameter Inference &rArr; [pdf](https://users.flatironinstitute.org/~fvillaescusa/Denario/Astrophysics/merger_trees/Project24/paper/paper_v4.pdf) | [files](https://users.flatironinstitute.org/~fvillaescusa/Denario/Astrophysics/merger_trees/Project24)
+
+- Contrastive Learning of Merger Tree Embeddings for Likelihood-Free Cosmological Inference &rArr; [pdf](https://users.flatironinstitute.org/~fvillaescusa/Denario/Astrophysics/merger_trees/Project26/paper/paper_v4.pdf) | [files](https://users.flatironinstitute.org/~fvillaescusa/Denario/Astrophysics/merger_trees/Project26)
+
+- Quantifying and Attributing Waveform Model-Dependent Systematics in GW231123: A Multi-Scale Posterior Analysis &rArr; [pdf](https://users.flatironinstitute.org/~fvillaescusa/Denario/Astrophysics/GW/Project1/paper/paper_v2_no_citations.pdf) | [files](https://users.flatironinstitute.org/~fvillaescusa/Denario/Astrophysics/GW/Project1)
+
+- Attributing Waveform Model Discrepancies in GW231123: A Feature-Based Diagnostic and Robust Astrophysical Inference &rArr; [pdf](https://users.flatironinstitute.org/~fvillaescusa/Denario/Astrophysics/GW/Project2/paper/paper_v2_no_citations.pdf) | [files](https://users.flatironinstitute.org/~fvillaescusa/Denario/Astrophysics/GW/Project2)
+
+- Dissecting Multi-Model Posterior Landscapes of GW231123: Unveiling Intrinsic Degeneracies via Mode-Finding and Shared Manifold Analysis &rArr; [pdf](https://users.flatironinstitute.org/~fvillaescusa/Denario/Astrophysics/GW/Project3/paper/paper_v2_no_citations.pdf) | [files](https://users.flatironinstitute.org/~fvillaescusa/Denario/Astrophysics/GW/Project3)
+
+- Unveiling Structural Discrepancies: A Manifold and Information-Theoretic Comparison of Gravitational Waveform Posteriors for GW231123 &rArr; [pdf](https://users.flatironinstitute.org/~fvillaescusa/Denario/Astrophysics/GW/Project4/paper/paper_v2_no_citations.pdf) | [files](https://users.flatironinstitute.org/~fvillaescusa/Denario/Astrophysics/GW/Project4)
+
+- Physics-Informed Discrepancy Decomposition and Robust Astrophysical Inference for GW231123 &rArr; [pdf](https://users.flatironinstitute.org/~fvillaescusa/Denario/Astrophysics/GW/Project5/paper/paper_v4_final.pdf) | [files](https://users.flatironinstitute.org/~fvillaescusa/Denario/Astrophysics/GW/Project5)
+
+- Spatio-Topological and Multi-Physics Analysis of Instantaneous Mass Ejection and its Statistical Properties in a Red Supergiant Binary &rArr; [pdf](https://users.flatironinstitute.org/~fvillaescusa/Denario/Astrophysics/Yan-Fei/Project1/paper/paper_v2.pdf) | [files](https://users.flatironinstitute.org/~fvillaescusa/Denario/Astrophysics/Yan-Fei/Project1)
+
+- Unveiling the Inhomogeneous 3D Mass Transfer Stream in a Red Supergiant Binary: From Convective Driving to Clumpy Outflows &rArr; [pdf](https://users.flatironinstitute.org/~fvillaescusa/Denario/Astrophysics/Yan-Fei/Project2/paper/paper_v2.pdf) | [files](https://users.flatironinstitute.org/~fvillaescusa/Denario/Astrophysics/Yan-Fei/Project2)
+
+- Convection, Radiation, and the Instantaneous Mass Transfer in Red Supergiant Binaries: A 3D Simulation Analysis&rArr; [pdf](https://users.flatironinstitute.org/~fvillaescusa/Denario/Astrophysics/Yan-Fei/Project3_fixed/paper/paper_v2.pdf) | [files](https://users.flatironinstitute.org/~fvillaescusa/Denario/Astrophysics/Yan-Fei/Project3_fixed)
+
+- The Turbulent Architecture and Convective Drivers of Mass Transfer in a Red Supergiant Binary &rArr; [pdf](https://users.flatironinstitute.org/~fvillaescusa/Denario/Astrophysics/Yan-Fei/Project4/paper/paper_v2.pdf) | [files](https://users.flatironinstitute.org/~fvillaescusa/Denario/Astrophysics/Yan-Fei/Project4)
+
+- The Instantaneous Convective-Radiative Fingerprint on Mass Ejection in a Red Supergiant Binary: A 3D Morphological and Statistical Analysis&rArr; [pdf](https://users.flatironinstitute.org/~fvillaescusa/Denario/Astrophysics/Yan-Fei/Project5/paper/paper_v2.pdf) | [files](https://users.flatironinstitute.org/~fvillaescusa/Denario/Astrophysics/Yan-Fei/Project5)
+
+
+
+
+
 ### Biology
 
 - Comparative Single-Cell Transcriptomics Reveals Divergent Stage Transition Dynamics and Regulatory Strategies in Lab-Adapted and Field Isolates of **Plasmodium falciparum** &rArr; [pdf](https://users.flatironinstitute.org/~fvillaescusa/Denario/Biology/Project1/paper/paper_v2.pdf) | [files](https://users.flatironinstitute.org/~fvillaescusa/Denario/Biology/Project1/)
