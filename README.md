@@ -142,6 +142,22 @@ Age-Related, Sex-Related, and Origin-Specific Signatures &rArr; [pdf](https://us
 
 - Renormalization Group Analysis of PINN Latent Space Structure for the 2D Burger’s Equation &rArr; [pdf](https://users.flatironinstitute.org/~fvillaescusa/Denario/Turbulence/Project_turbulenceV5/paper/paper_v4.pdf) | [files](https://users.flatironinstitute.org/~fvillaescusa/Denario/Turbulence/Project_turbulenceV5/)
 
+### Quantum physics + Cosmology
+
+- QITT-Enhanced Multi-Scale Substructure Analysis with Learned Topological Embeddings for Cosmological Parameter Estimation &rArr; [pdf](https://users.flatironinstitute.org/~fvillaescusa/Denario/Quantum+Cosmology/Project1/paper/paper_v4_final.pdf) | [files](https://users.flatironinstitute.org/~fvillaescusa/Denario/Quantum+Cosmology/Project1/)
+
+- Parameterized Manifold Learning and Sparse Tensor Train Regression for Cosmological Parameter Inference from Merger Trees &rArr; [pdf](https://users.flatironinstitute.org/~fvillaescusa/Denario/Quantum+Cosmology/Project2/paper/paper_v4_final.pdf) | [files](https://users.flatironinstitute.org/~fvillaescusa/Denario/Quantum+Cosmology/Project2/)
+
+- Cosmological Parameter Inference from Merger Trees Using Hierarchical Quantum Tensor Networks &rArr; [pdf](https://users.flatironinstitute.org/~fvillaescusa/Denario/Quantum+Cosmology/Project3/paper/paper_v4_final.pdf) | [files](https://users.flatironinstitute.org/~fvillaescusa/Denario/Quantum+Cosmology/Project3/)
+
+- QTT-Based Compression of Merger Tree Trajectories for Assembly Bias Studies: A Proof-of-Concept with Dummy Implementation &rArr; [pdf](https://users.flatironinstitute.org/~fvillaescusa/Denario/Quantum+Cosmology/Project8/paper/paper_v4.pdf) | [files](https://users.flatironinstitute.org/~fvillaescusa/Denario/Quantum+Cosmology/Project8/)
+
+- Cosmological Parameter Inference from Filtered Merger Tree Motifs via Quantum Tensor Train Decomposition &rArr; [pdf](https://users.flatironinstitute.org/~fvillaescusa/Denario/Quantum+Cosmology/Project20/paper/paper_v2.pdf) | [files](https://users.flatironinstitute.org/~fvillaescusa/Denario/Quantum+Cosmology/Project20/)
+
+
+
+
+
 
 ## Contributing
 
