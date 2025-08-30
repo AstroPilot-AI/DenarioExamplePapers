@@ -37,7 +37,7 @@ Time Regularization &rArr; [pdf](https://users.flatironinstitute.org/~fvillaescu
 
 - Quantifying and Attributing Waveform Model-Dependent Systematics in GW231123: A Multi-Scale Posterior Analysis &rArr; [pdf](https://users.flatironinstitute.org/~fvillaescusa/Denario/Astrophysics/GW/Iteration2/Project1/paper/paper_v2_no_citations.pdf) | [files](https://users.flatironinstitute.org/~fvillaescusa/Denario/Astrophysics/GW/Iteration2/Project1)
 
-- Attributing Waveform Model Discrepancies in GW231123: A Feature-Based Diagnostic and Robust Astrophysical Inference &rArr; [pdf](https://users.flatironinstitute.org/~fvillaescusa/Denario/Astrophysics/GW/Ieration2/Project2/paper/paper_v2_no_citations.pdf) | [files](https://users.flatironinstitute.org/~fvillaescusa/Denario/Astrophysics/GW/Iteration2/Project2)
+- Attributing Waveform Model Discrepancies in GW231123: A Feature-Based Diagnostic and Robust Astrophysical Inference &rArr; [pdf](https://users.flatironinstitute.org/~fvillaescusa/Denario/Astrophysics/GW/Iteration2/Project2/paper/paper_v2_no_citations.pdf) | [files](https://users.flatironinstitute.org/~fvillaescusa/Denario/Astrophysics/GW/Iteration2/Project2)
 
 - Dissecting Multi-Model Posterior Landscapes of GW231123: Unveiling Intrinsic Degeneracies via Mode-Finding and Shared Manifold Analysis &rArr; [pdf](https://users.flatironinstitute.org/~fvillaescusa/Denario/Astrophysics/GW/Iteration2/Project3/paper/paper_v2_no_citations.pdf) | [files](https://users.flatironinstitute.org/~fvillaescusa/Denario/Astrophysics/GW/Iteration2/Project3)
 
