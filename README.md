@@ -16,8 +16,6 @@ Here is a list of the current example articles.
 
 - [Regime-Specific Performance of 1D CNN and FCNN Architectures for Non-linear Matter Power Spectrum Emulation in ΛCDM Cosmology](papers/astro/Project4/Example.pdf)
 
-- [Mapping the Diversity of the Black Hole-Stellar Mass Relation Across Cosmological and Feedback Parameter Space](papers/astro/Project5/Example.pdf)
-
 - [Mapping Star Formation Quenching Efficiency Across Feedback and Cosmological Parameter Space with CAMELS Simulations](papers/astro/Project6/Example.pdf)
 
 
@@ -49,11 +47,13 @@ Time Regularization &rArr; [pdf](https://users.flatironinstitute.org/~fvillaescu
 
 - Unveiling the Inhomogeneous 3D Mass Transfer Stream in a Red Supergiant Binary: From Convective Driving to Clumpy Outflows &rArr; [pdf](https://users.flatironinstitute.org/~fvillaescusa/Denario/Astrophysics/Yan-Fei/Iteration1/Project2/paper/paper_v2.pdf) | [files](https://users.flatironinstitute.org/~fvillaescusa/Denario/Astrophysics/Yan-Fei/Iteration1/Project2)
 
-- Convection, Radiation, and the Instantaneous Mass Transfer in Red Supergiant Binaries: A 3D Simulation Analysis&rArr; [pdf](https://users.flatironinstitute.org/~fvillaescusa/Denario/Astrophysics/Yan-Fei/Iteration1/Project3_fixed/paper/paper_v2.pdf) | [files](https://users.flatironinstitute.org/~fvillaescusa/Denario/Astrophysics/Yan-Fei/Iteration1/Project3_fixed)
+- Convection, Radiation, and the Instantaneous Mass Transfer in Red Supergiant Binaries: A 3D Simulation Analysis &rArr; [pdf](https://users.flatironinstitute.org/~fvillaescusa/Denario/Astrophysics/Yan-Fei/Iteration1/Project3_fixed/paper/paper_v2.pdf) | [files](https://users.flatironinstitute.org/~fvillaescusa/Denario/Astrophysics/Yan-Fei/Iteration1/Project3_fixed)
 
 - The Turbulent Architecture and Convective Drivers of Mass Transfer in a Red Supergiant Binary &rArr; [pdf](https://users.flatironinstitute.org/~fvillaescusa/Denario/Astrophysics/Yan-Fei/Iteration1/Project4/paper/paper_v2.pdf) | [files](https://users.flatironinstitute.org/~fvillaescusa/Denario/Astrophysics/Yan-Fei/Iteration1/Project4)
 
-- The Instantaneous Convective-Radiative Fingerprint on Mass Ejection in a Red Supergiant Binary: A 3D Morphological and Statistical Analysis&rArr; [pdf](https://users.flatironinstitute.org/~fvillaescusa/Denario/Astrophysics/Yan-Fei/Iteration1/Project5/paper/paper_v2.pdf) | [files](https://users.flatironinstitute.org/~fvillaescusa/Denario/Astrophysics/Yan-Fei/Iteration1/Project5)
+- The Instantaneous Convective-Radiative Fingerprint on Mass Ejection in a Red Supergiant Binary: A 3D Morphological and Statistical Analysis &rArr; [pdf](https://users.flatironinstitute.org/~fvillaescusa/Denario/Astrophysics/Yan-Fei/Iteration1/Project5/paper/paper_v2.pdf) | [files](https://users.flatironinstitute.org/~fvillaescusa/Denario/Astrophysics/Yan-Fei/Iteration1/Project5)
+
+- Mapping the Diversity of the Black Hole-Stellar Mass Relation Across Cosmological and Feedback Parameter Space &rArr; [pdf](https://users.flatironinstitute.org/~fvillaescusa/Denario/Astrophysics/CAMELS/Project5/Example4.pdf) | [files](https://users.flatironinstitute.org/~fvillaescusa/Denario/Astrophysics/CAMELS/Project5/)
 
 
 
