@@ -55,6 +55,7 @@ Time Regularization &rArr; [pdf](https://users.flatironinstitute.org/~fvillaescu
 
 - Mapping the Diversity of the Black Hole-Stellar Mass Relation Across Cosmological and Feedback Parameter Space &rArr; [pdf](https://users.flatironinstitute.org/~fvillaescusa/Denario/Astrophysics/CAMELS/Project5/Example4.pdf) | [files](https://users.flatironinstitute.org/~fvillaescusa/Denario/Astrophysics/CAMELS/Project5/)
 
+- Regime-Specific Performance of 1D CNN and FCNN Architectures for Non-linear Matter Power Spectrum Emulation in ΛCDM Cosmology &rArr; [pdf](https://users.flatironinstitute.org/~fvillaescusa/Denario/Astrophysics/Pk_emulation/Project4/Example.pdf) | [files](https://users.flatironinstitute.org/~fvillaescusa/Denario/Astrophysics/Pk_emulation/Project4)
 
 
 
@@ -192,6 +193,8 @@ Age-Related, Sex-Related, and Origin-Specific Signatures &rArr; [pdf](https://us
 - QTT-Based Compression of Merger Tree Trajectories for Assembly Bias Studies: A Proof-of-Concept with Dummy Implementation &rArr; [pdf](https://users.flatironinstitute.org/~fvillaescusa/Denario/Quantum+Cosmology/Project8/paper/paper_v4.pdf) | [files](https://users.flatironinstitute.org/~fvillaescusa/Denario/Quantum+Cosmology/Project8/)
 
 - Cosmological Parameter Inference from Filtered Merger Tree Motifs via Quantum Tensor Train Decomposition &rArr; [pdf](https://users.flatironinstitute.org/~fvillaescusa/Denario/Quantum+Cosmology/Project20/paper/paper_v2.pdf) | [files](https://users.flatironinstitute.org/~fvillaescusa/Denario/Quantum+Cosmology/Project20/)
+
+- QTT-Informed Subgraph Feature Engineering for Merger Tree Regression: A Proof-of-Concept &rArr; [pdf](https://users.flatironinstitute.org/~fvillaescusa/Denario/Quantum+Cosmology/Project9/paper/paper_v4.pdf) | [files](https://users.flatironinstitute.org/~fvillaescusa/Denario/Quantum+Cosmology/Project9/)
 
 
 
