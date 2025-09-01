@@ -61,6 +61,27 @@ Time Regularization &rArr; [pdf](https://users.flatironinstitute.org/~fvillaescu
 
 - Comprehensive Kinetic and Free Energy Analysis of NTL9 Folding via Systematic Collective Variable Selection and Markov State Models &rArr; [pdf](https://users.flatironinstitute.org/~fvillaescusa/Denario/Biophysics/Project10/paper/paper_v4.pdf) | [files](https://users.flatironinstitute.org/~fvillaescusa/Denario/Biophysics/Project10/)
 
+### Biomedical informatics
+
+- Challenges in Learning Universal Gait Fingerprints: Evaluating Adversarial Invariance and Demographic Bias for Wearable Step Counting &rArr; [pdf](https://users.flatironinstitute.org/~fvillaescusa/Denario/Biomedical/Iteration0/Project1/paper/paper_v2.pdf) | [files](https://users.flatironinstitute.org/~fvillaescusa/Denario/Biomedical/Iteration0/Project1)
+
+- Quantifying the Robustness of Accelerometer-Derived Gait Features for Step Counting Across Sensor Locations and Sampling Frequencies &rArr; [pdf](https://users.flatironinstitute.org/~fvillaescusa/Denario/Biomedical/Iteration0/Project2/paper/paper_v4.pdf) | [files](https://users.flatironinstitute.org/~fvillaescusa/Denario/Biomedical/Iteration0/Project2)
+
+- An Investigation into Deep Generative Reconstruction for Low-Frequency Step Counting: Unveiling Data Integrity and Workflow Challenges &rArr; [pdf](https://users.flatironinstitute.org/~fvillaescusa/Denario/Biomedical/Iteration0/Project3/paper/paper_v2.pdf) | [files](https://users.flatironinstitute.org/~fvillaescusa/Denario/Biomedical/Iteration0/Project3)
+
+- Quantifying and Characterizing Step Counting Uncertainty in Wearable Accelerometer Data &rArr; [pdf](https://users.flatironinstitute.org/~fvillaescusa/Denario/Biomedical/Iteration1/Project1/paper/paper_v4.pdf) | [files](https://users.flatironinstitute.org/~fvillaescusa/Denario/Biomedical/Iteration1/Project1)
+
+- Self-Supervised Feature Learning for Robust and Interpretable Step Event Detection in
+Multi-Fidelity Wearable Data &rArr; [pdf](https://users.flatironinstitute.org/~fvillaescusa/Denario/Biomedical/Iteration1/Project2/paper/paper_v4.pdf) | [files](https://users.flatironinstitute.org/~fvillaescusa/Denario/Biomedical/Iteration1/Project2)
+
+- Cross-Configuration Transfer Learning Framework for Robust Step Counting in Free-Living Conditions &rArr; [pdf](https://users.flatironinstitute.org/~fvillaescusa/Denario/Biomedical/Iteration1/Project5/paper/paper_v4.pdf) | [files](https://users.flatironinstitute.org/~fvillaescusa/Denario/Biomedical/Iteration1/Project5)
+
+- Wearable Step Counting: A Comparative Analysis of Deep Learning and Traditional Methods Highlighting Data Imbalance Challenges &rArr; [pdf](https://users.flatironinstitute.org/~fvillaescusa/Denario/Biomedical/Iteration1/Project7/paper/paper_v4.pdf) | [files](https://users.flatironinstitute.org/~fvillaescusa/Denario/Biomedical/Iteration1/Project7)
+
+
+
+
+
 ### Neuroscience
 
 - Epigenetic Aging, Regional Brain Morphology, and the Spectrum of Cognitive Decline in Long-Lived
