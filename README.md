@@ -78,14 +78,21 @@ Multi-Fidelity Wearable Data &rArr; [pdf](https://users.flatironinstitute.org/~f
 
 - Wearable Step Counting: A Comparative Analysis of Deep Learning and Traditional Methods Highlighting Data Imbalance Challenges &rArr; [pdf](https://users.flatironinstitute.org/~fvillaescusa/Denario/Biomedical/Iteration1/Project7/paper/paper_v4.pdf) | [files](https://users.flatironinstitute.org/~fvillaescusa/Denario/Biomedical/Iteration1/Project7)
 
+### Chemistry
 
+- Dynamic Multiscale Graph Analysis Reveals Structural Signatures of Peptide Aggregate Stability and Splitting &rArr; [pdf](https://users.flatironinstitute.org/~fvillaescusa/Denario/Chemistry/Iteration2/Project_chemist3/paper/paper_v4.pdf) | [files](https://users.flatironinstitute.org/~fvillaescusa/Denario/Chemistry/Iteration2/Project_chemist3)
+
+- Dynamic Weighted Peptide Network Analysis for Characterizing and Predicting Aggregate Stability &rArr; [pdf](https://users.flatironinstitute.org/~fvillaescusa/Denario/Chemistry/Iteration2/Project_chemist4/paper/paper_v4.pdf) | [files](https://users.flatironinstitute.org/~fvillaescusa/Denario/Chemistry/Iteration2/Project_chemist4)
+
+- Dynamic, Weighted, Hierarchical Graph Analysis for Predicting Peptide Aggregate Instability and Identifying Molecular Determinants &rArr; [pdf](https://users.flatironinstitute.org/~fvillaescusa/Denario/Chemistry/Iteration2/Project_chemist5/paper/paper_v4.pdf) | [files](https://users.flatironinstitute.org/~fvillaescusa/Denario/Chemistry/Iteration2/Project_chemist5)
+
+- Linking Residue-Level Network Dynamics to Peptide Aggregate Stability: A Hierarchical Spectral Graph Analysis of KYFIL Self-Assembly &rArr; [pdf](https://users.flatironinstitute.org/~fvillaescusa/Denario/Chemistry/Iteration2/Project_chemist6/paper/paper_v4.pdf) | [files](https://users.flatironinstitute.org/~fvillaescusa/Denario/Chemistry/Iteration2/Project_chemist6)
 
 
 
 ### Neuroscience
 
-- Epigenetic Aging, Regional Brain Morphology, and the Spectrum of Cognitive Decline in Long-Lived
-Egyptian Fruit Bats &rArr; [pdf](https://users.flatironinstitute.org/~fvillaescusa/Denario/Neuroscience/Iteration1/Project1/paper/paper_v2_no_citations.pdf) | [files](https://users.flatironinstitute.org/~fvillaescusa/Denario/Neuroscience/Iteration1/Project1/)
+- Epigenetic Aging, Regional Brain Morphology, and the Spectrum of Cognitive Decline in Long-Lived Egyptian Fruit Bats &rArr; [pdf](https://users.flatironinstitute.org/~fvillaescusa/Denario/Neuroscience/Iteration1/Project1/paper/paper_v2_no_citations.pdf) | [files](https://users.flatironinstitute.org/~fvillaescusa/Denario/Neuroscience/Iteration1/Project1/)
 
 - Unraveling Brain Structural Correlates of Cognitive Aging and Resilience in Long-Lived Bats: An
 Integrated Study of Epigenetic Age and Spatial Memory &rArr; [pdf](https://users.flatironinstitute.org/~fvillaescusa/Denario/Neuroscience/Iteration1/Project2/paper/paper_v2_no_citations.pdf) | [files](https://users.flatironinstitute.org/~fvillaescusa/Denario/Neuroscience/Iteration1/Project2/)
