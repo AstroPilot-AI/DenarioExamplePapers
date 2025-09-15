@@ -183,6 +183,8 @@ Age-Related, Sex-Related, and Origin-Specific Signatures &rArr; [pdf](https://us
 
 - Quantitative Morphological Fingerprints of Yarkovsky-YORP Co-evolution in Asteroid Families &rArr; [pdf](https://users.flatironinstitute.org/~fvillaescusa/Denario/Planetary_science/Asteroids/Iteration3/Project3/paper/paper_v2_no_citations.pdf) | [files](https://users.flatironinstitute.org/~fvillaescusa/Denario/Planetary_science/Asteroids/Iteration3/Project3/)
 
+- Yarkovsky Drift Fidelity: Unveiling Dynamical Boundaries in Asteroid Family Dispersal and Implications for Spin Evolution &rArr; [pdf](https://users.flatironinstitute.org/~fvillaescusa/Denario/Planetary_science/Asteroids/Iteration6/Project2/paper/paper_v2_no_citations.pdf) | [files](https://users.flatironinstitute.org/~fvillaescusa/Denario/Planetary_science/Asteroids/Iteration6/Project2/)
+
 ### Physics
 
 - Mathematical Interpretation of PINN Latent Space for Burger’s Equation: Learned Dynamics and Geometric Structure &rArr; [pdf](https://users.flatironinstitute.org/~fvillaescusa/Denario/Turbulence/Project_turbulence/paper/paper_v4.pdf) | [files](https://users.flatironinstitute.org/~fvillaescusa/Denario/Turbulence/Project_turbulence/)
