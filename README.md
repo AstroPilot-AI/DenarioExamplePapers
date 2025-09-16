@@ -217,6 +217,10 @@ Age-Related, Sex-Related, and Origin-Specific Signatures &rArr; [pdf](https://us
 
 - QTT-Informed Subgraph Feature Engineering for Merger Tree Regression: A Proof-of-Concept &rArr; [pdf](https://users.flatironinstitute.org/~fvillaescusa/Denario/Quantum+Cosmology/Project9/paper/paper_v4.pdf) | [files](https://users.flatironinstitute.org/~fvillaescusa/Denario/Quantum+Cosmology/Project9/)
 
+### Material science
+
+- Mapping Interfacial Water States on Functionalized Graphene: A Machine Learning-Augmented Approach to Uncover Design Principles for Tunable Water &rArr; [pdf](https://users.flatironinstitute.org/~fvillaescusa/Denario/Material_science/Iteration1/Project1/paper/paper_v4_final.pdf) | [files](https://users.flatironinstitute.org/~fvillaescusa/Denario/Material_science/Iteration1/Project1/)
+
 
 ## Downloading 
 
